@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projekte on Freiraum</title>
+    <link>/categories/projekte/</link>
+    <description>Recent content in Projekte on Freiraum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>2018</copyright>
+    <lastBuildDate>Thu, 13 Apr 2017 00:00:00 +0000</lastBuildDate><atom:link href="/categories/projekte/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Forced perspective</title>
+      <link>/post/post_2017-04-13/</link>
+      <pubDate>Thu, 13 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2017-04-13/</guid>
+      <description>Im Treppenhaus vom Büchsenstadl findet man neben dem Graffiti jetzt auch ein Freiraum-Motiv. Der Bezugspunkt ist hier die erste Treppenstufe - aus diesem Blickwinkel heraus sieht das Bild perspektivisch korrekt aus.
+Forced perspective Motive kann man entweder durch Projektion mit Hilfe eines Beamers oder durch Abfotografieren eines Target-Musters und anschließender Verzerrung des Motivs erzeugen. Hier wurde die zweite Variante angewandt, das Motiv wurde mit Inkscape erstellt und danach entsprechend verzerrt. Hilfreich war dabei die multi-bool-extension von Inkscape.</description>
+    </item>
+    
+    <item>
+      <title>Logo und Sticker</title>
+      <link>/post/post_2017-03-25/</link>
+      <pubDate>Sat, 25 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2017-03-25/</guid>
+      <description>Wir haben uns ein neues Logo gebastelt (Robot-Graphik von the noun project), das alte war eh geklaut. Wie es sich für einen guten Hackerspace gehört, haben wir natürlich auch gleich Sticker gedruckt. Vom Roboter gibt es 250 Sticker, von dem reinen Text 1000. Ihr werdet bestimmt einige davon in Ulm entdecken.
+Das Farbschema lehnt sich an die 80er und 90er an - mir fällt gerade auf, dass wir da garnicht so weit von Vaporwave entfernt sind.</description>
+    </item>
+    
+    <item>
+      <title>Prusa i3 Hephestos</title>
+      <link>/post/post_2016-03-14/</link>
+      <pubDate>Mon, 14 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2016-03-14/</guid>
+      <description>We are building our new 3D printer. Soon we can print cases and custom parts for other projects (like SatNOGS).</description>
+    </item>
+    
+    <item>
+      <title>Group meeting for Creative Writing</title>
+      <link>/post/post_2014-10-28/</link>
+      <pubDate>Tue, 28 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2014-10-28/</guid>
+      <description>A group of people who meet every week to write together and provide mutual support and feedback chose the Freiraum as their prefered location.
+The meeting time is 15:30 each Saturday. The last Saturday each month will be for feedback/critique.</description>
+    </item>
+    
+    <item>
+      <title>Hackerspace Night and Stratospheric Balloon Project</title>
+      <link>/post/post_2014-10-05/</link>
+      <pubDate>Sun, 05 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2014-10-05/</guid>
+      <description>The Hackerspace Night on Thursday 9th of October starts around 8pm.
+There is a meeting of the Stratospheric Balloon Project starting around 9 pm. The idea of the project is to send a balloon with some measuring instruments to the Stratosphere. The project has a wiki page.
+Welcome to the Hackerspace Night!</description>
+    </item>
+    
+    <item>
+      <title>Weather Balloon Project Meeting</title>
+      <link>/post/post_2014-10-02/</link>
+      <pubDate>Thu, 02 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2014-10-02/</guid>
+      <description>There are some people of the Hackerspace Ulm that are interested in sending a weather balloon with some measuring and communication instruments. On Thursday 2nd of October we will get together and start to plan the project. New people are more than welcome to join us. We will start the discussion around 9 pm.
+The next meeting will be in one week on Thursday 9th of October at 9pm. If you can´t come for the first meeting you are welcome to the second one.</description>
+    </item>
+    
+    <item>
+      <title>Wohlfeil</title>
+      <link>/post/post_2012-04-20/</link>
+      <pubDate>Fri, 20 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2012-04-20/</guid>
+      <description>Wohlfeil Flyer
+Was sich im November letzten Jahres als Spielwiese von Tüftlern im Bereich audiovisueller Experimente in den Röhren des Sauschdall &amp;amp; CAT Raum geschaffen hat könnte sich zu einer Reihe entwickeln. Erst einmal wird fortgesetzt: WOHLFEIL.
+Im Freiraum entwickeln sich seit Wochen die Ideen, deren Umsetzung am 20.4. in den Gemäuern oberhalb der Hochschule zu elektronischen Sounds präsentiert werden. Auf zwei Floors schwirren lichterne Objekte aus dem virtuellen Raum, bewegen sich im Keller zu Benchmarks &amp;amp; Pendulols in Sphären treibendem Drum&amp;rsquo;n&amp;rsquo;Bass/DrumFunk-Gedonner, oder zappeln auf der Eingangsebene in den technoiden Netzen, die tdPaperstreet &amp;amp; die lärmLust aus indiTronics, E.</description>
+    </item>
+    
+  </channel>
+</rss>

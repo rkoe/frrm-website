@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CPU on Freiraum</title>
+    <link>/categories/cpu/</link>
+    <description>Recent content in CPU on Freiraum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>2018</copyright>
+    <lastBuildDate>Fri, 05 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="/categories/cpu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chaos Party Ulm: Vortragsvideos</title>
+      <link>/post/post_2019-07-05/</link>
+      <pubDate>Fri, 05 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2019-07-05/</guid>
+      <description>Auf media.ccc.de/c/cpu19 finden sich inzwischen die Vortragsvideos der #CPU-19.
+Update:
+Hier noch ein paar Bilder von der #CPU19, Danke auch nochmal an das synthikat für die gute Musik!</description>
+    </item>
+    
+  </channel>
+</rss>

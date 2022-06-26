@@ -1,0 +1,1176 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Freiraum</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Freiraum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>2018</copyright>
+    <lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lockpicking-Gruppe</title>
+      <link>/post/post_2022-06-26/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2022-06-26/</guid>
+      <description>Wir haben die Ulmer Lockpicking-Gruppe wiederbelebt: Geplant sind nun monatliche Lockpicking-Treffen im Freiraum, voraussichtlich abwechselnd beim CCC-Montagstreffen und beim Offenen (Donnerstags-)Treffen.
+Willkommen ist jede(r), die/der sich an die SSDeV-Sportordnung hält.
+Los geht&amp;rsquo;s beim nächsten CCC-Montagstreffen (27.06. ab 20:00) mit einem Einführungs-Vortrag (Rahmenbedingungen, SSDeV, Schlösser-Überblick, Techniken usw.) und praktischem Ausprobieren danach.
+Für die weiteren Treffen sind verschiedene Schwerpunkte geplant, z.B.:
+ verschiedene Schlösser:  Zahlenschlösser / Kombinationsschlösser &amp;ldquo;normale&amp;rdquo; Stiftzylinder Scheibenschlösser (z.B. Briefkastenschlösser), Bahnenschlösser Bohrmuldenschlösser Drehscheibenzylinder Tubularschlösser Buntbartschlösser Tresorschlösser Zuhaltungsschlösser / Chubbschlösser / Schließfachschlösser &amp;ldquo;nicht-Schlösser&amp;rdquo; / Pseudo-Schlösser spezielle Schlosstypen (z.</description>
+    </item>
+    
+    <item>
+      <title>Treffen</title>
+      <link>/post/post_2022-04-19/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2022-04-19/</guid>
+      <description>Seit kurzem finden unsere Treffen wieder statt (2G + Maske), insbesondere:
+ Montag: CCC-Ulm Montagstreff Donnerstag: Offenes Treffen  Ob/wann die Treffen stattfinden, seht ihr unter Termine.
+Die Treffen sind allerdings noch etwas kleiner als früher, und es kann auch sein, dass an einem Termin mal niemand da ist. Fragt deshalb am besten vorher in unserem Matrix-Channel #freiraum nach.</description>
+    </item>
+    
+    <item>
+      <title>alive</title>
+      <link>/post/post_2021-10-17/</link>
+      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2021-10-17/</guid>
+      <description>Wir leben noch und treffen uns mit 2G + Maske Regel.</description>
+    </item>
+    
+    <item>
+      <title>systemctl suspend</title>
+      <link>/post/post_2020-10-18/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2020-10-18/</guid>
+      <description>Da wir in Ulm gerade einen höheren Inzidenzwert um die 50 haben und auch Neu-Ulm (Bayern) ziemlich strikte Regeln verhängt, schließen wir den Freiraum bis auf Weiteres für öffentliche Treffen.
+Falls ihr Fragen habt, oder mal einzeln in die Werkstatt wollt, sagt uns einfach im Matrix Channel Bescheid. Sollte sich die Situation über längere Zeit nicht entspannen, können wir uns dort über Jitsi virtuelle treffen.
+Bis bald!</description>
+    </item>
+    
+    <item>
+      <title>Jabber-Server läuft wieder</title>
+      <link>/post/post_2020-07-01/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2020-07-01/</guid>
+      <description>Unser Jabber-Server war tot. Wir haben uns leider bei prosody und certbot verscriptet, weshalb prosody nach dem SSL-Zertifikat-Update nicht mehr SSL sprechen wollte. Dies haben wir mittlerweile repariert.
+Außerdem geht unsere Status-Seite wieder: https://jabber.ulm.ccc.de/status.html
+Viel Spaß beim Quatschen!</description>
+    </item>
+    
+    <item>
+      <title>make -j10 -Werror</title>
+      <link>/post/post_2020-06-18/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2020-06-18/</guid>
+      <description>Der Freiraum hat morgen Donnerstag 25.06 wieder, wie gewohnt 20:00h, auf.
+Bitte achtet auf folgende Einschränkungen:
+  maximal 10 Personen im Freiraum mit 1.5m Abstand (d.h. max 4-5 Leute im Chillout raum)
+  desinfiziert euch bitte die Hände mit dem bereitgestellten Desinfektionsgel/Einmalhandtüchern
+  tragt euch mit Kontaktdaten in die Anwesenheitsliste ein
+  (so weit es das Wetter zulässt) kräftig lüften und die zwei 110W Ventilatoren in die geöffneten Fenster stellen</description>
+    </item>
+    
+    <item>
+      <title>make -j1</title>
+      <link>/post/post_2020-04-22/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2020-04-22/</guid>
+      <description>Da sich an der Situation grundsätzlich nichts geändert hat und wir bei den &amp;ldquo;offenen Treffen&amp;rdquo; im Schnitt 1-2h auf engem Raum zusammen sind, finden in nächster Zeit keine Gruppentreffen statt.
+Ihr könnt uns gerne im Matrix-Channel besuchen, https://element.matrix4ulm.de/#/room/#freiraum:server.matrix4ulm.de. Jani schaut sich dort z.B. gerade die unterschiedlichen Corona-Tracking Apps an.</description>
+    </item>
+    
+    <item>
+      <title>Pause</title>
+      <link>/post/post_2020-03-14/</link>
+      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2020-03-14/</guid>
+      <description>Im Rahmen der allgemeinen Empfehlungen machen wir auch erstmal bis zum 23.04. zu, diese Entscheidung ist mit Freifunk, Funkamateuren, OSM abgestimmt.
+Die Treffen bei uns finden zwar war eher im kleinen Rahmen statt, wir sind der Meinung, dass wir nicht viel verlieren wenn wir mal 2 Monate zu machen. Zumal es mit der Hygiene auch nicht so optimal aussieht (keine Einweghandtücher, kaltes Wasser). Laut aktuellem Podcast mit Drosten (https://www.ndr.de/nachrichten/info/podcast4684.html) wird das Virus eher über die Luft verbreitet, weswegen man sich nicht mit größeren Menschenmengen in kleinen Räumen aufhalten sollte.</description>
+    </item>
+    
+    <item>
+      <title>Vortragsankündigung</title>
+      <link>/post/post_2020-01-30/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2020-01-30/</guid>
+      <description>Viele von uns hätten so viel interessante Sachen zu erzählen, aber es braucht oft viel Überwindung einen Vortrag zu halten. Umso schöner ist es, dass wir in den nächsten Wochen gleich zwei Vorträge haben.
+Vorwärts-Rückwärtsglättung von Objekttrajektorien unter Nutzung von Random-Finite-Sets.
+Karotte/Lotta spricht am 06.02.2020 ab 20:00h über Glättung von Objekttrajektorien. Zur Glättung nutzt sie dazu Random-Finite-Sets, zu denen man bei Wikipedia noch keinen Eintrag findet, deshalb hier ein Abstract :</description>
+    </item>
+    
+    <item>
+      <title>Samstag geöffnet</title>
+      <link>/post/post_2019-11-21/</link>
+      <pubDate>Thu, 21 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2019-11-21/</guid>
+      <description>Wer diesen Samstag 23.11. Lust darauf hat etwas zu basteln, oder den Freiraum kennenzulernen, kann gerne zwischen 15:00 - 21:00h vorbeikommen. Ein Programm oder Thema gibts nicht, ich werde mir z.B. den Sipeed Longan Nano/Maix Bit anschauen &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Chat auf neuem Server</title>
+      <link>/post/post_2019-10-31/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2019-10-31/</guid>
+      <description>Ihr findet unseren Chat ab dem 05.11.2019 auf matrix4ulm.de:#freiraum. Der Server wird vom Freifunk Ulm betrieben, schaut ruhig mal bei #ffulm vorbei. Die Piraten Ulm findet man jetzt auf shadowmind.de:#piraten.
+An dieser Stelle nochmal ein Danke an plusgut der uns die letzten 3 Jahre auf matrix.lvl3.org gehostet hat.
+Veranstaltungshinweis (extern)
+Dave von den Piraten hat darauf hingewiesen, dass es beim nächsten Stammtisch eine Diskussion mit lokalen Vertretern von Fridays for Future und Extinction Rebellion gibt.</description>
+    </item>
+    
+    <item>
+      <title>CERN open days</title>
+      <link>/post/post_2019-09-19/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2019-09-19/</guid>
+      <description>Die Open Days fanden am Samstag und Sonntag 14./15. September 2019 statt, wir sind am Freitagabend gegen 17:30h losgefahren und kamen gegen 23:30h in Prévessin-Moëns an. Der Ort liegt im Inneren des Beschleunigerrings auf französischer Seite, hier hatten wir ein günstiges Hotel.
+Als wir ankamen gab es schon eine lange Schlange am Einlass, es war aber alles sehr entspannt und alle Besucher waren gut drauf. Nach ca. 20min hatten wir dann Zugang zum Gelände.</description>
+    </item>
+    
+    <item>
+      <title>50 Jahre Mondladung</title>
+      <link>/post/post_2019-07-20/</link>
+      <pubDate>Sat, 20 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2019-07-20/</guid>
+      <description>Durch den Peter gibts eine Überlappung zu der Astronomischen Arbeitsgruppe Ulm, die im Stadthaus heute Vorträge zur Mondlandung und den damit verbundenen Verschwörungstheorien hielt. Zusätzlich gab es einige Sonnenteleskope und Hintergründe zur Technikgeschichte der Raumfahrt zu sehen.
+Bei media.ccc.de gibts dazu auch zwei Talks: The Ultimate Apollo Guidance Computer Talk  und How to fly to the Moon .</description>
+    </item>
+    
+    <item>
+      <title>Chaos Party Ulm: Vortragsvideos</title>
+      <link>/post/post_2019-07-05/</link>
+      <pubDate>Fri, 05 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2019-07-05/</guid>
+      <description>Auf media.ccc.de/c/cpu19 finden sich inzwischen die Vortragsvideos der #CPU-19.
+Update:
+Hier noch ein paar Bilder von der #CPU19, Danke auch nochmal an das synthikat für die gute Musik!</description>
+    </item>
+    
+    <item>
+      <title>Chaos Party Ulm</title>
+      <link>/post/post_2019-06-17/</link>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2019-06-17/</guid>
+      <description>Wie schon auf Twitter, Plakaten und per Mundpropaganda angekündigt findet dieses Wochenende die #CPU-19 statt. Ihr seid alle herzlich willkommen. Die CPU beginnt Freitag 21.06. 19:00h und endet Sonntags 23.06. 14:00h.
+Falls ihr kurzentschlossen seid, könnt ihr auch spontan vorbeikommen (Eintrittspreise: Freitag 5€/ Samstag 15€/Sonntag 8€).
+Die Homepage zur #CPU strotzt leider nicht vor Informationen und die Informationen die zu finden sind, sind gut versteckt. Hier der Link zu den Talks</description>
+    </item>
+    
+    <item>
+      <title>Matrix</title>
+      <link>/post/post_2019-03-23/</link>
+      <pubDate>Sat, 23 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2019-03-23/</guid>
+      <description>Wir haben im Freiraum verschiedene Gruppen zu Gast, wie z.B. den Freifunk, die Amateurfunker oder OSM. Momentan kommuniziert jede dieser Gruppen auf eigenen Mailinglisten. Da wir als Freiraum über Carlo schon einen Matrix-Server nutzen und gute Erfahrungen damit haben, dachten wir, dass es praktisch wäre einen eigenen Matrixserver aufzusetzen und dann Channels für die verschiedenen Gruppen zu erstellen.
+Damit könnten wir alle sehen, was bei den anderen so anliegt, schnell und kurzweilig diskutieren und wir hätten für Interessierte einen zentralen Anlaufpunkt.</description>
+    </item>
+    
+    <item>
+      <title>Don&#39;t panic</title>
+      <link>/post/post_2019-02-04/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2019-02-04/</guid>
+      <description>Wir werden in den nächsten Tagen unsere Seite von Github-pages nach auf die dontpanic vom CCC-Ulm umziehen.</description>
+    </item>
+    
+    <item>
+      <title>Rückblick 2018</title>
+      <link>/post/post_2018-12-06/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2018-12-06/</guid>
+      <description>Wenn neue Leute im Freiraum vorbeikommen gibt es einen Punkt, an dem wir erklären, was wir hier überhaupt tun. Das Hauptprojekt ist die Infrastruktur im Freiraum bzw. die Entropie im Freiraum zu reduzieren. Daneben hat jedes Mitglied das eine oder andere Projekt. Hier ein paar der Projekte, die im letzten Jahr umgesetzt wurden.
+Offgrid-Box (tdotu)
+Das Projekt ist sozusagen ein etwas zu groß geratener Akkupack, der hilft einen Bioladen/Ökobauern auf dem Feld mit Strom zu versorgen.</description>
+    </item>
+    
+    <item>
+      <title>ChaosSeminar 18/12</title>
+      <link>/post/post_2018-12-05/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2018-12-05/</guid>
+      <description>Beim CCC-Ulm gibts nächsten Montag 10.12. 20:00h einen Vortrag zu Papier als Datenträger - oder wieviel MByte passen auf ein Stück Papier?
+Hier gibts noch ein paar Infos: ChaosSeminar Papier als Datentraeger
+Achtung: Der Vortrag findet an der Uni-Ulm im H20 statt (Gebäudekreuz O27 im Niveau 2/Erdgeschoss).</description>
+    </item>
+    
+    <item>
+      <title>Recent changes</title>
+      <link>/post/post_2018-11-15/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2018-11-15/</guid>
+      <description>Es wächst zusammen, was zusammen gehört. Da sich die Mitglieder im Freiraum und CCC Ulm gut kennen und viele bereits in beiden Vereinen aktiv sind, vertritt der Freiraum nun offiziell den CCC Ulm als Erfa. Damit bekommen wir mehr Rückendeckung vom Bundes-CCC bei Veranstaltungen wie der CPU. Der Freiraum ist auerßdem dem Verband offener Werkstätten beitreten, über die wir eine zusätzliche Versicherung der Werkzeuge und Räumlichkeiten bekommen.
+Durch die neue Struktur hoffen wir jetzt auch häufiger Workshops (wie z.</description>
+    </item>
+    
+    <item>
+      <title>Workshop Schlüsseldienst</title>
+      <link>/post/post_2018-10-18/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2018-10-18/</guid>
+      <description>Wenn das nächste mal die Tür hinter einem zufällt und man den Schlüssel vergessen hat, wird man sich wünschen am 01.11. 20:00h bei Rolands Schlüsseldienst-Workshop im Freiraum gewesen zu sein :)</description>
+    </item>
+    
+    <item>
+      <title>Vorträge etc.</title>
+      <link>/post/post_2018-09-13/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2018-09-13/</guid>
+      <description>Wir hatten vor unserem Umbau und der CPU18 regelmäßig Vorträge am letzen Donnerstag im Monat gehalten. Deswegen hier schon mal eine Ankündigung: Peter spricht am 25.10. über Schrittmotoren, Jani am 29.11. über SDR. Beim SDR Vortrag wollen wir ein kleines Hands-On machen (Funksteckdose, Autoschlüssel etc.)</description>
+    </item>
+    
+    <item>
+      <title>Freiraum baut um</title>
+      <link>/post/post_2018-08-09/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2018-08-09/</guid>
+      <description>Nachdem wir die letzten Jahre bedenklich viele Mehrfachsteckdosen in Reihe geschaltet haben, ist es an der Zeit Brüstungskanäle zu verlegen. Simon taufte das Projekt &amp;ldquo;unser Stuttgart21&amp;rdquo;, der Umbau wird sich wohl noch über die nächste Woche hinziehen.
+Im letzten Monat gab es außerdem noch eine Mitgliederversammlung, bei der wir beschlossen haben die CPU19 durchzuführen. Es gab eine kurze Diskussion über den Namen &amp;ldquo;Chaos Party Ulm&amp;rdquo;, da die Kritik geäußert wurde, dass eine Party nicht über drei Tage geht.</description>
+    </item>
+    
+    <item>
+      <title>Heute geschlossen</title>
+      <link>/post/post_2018-06-11/</link>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2018-06-11/</guid>
+      <description>Die #cpu18 ist vorbei und wir brauchen erstmal eine Pause, diesen Donnerstag (14.06.) gibts kein offenes Treffen. Hört doch bis dahin einfach in das DJset von @CouchSofa rein &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>#CPU18</title>
+      <link>/post/post_2018-05-10_1/</link>
+      <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2018-05-10_1/</guid>
+      <description>Vom 08.-10.6.2018 findet in der Mensa der Uni Ulm die erste Chaosparty Ulm statt. Sie ist ein kleineres Chaosevent, bei dem sich viele Technikinteressierte aus ganz Deutschland (und weiter) zusammenkommen um sich gemeinsam ein Wochenende lang in Projekte zu vertiefen und sich über alle möglichen Themen auszutauschen.
+Es wird Vorträge und Workshops vor allem zu hardwaretechnischen Themen geben und auch für Verpflegung ist durchgehend gesorgt. Du findest auf unserer Website [https://chaos-party-ulm.</description>
+    </item>
+    
+    <item>
+      <title>Heute geschlossen</title>
+      <link>/post/post_2018-05-10_2/</link>
+      <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2018-05-10_2/</guid>
+      <description>Kurze Statusmeldung: der Freiraum bleibt heute geschlossen, zu viele sind auf der GPN LOGICAL_OR betrunken.</description>
+    </item>
+    
+    <item>
+      <title>Lightning Talk Platinenlayout</title>
+      <link>/post/post_2018-04-10/</link>
+      <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2018-04-10/</guid>
+      <description>Nach seinem letzten Vortrag über Reverse-Engineering spricht Jani am Donnerstag 12.04. über Platinenlayout mit KiCad.
+Die Slides zu Reverse-Engineering findet ihr hier.</description>
+    </item>
+    
+    <item>
+      <title>OpenCola Event 2.0</title>
+      <link>/post/post_2018-04-10_2/</link>
+      <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2018-04-10_2/</guid>
+      <description>Jetzt, da die Sonne langsam wieder in den Keller scheint, werden wir wieder durstiger. Nur gut, dass im Rahmen des Chaos-Treffs am Montag 16.04. wieder OpenCola gekocht wird ;)
+Zutaten sind alle vorhanden, lediglich der Zuckersirup wird gemeinsam im großen Topf zubereitet, so dass sich anschließend jeder seine eigene Rezeptur zusammenstellen kann.</description>
+    </item>
+    
+    <item>
+      <title>Freiraum 360</title>
+      <link>/post/post_2018-03-15/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2018-03-15/</guid>
+      <description>#pano_main{ width: 600px; height: 400px; }    pannellum.viewer(&#39;pano_main&#39;, { &#34;default&#34;: { &#34;firstScene&#34;: &#34;main&#34;, }, &#34;scenes&#34;: { &#34;main&#34;: { &#34;type&#34;: &#34;equirectangular&#34;, &#34;panorama&#34;: &#34;/images/pano_main.jpg&#34;, &#34;autoLoad&#34;: true, &#34;showZoomCtrl&#34;: false, &#34;hotSpots&#34;: [ { &#34;pitch&#34;: -18.84, &#34;yaw&#34;: -60.88, &#34;type&#34;: &#34;info&#34;, &#34;text&#34;: &#34;Prusa I3 Hepheistos (WIP)&#34;, }, { &#34;pitch&#34;: -47.11, &#34;yaw&#34;: -54.06, &#34;type&#34;: &#34;info&#34;, &#34;text&#34;: &#34;Kabelsalat&#34;, }, { &#34;pitch&#34;: 0.47, &#34;yaw&#34;: -6.95, &#34;type&#34;: &#34;info&#34;, &#34;text&#34;: &#34;Prusa I3 Hepheistos (+Octoprint)&#34;, }, { &#34;pitch&#34;: -10.</description>
+    </item>
+    
+    <item>
+      <title>Lightning Talk Consciousness</title>
+      <link>/post/post_2018-03-15_2/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2018-03-15_2/</guid>
+      <description>Am Donnerstag in 14 Tagen (29.03.) spricht Ferdinand über Consciousness/das menschliche Bewußtsein. Basis des Vortrags sind die Bücher von Susan Blackmore, Daniel Denett und das Internet.
+Die Slides zum Vortrag gibts hier (englisch).</description>
+    </item>
+    
+    <item>
+      <title>Lightning Talk Fräsen</title>
+      <link>/post/post_2018-02-15/</link>
+      <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2018-02-15/</guid>
+      <description>Am kommenden Donnerstag (22.02.) stellt Peter die Fräsgrundlagen mit CNC-Fräsmaschinen vor. Hintergrund ist der Plan dieses Jahr im Freiraum eine Fräsmaschine zu bauen.</description>
+    </item>
+    
+    <item>
+      <title>Lightning Talks und Workshops</title>
+      <link>/post/post_2018-01-11/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2018-01-11/</guid>
+      <description>Wir wollen für 2018 wieder öfter Vorträge oder Workshops im Freiraum halten, dafür haben wir den letzten Donnerstag im Monat vorgesehen. Als erste Themen ist sind wieder 3D-Drucker und Reverse-Engineering vorgesehen - weitere Infos gibts dann auf Twitter.</description>
+    </item>
+    
+    <item>
+      <title>34c3</title>
+      <link>/post/post_2017-12-26/</link>
+      <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2017-12-26/</guid>
+      <description>Da viele von uns auf dem 34c3 in Leipzig sind, findet das Donnerstagstreffen diese Woche nicht statt.</description>
+    </item>
+    
+    <item>
+      <title>Ungelegte Eier</title>
+      <link>/post/post_2017-11-03/</link>
+      <pubDate>Fri, 03 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2017-11-03/</guid>
+      <description>Über ungelegte Eier spricht man nicht, trotzdem macht es Sinn etwas über unsere Pläne für die nächsten Monate zu schreiben :)
+  Unsere neueste &amp;ldquo;Anschaffung&amp;rdquo; ist der neue Nebenraum, den wir für Seminare/Vorträge und Youtube-Abende nutzen werden. Der Raum befindet sich gerade noch im Aufbau (Sofa, Beamer, Soundsystem sind schon da) und wird in Zukunft öfter genutzt werden. Sobald wir fertig eingerichtet sind, gibts an dieser Stelle ein paar Bilder.</description>
+    </item>
+    
+    <item>
+      <title>Walkthrough Büchsenstadl</title>
+      <link>/post/post_2017-09-30/</link>
+      <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2017-09-30/</guid>
+      <description>Der Freiraum ist gar nicht so einfach zu finden, deswegen gibts hier ein Walkthrough.   Die Hintergrundmusik gibts bei freemusicarchive.org/music/Visager</description>
+    </item>
+    
+    <item>
+      <title>Eristische Dialektik - Rhetorisches Quartett</title>
+      <link>/post/post_2017-09-23/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2017-09-23/</guid>
+      <description>Hail [Eris] (https://de.wikipedia.org/wiki/Eris_(Mythologie)) erstmal. Alle Mitglieder, Freunde des Diskutierens und natürlich alle Diskordier sind am 28. September im Rahmen des Offenen Treffens eingladen mit uns das Rhetorische Quartett zu spielen.</description>
+    </item>
+    
+    <item>
+      <title>Website und Travis</title>
+      <link>/post/post_2017-09-07/</link>
+      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2017-09-07/</guid>
+      <description>Wir haben das deployment mal vereinfacht, bei jedem push auf den master von github.com/frrm/freiraum-hugo baut travis-ci per hugo die seite und pusht sie auf den master von github.com/frrm/frrm.github.io. Thanks Jack!!</description>
+    </item>
+    
+    <item>
+      <title>Coding Night - Sonic Pi</title>
+      <link>/post/post_2017-08-05/</link>
+      <pubDate>Sat, 05 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2017-08-05/</guid>
+      <description>Wir heute 05.08. spontan eine Coding Night zum Thema Sonic Pi.
+Beginner: How to make a Simple Beat
+https://www.youtube.com/watch?v=41cX7CKVyG0
+Advanced: Live coding dub techno in Sonic Pi
+https://www.youtube.com/watch?v=a1RxpJkvqpY
+Pro: Sam Aaron live coding an ambient electro set   Sources:
+ Code of the Live coding dub techno example is here Algorithmic Composition Methods for Breakbeat Science Mehackit Howto  Todo:
+ Samples aufnehmen, @frdnd tascam mitbringen!  </description>
+    </item>
+    
+    <item>
+      <title>New Design Draft 1</title>
+      <link>/post/post_2017-07-17/</link>
+      <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2017-07-17/</guid>
+      <description>Nachdem wir das Logo aktualisiert haben, gibt es jetzt auch einen Relaunch der Homepage. Wir sind von Wordpress weg zu GoHugo gewechselt und erzeugen die Homepage als statische Website, den (Markdown) Sourcecode verwalten wir über Git. Das Theme ist responsive und wird auch auf dem Handy gut dargestellt.
+Das Theme wird noch aktualisiert. @Mitglieder bitte schaut euch die Seite mal an, ob das vom Prinzip her so passt.
+Todos
+ Theme  Frrm Logo einbinden Darstellung des Türstatus als Grafik (wartet auf MQTT/Crocell) Authoren anzeigen Bullet points werden falsch eingerückt Postvorschau (alles vor Read-more auf Hauptseite) wird ohne Formatierung angezeigt, fixen!</description>
+    </item>
+    
+    <item>
+      <title>Heute ist Mitgliederversammlung</title>
+      <link>/post/post_2017-06-08/</link>
+      <pubDate>Thu, 08 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2017-06-08/</guid>
+      <description>Heute ist Mitgliederversammlung des Hackerspace Ulm e.V. im Freiraum ab 20:00 Uhr.</description>
+    </item>
+    
+    <item>
+      <title>Forced perspective</title>
+      <link>/post/post_2017-04-13/</link>
+      <pubDate>Thu, 13 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2017-04-13/</guid>
+      <description>Im Treppenhaus vom Büchsenstadl findet man neben dem Graffiti jetzt auch ein Freiraum-Motiv. Der Bezugspunkt ist hier die erste Treppenstufe - aus diesem Blickwinkel heraus sieht das Bild perspektivisch korrekt aus.
+Forced perspective Motive kann man entweder durch Projektion mit Hilfe eines Beamers oder durch Abfotografieren eines Target-Musters und anschließender Verzerrung des Motivs erzeugen. Hier wurde die zweite Variante angewandt, das Motiv wurde mit Inkscape erstellt und danach entsprechend verzerrt. Hilfreich war dabei die multi-bool-extension von Inkscape.</description>
+    </item>
+    
+    <item>
+      <title>Logo und Sticker</title>
+      <link>/post/post_2017-03-25/</link>
+      <pubDate>Sat, 25 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2017-03-25/</guid>
+      <description>Wir haben uns ein neues Logo gebastelt (Robot-Graphik von the noun project), das alte war eh geklaut. Wie es sich für einen guten Hackerspace gehört, haben wir natürlich auch gleich Sticker gedruckt. Vom Roboter gibt es 250 Sticker, von dem reinen Text 1000. Ihr werdet bestimmt einige davon in Ulm entdecken.
+Das Farbschema lehnt sich an die 80er und 90er an - mir fällt gerade auf, dass wir da garnicht so weit von Vaporwave entfernt sind.</description>
+    </item>
+    
+    <item>
+      <title>Offenes Treffen zum Thema CIA Hacking Tools</title>
+      <link>/post/post_2017-03-09/</link>
+      <pubDate>Thu, 09 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2017-03-09/</guid>
+      <description>Beim Hacker-treffen am Donnerstag (9.3.2017) wird im Hackerspace Ulm (Freiraum) über CIA Hacking Tools gesprochen. Wir schauen was bisher publiziert wurde (fast 8000 Dokumente) und was vielleicht noch kommen wird.
+Wikileaks schreibt:
+“Recently, the CIA lost control of the majority of its hacking arsenal including malware, viruses, trojans, weaponized “zero day” exploits, malware remote control systems and associated documentation. This extraordinary collection, which amounts to more than several hundred million lines of code, gives its possessor the entire hacking capacity of the CIA.</description>
+    </item>
+    
+    <item>
+      <title>3D-Drucker Grundlagen</title>
+      <link>/post/post_2016-12-04/</link>
+      <pubDate>Sun, 04 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2016-12-04/</guid>
+      <description>Vor Weihnachten steht bestimmt bei einigen ein 3D-Drucker auf dem Wunschzettel. Mit dem 3D-Druck ist es möglich, eigene Ideen zu verwirklichen. Wo man früher viel Werkzeug benötigt hat um Materialien wie Holz und Alu zu bearbeiten, werden die Modelle im 3D-Druck fast ohne Nacharbeit erzeugt. Da schadet es nicht, wenn man sich vorher informieren kann wie die 3D-Drucktechnik funktioniert, was man alles dazu benötigt und auf was zu achten ist. Am Anfang kann man aus dem Internet sehr viele Modelle herunterladen, für den Drucker aufbereiten und dann drucken.</description>
+    </item>
+    
+    <item>
+      <title>Hello from Planet Perl</title>
+      <link>/post/post_2016-06-17/</link>
+      <pubDate>Fri, 17 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2016-06-17/</guid>
+      <description>If you’re not into Perl, you most probably missed all the changes this languages is going through last years. I would like to briefly introduce those and if you find it interesting we can have some discussion about.
+Veranstaltung: Hello From Planet Perl
+Sunday, Jun 19, 2016, 11:00 AM
+Hackerraum ulm
+Platzgasse 18 Ulm, DE
+If you’re not into Perl, you most probably missed all the changes this languages is going through last years.</description>
+    </item>
+    
+    <item>
+      <title>Prusa i3 Hephestos</title>
+      <link>/post/post_2016-03-14/</link>
+      <pubDate>Mon, 14 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2016-03-14/</guid>
+      <description>We are building our new 3D printer. Soon we can print cases and custom parts for other projects (like SatNOGS).</description>
+    </item>
+    
+    <item>
+      <title>Robust shell scripting</title>
+      <link>/post/post_2016-02-24/</link>
+      <pubDate>Wed, 24 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2016-02-24/</guid>
+      <description>Hallo HackerInnen!
+Shell scripting produces both love and hate reactions. Whereas it is very old and ugly, and it does not scale well, it is also true that it is extremely handy for many tasks, so that it looks like it is here to stay.
+In this presentation I will give some advice on writing maintainable and robust shell scripts that properly handle unexpected error conditions. It is mainly focused in bash, but most of it is applicable to dash and to other shell interpreters as well.</description>
+    </item>
+    
+    <item>
+      <title>Debian Bug Squashing Party</title>
+      <link>/post/post_2016-02-18/</link>
+      <pubDate>Thu, 18 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2016-02-18/</guid>
+      <description>Bug Squashing Party (BSP) is is a come-together for fixing bugs in Debian Linux Distribution (or in other Distributions like Ubuntu or Mint).
+We will learn how to report the bugs in the most effective way, or , if possible, we will try to fix them and contribute with patches. Bring your ideas, bring some errors you have run into. Please, bring your own laptop.
+There is some more information available in a Facebook group called Debian/Ubuntu GNU/Linux Hacking Meetings in Ulm.</description>
+    </item>
+    
+    <item>
+      <title>Debian &amp; Ubuntu packaging workshop</title>
+      <link>/post/post_2016-02-01/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2016-02-01/</guid>
+      <description>Whoever is interested in any aspects of Debian and Ubuntu development, is welcome to this workshop. During this workshop we will be learning to package software for Debian and Ubuntu Linux Distributions in hands on manner.
+The idea is to meet each other, learn together, work together and generally have fun hacking with our favourite GNU/Linux distributions. This workshop is our first meeting and we will agree on the future meetings as well.</description>
+    </item>
+    
+    <item>
+      <title>Openstreetmap Treffen im Februar</title>
+      <link>/post/post_2016-01-22/</link>
+      <pubDate>Fri, 22 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2016-01-22/</guid>
+      <description>Am 2. Februar findet ab 19 Uhr im Freiraum das monatliche Openstreetmap Treffen statt.</description>
+    </item>
+    
+    <item>
+      <title>Wir haben jetzt ein Telefon \O/</title>
+      <link>/post/post_2016-01-21/</link>
+      <pubDate>Thu, 21 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2016-01-21/</guid>
+      <description>Wenn der freiraum offen ist sind wir unter folgender Nummer erreichbar: 0731/2806434</description>
+    </item>
+    
+    <item>
+      <title>“The OpenWrt System or There and Back Again”</title>
+      <link>/post/post_2015-03-18/</link>
+      <pubDate>Wed, 18 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2015-03-18/</guid>
+      <description>OpenWrt ist eine Linux Distribution für herkömmliche WLAN-Router wie sie inzwischen in nahezu jedem Haushalt zu finden sind. Mit OpenWrt lassen sich auf dem Router Webseiten betreiben, USB-Kameras oder Speichersticks anschließen und nahezu beliebige andere ineressante Sachen machen, die von Linux-Systemen bekannt sind.
+Nächste Woche Freitag am 27.03.2015 um 19:00 soll OpenWrt kurz vorstellt werden. Angefangen beim Aussuchen eines passenden Images, dem Flashen eines Routers, zeigen wie man sich auf dem Gerät zurecht findet, übliche Einstellungen macht und wie man wieder das originale Image einspielt wenn man keine Lust mehr hat.</description>
+    </item>
+    
+    <item>
+      <title>Citizenfour Public Viewing</title>
+      <link>/post/post_2015-02-24/</link>
+      <pubDate>Tue, 24 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2015-02-24/</guid>
+      <description>Aufgrund von rechtlichen Unstimmigkeiten muss das Public Viewing abgesagt werden
+Am Freitag wird um 20:00 in den Räumen des Hackerspace Ulm Citizenfour gezeigt. Jeder ist willkommen! Wenn jemand nebenan noch etwas löten möchte ist das auch kein Problem. :P
+Citizenfour ist ein Dokumentarfilm von Laura Poitras über den US-amerikanischen Whistleblower Edward Snowden.
+Ein Muss für jeden der sich für den NSA-Überwachungs-Skandal und Freiheit im digitalen Zeitalter interessiert.
+Citizenfour / Freitag / 27.</description>
+    </item>
+    
+    <item>
+      <title>Coders Night</title>
+      <link>/post/post_2015-02-14/</link>
+      <pubDate>Sat, 14 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2015-02-14/</guid>
+      <description>Am Freitag den 20.02.2015 soll wieder eine Coders Night stattfinden.
+Coders Night ist ein Abend um zusammen oder einzeln, hauptsache entspannt, an Projekten zu arbeiten oder einfach nur im Internet zu surfen und die Musik zu genießen :P. Wer seinen Laptop mitbringt sollte sich gut aufghoben fühlen.
+Für die ruhige Atmosphäre sorgen Aufnahmen der SpaceNight (bekannt von ARD-alpha) die auf dem Beamer gezeigt werden. Die Türen sollen dann um spätestens 19:00 offen sein.</description>
+    </item>
+    
+    <item>
+      <title>Flashen – Meshen – Funken</title>
+      <link>/post/post_2015-02-09/</link>
+      <pubDate>Mon, 09 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2015-02-09/</guid>
+      <description>Am Mittwoch soll es wieder ein Freifunktreffen geben. Um 19:00 geht es los.
+Lernt Leute aus der Umgebung kennen und bringt Router mit – diesmal wird geflasht!</description>
+    </item>
+    
+    <item>
+      <title>Freifunk in Ulm, um Ulm, und um Ulm herum</title>
+      <link>/post/post_2015-01-06/</link>
+      <pubDate>Tue, 06 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2015-01-06/</guid>
+      <description>Nach dem erfolgreichen Treffen gegen Ende des letzten Jahres soll weiter geplant und hoffentlich auch der eine oder andere Router geflasht werden können.
+Das kommende Freifunktreffen findet am 14.01.2015 ab 19:00 in den Räumen des Hackerspace Ulm statt (Platzgasse 18). Wie immer ist jeder willkommen.</description>
+    </item>
+    
+    <item>
+      <title>Coders Night</title>
+      <link>/post/post_2014-12-12/</link>
+      <pubDate>Fri, 12 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2014-12-12/</guid>
+      <description>Coders Night ist ein Abend um zusammen oder einzeln, hauptsache entspannt, an Projekten zu arbeiten oder einfach nur im Internet zu surfen und die Wellen zu genießen :P. Wer seinen Laptop mitbringt sollte sich gut aufghoben fühlen.
+Für die ruhige Atmosphäre sorgen Aufnahmen der SpaceNight (bekannt von ARD-alpha) die auf dem Beamer gezeigt werden. Heute sollen dann um spätestens 19:00 die Türe offen sein.</description>
+    </item>
+    
+    <item>
+      <title>Freifunktreffen</title>
+      <link>/post/post_2014-12-04/</link>
+      <pubDate>Thu, 04 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2014-12-04/</guid>
+      <description>Freifunk ist eine Bürgerinitiative die versucht offene und dezentrale WLAN-Netze in Bürgerhand aufzubauen. In Ulm gab es schon erste Versuche, allerdings ist es leider wieder eingeschlafen.
+Am nächsten Mittwoch soll daher in den Räumen des Freiraums ein Freifunktreffen stattfinden. Dieses Treffen soll die Möglichkeit geben interessierte Leute zusammenzubringen um eine Freifunk-Community aufzubauen.
+Zu beginn wird Freifunk in einem kleinen Vortrag vorgestellt. Anschließend soll diskutiert, geplant und vielleicht auch gebastelt werden. Losgehen soll es ab 18:30.</description>
+    </item>
+    
+    <item>
+      <title>Group meeting for Creative Writing</title>
+      <link>/post/post_2014-10-28/</link>
+      <pubDate>Tue, 28 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2014-10-28/</guid>
+      <description>A group of people who meet every week to write together and provide mutual support and feedback chose the Freiraum as their prefered location.
+The meeting time is 15:30 each Saturday. The last Saturday each month will be for feedback/critique.</description>
+    </item>
+    
+    <item>
+      <title>Hackerspace Night and Stratospheric Balloon Project</title>
+      <link>/post/post_2014-10-05/</link>
+      <pubDate>Sun, 05 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2014-10-05/</guid>
+      <description>The Hackerspace Night on Thursday 9th of October starts around 8pm.
+There is a meeting of the Stratospheric Balloon Project starting around 9 pm. The idea of the project is to send a balloon with some measuring instruments to the Stratosphere. The project has a wiki page.
+Welcome to the Hackerspace Night!</description>
+    </item>
+    
+    <item>
+      <title>Weather Balloon Project Meeting</title>
+      <link>/post/post_2014-10-02/</link>
+      <pubDate>Thu, 02 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2014-10-02/</guid>
+      <description>There are some people of the Hackerspace Ulm that are interested in sending a weather balloon with some measuring and communication instruments. On Thursday 2nd of October we will get together and start to plan the project. New people are more than welcome to join us. We will start the discussion around 9 pm.
+The next meeting will be in one week on Thursday 9th of October at 9pm. If you can´t come for the first meeting you are welcome to the second one.</description>
+    </item>
+    
+    <item>
+      <title>Hackerspace night on Thursday</title>
+      <link>/post/post_2014-09-25/</link>
+      <pubDate>Thu, 25 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2014-09-25/</guid>
+      <description>On Thursday 25th of September is again the Hackerspace night. The doors will be open around 7:30 pm onwards.
+Today the ad hoc presentation is “How to simulate electrical circuits with computer and spice-simulator”. It begins around 9pm.</description>
+    </item>
+    
+    <item>
+      <title>Open Street Map group meeting</title>
+      <link>/post/post_2014-08-28/</link>
+      <pubDate>Thu, 28 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2014-08-28/</guid>
+      <description>On Tuesday 2nd of September there will Open Street Map (OSM) group meeting in Hackerspace Ulm starting at 7 pm.</description>
+    </item>
+    
+    <item>
+      <title>Vereinsgründung</title>
+      <link>/post/post_2014-04-01/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2014-04-01/</guid>
+      <description>Diesen Donnerstag (3. April) werden wir endlich die Vereinsgründung angehen. Besucher sind natürlich weiterhin willkommen, aber bitte habt Verständnis wenn wir ab 20:00 mit Organisatorischem Kram beschäftigt sind
+Organisational meeting this thursday (April 3rd)
+This week we will begin with the first official steps towards a hackerspace-association for ulm. Feel free to visit the Freiraum as always. However, please understand that our members will mostly be busy with organising things.</description>
+    </item>
+    
+    <item>
+      <title>Besuch der Embedded World</title>
+      <link>/post/post_2014-02-14/</link>
+      <pubDate>Fri, 14 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2014-02-14/</guid>
+      <description>Einige Mitglieder aus dem Freiraum werden vorraussichtlich die Embedded World in Nürnberg besuchen.
+Das ganze wird vermutlich am ersten Messetag, dem 25.2. statt finden. Bisher sind noch Plätze im Auto frei, d.h. wer noch eine Mitfahrgelegenheit sucht kann sich gerne per E-Mail melden (Mailadresse findet ihr unter Kontakt.</description>
+    </item>
+    
+    <item>
+      <title>Freiraum offen am Wahlsonntag</title>
+      <link>/post/post_2013-09-19/</link>
+      <pubDate>Thu, 19 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2013-09-19/</guid>
+      <description>Anlässlich der Bundestagswahl 2013 wird der Freiraum am Sonntag (22.September) vorraussichtlich von 12-20 Uhr geöffnet sein.
+Wir werden wählen (oder auch nicht), Statistiken erstellen (oder es zumindest versuchen), das Bundesradio Wahlstudio schauen (oder was sonst gewünscht wird) oder den Wahltag sonstwie hackertypisch begehen.
+Besucher sind wie immer herzlich eingeladen.
+[EDIT 11:58] offen
+[EDIT 18:16] Hackerspace-Interne Exit-Polls ergaben: 4 Stimmen für Piratenpartei, jeweils 1 für SPD/LINKE/Grüne.
+[EDIT 18:36] Kleiner Beispiel-Hack von heute: Korrelation für die Wahlergebnisse von verschiedenen Partei über alle Wahlkreise in Ulm (Daten von 2009):</description>
+    </item>
+    
+    <item>
+      <title>Freiraum hitzefrei</title>
+      <link>/post/post_2013-09-05/</link>
+      <pubDate>Thu, 05 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2013-09-05/</guid>
+      <description>Auch Geeks machen Urlaub und deshalb wird der Freiraum heute (5. September) vermutlich nicht geöffnet sein (es sei denn von den Mitgliedern kommt doch jemand).
+(man beachte das Wortspiel: frei-raum–hitze-frei ;))</description>
+    </item>
+    
+    <item>
+      <title>Antenna building, project presentations</title>
+      <link>/post/post_2013-08-24/</link>
+      <pubDate>Sat, 24 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2013-08-24/</guid>
+      <description>Every Thursday there is a Meeting day in the Hackerspace Ulm (also known as the Freiraum). New people are always welcome to join us.
+Last Thursday (22nd of August 2013) there were lots of things happening in the Hackerspace. We build some ham radio (Funkamateur) antennas and then we measured them using Vector Network Analyzer (VNA). The antennas were surprisingly good although we did them quickly using some cheap basic material.</description>
+    </item>
+    
+    <item>
+      <title>Sensoren neu verlötet…</title>
+      <link>/post/post_2013-08-22/</link>
+      <pubDate>Thu, 22 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2013-08-22/</guid>
+      <description>&amp;hellip;müssten jetzt eigentlich wieder tun&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Lightning-Talks verschoben</title>
+      <link>/post/post_2013-07-31/</link>
+      <pubDate>Wed, 31 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2013-07-31/</guid>
+      <description>Leider können 2 von den 3 Vortragenden diese Woche doch nicht. Deshalb werden die Lightning-Talks erstmal verschoben (vermutlich um 2 Wochen). Genaueres gibts aber dann bei Zeiten hier und auf der Mailingliste.</description>
+    </item>
+    
+    <item>
+      <title>Proteste gegen PRISM, Überwachung und für Snowden</title>
+      <link>/post/post_2013-07-19/</link>
+      <pubDate>Fri, 19 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2013-07-19/</guid>
+      <description>Da es ja auch immer Teil deutscher Hackerkultur war sich mit den gesellschaftlichen (in dem Fall politischen) Auswirkungen von Technik zu beschäftigen hier der Hinweis auf die deutschlandweiten StoppWatchingUs-Proteste, die am Samstag, den 27. Juli auch in Ulm stattfinden werden.
+ Kundgebung und Demozug, 27.07., 14 Uhr – Marktplatz Ulm (hinterm Rathaus)
+#StopWatchingUs! Am Samstag, den 27.07. 2013 geht´s los. Bundesweite Proteste gegen Prism, Tempora, die NSA, Überwachung und für einen fairen Umgang mit Edward Snowden!</description>
+    </item>
+    
+    <item>
+      <title>Expedition Freedom auf Goteo.org</title>
+      <link>/post/post_2013-07-16/</link>
+      <pubDate>Tue, 16 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2013-07-16/</guid>
+      <description>Im Mai war einer der Macher von “Expedition Freedom” im Freiraum und hat sein Projekt vorgestellt (alter Blogeintrag). Mittlerweile gibt es ein entsprechendes Crowdfunding-Projekt aufGoteo.org.</description>
+    </item>
+    
+    <item>
+      <title>Ergebnisse der Vollversammlung</title>
+      <link>/post/post_2013-06-30/</link>
+      <pubDate>Sun, 30 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2013-06-30/</guid>
+      <description>Hier ein kurzes Protokoll der Beschlüsse vom letzten Donnerstag:
+  Vereinsgründung
+Wir werden für den Freiraum einen Verein gründen um die Organisation zu vereinfachen. Gründungsmitglieder oder sonstige Hilfe bei der Vereinsgründung sind herzlich willkommen (einfach per Mail oder im Freiraum einen von den Mitgliedern ansprechen).
+  Lightening Talks
+Es wird eine neue Veranstaltungsreihe (jeden 3. Do im Monat) eingeführt. Dazu hält mindestens eine Person einen Kurzvortrag zu einem beliebigen Thema.</description>
+    </item>
+    
+    <item>
+      <title>Berndvollversammlung</title>
+      <link>/post/post_2013-06-25/</link>
+      <pubDate>Tue, 25 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2013-06-25/</guid>
+      <description>Diesen Donnerstag zwischen 21-22 Uhr ist ein kurzes Organisationstreffen wo wir über die Zukunft des Freiraums reden wollen. Besucher sollten sich dafür nicht abschrecken lassen bzw. dürfen sich natürlich gerne mit eigenen Ideen beteiligen ;)</description>
+    </item>
+    
+    <item>
+      <title>OSM-Stammtisch im Juni</title>
+      <link>/post/post_2013-05-31/</link>
+      <pubDate>Fri, 31 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2013-05-31/</guid>
+      <description>Am Dienstag, der 4.6. ab 19:00 findet im Freiraum wieder der OSM-Stammtisch Ulm Neu-Ulm statt. Genauere Infos auf der entsprechenden Seite im OSM-Wiki.
+Besucher und Interessierte sind herzlich willkommen.</description>
+    </item>
+    
+    <item>
+      <title>Freiraum heute erst später offen</title>
+      <link>/post/post_2013-05-30/</link>
+      <pubDate>Thu, 30 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2013-05-30/</guid>
+      <description>Der Freiraum wird heute (30.Mai) vermutlich erst irgendwann nach 19:00 offen sein, da ich nicht da sein werde.
+Wer vorbei kommen will, sollte am besten hier auf der Homepage davor nachschauen ob offen ist, oder per Mail kurz nachfragen.
+— Martin</description>
+    </item>
+    
+    <item>
+      <title>Veranstaltung: Vorstellung von Expedition Freedom</title>
+      <link>/post/post_2013-05-22/</link>
+      <pubDate>Wed, 22 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2013-05-22/</guid>
+      <description>Am Sonntag (26. Mai) um 20:00 wird Petros sein Projekt Expedition Freedom im Freiraum vorstellen. Dabei geht es um eine Filmdokumentation zur Situation in Griechenland (Plakat).
+Nähere Infos findet ihr unter: http://ExpeditionFreedom.org.</description>
+    </item>
+    
+    <item>
+      <title>Freiraum für Besucher offen</title>
+      <link>/post/post_2013-05-09/</link>
+      <pubDate>Thu, 09 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2013-05-09/</guid>
+      <description>Trotz Feiertag ist der Freiraum auch an diesem Donnerstag wieder ab sofort (9.Mai 19:13) für Besucher und alle Interessierten geöffnet.</description>
+    </item>
+    
+    <item>
+      <title>OSM-Stammtisch</title>
+      <link>/post/post_2013-05-07/</link>
+      <pubDate>Tue, 07 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2013-05-07/</guid>
+      <description>Heute (Dienstag, der 7.5. ab 19:00) findet im Freiraum wieder der OSM-stammtisch Ulm Neu-Ulm statt. Genauere Infos auf der entsprechenden Seite im OSM-Wiki..
+Besucher sind jederzeit herzlich willkommen.</description>
+    </item>
+    
+    <item>
+      <title>Freiraum offen</title>
+      <link>/post/post_2013-05-02/</link>
+      <pubDate>Thu, 02 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2013-05-02/</guid>
+      <description>Freiraum ist ab jetzt bis ca. 23 Uhr geöffnet.</description>
+    </item>
+    
+    <item>
+      <title>Lockpicking im April</title>
+      <link>/post/post_2013-04-18/</link>
+      <pubDate>Thu, 18 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2013-04-18/</guid>
+      <description>Heute gibts ab 20:00 wieder Picks und Schlösser für alle Öffnungswilligen. Neben der normalen Pickerei gehts mal wieder um Impression und vielleicht ein bißchen um Chubbschlösser.</description>
+    </item>
+    
+    <item>
+      <title>Lockpicking im März</title>
+      <link>/post/post_2013-03-20/</link>
+      <pubDate>Wed, 20 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2013-03-20/</guid>
+      <description>Am Donnerstag stehen ab 20:00 wieder Picks und Schlösser auf dem Tisch, für alle, die sich der hohen Kunst der Schlossöffnung verschrieben haben.</description>
+    </item>
+    
+    <item>
+      <title>Temperaturplot</title>
+      <link>/post/post_2013-03-14/</link>
+      <pubDate>Thu, 14 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2013-03-14/</guid>
+      <description>Hier ein Plot der Temperaturen im Freiraum von heute Abend.</description>
+    </item>
+    
+    <item>
+      <title>Freiraum offen</title>
+      <link>/post/post_2013-03-07/</link>
+      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2013-03-07/</guid>
+      <description>Der Freiraum ist bis auf weiteres ab jetzt offen (7.3. 17:48).</description>
+    </item>
+    
+    <item>
+      <title>Dienstag: OSM-Stammtisch</title>
+      <link>/post/post_2013-02-23/</link>
+      <pubDate>Sat, 23 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2013-02-23/</guid>
+      <description>Am 5. März (1. Dienstag im Monat) um 19 Uhr trifft sich wieder der Stammtisch der OpenStreetMap-Gruppe von Neu-Ulm/Ulm im Freiraum.
+Das Thema dieses Stammtisches ist der betriebssystemunabhängige Java Editor JOSM. Mit ihm können die mit einem GPS Gerät aufgezeichneten Daten sehr einfach in Openstreet Map eingegeben werden. Der Editor bietet aber noch viel mehr. Zum Beispiel können für die Eingabe als Hintergrund auch Satellitenbilder hinterlegt werden, um sich besser zu orientieren.</description>
+    </item>
+    
+    <item>
+      <title>Lockpicking im Februar</title>
+      <link>/post/post_2013-02-20/</link>
+      <pubDate>Wed, 20 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2013-02-20/</guid>
+      <description>Am Donnerstag stehen ab 20:00 wieder Picks und Schlösser auf dem Tisch, für alle, die sich der hohen Kunst der Schlossöffnung verschrieben haben.</description>
+    </item>
+    
+    <item>
+      <title>Dienstag: OSM-Stammtisch</title>
+      <link>/post/post_2013-02-04/</link>
+      <pubDate>Mon, 04 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2013-02-04/</guid>
+      <description>Der Stammtisch der OpenStreetMap-Gruppe von Neu-Ulm/Ulm trifft sich am 19 Uhr im Freiraum.
+Genauere Infos zur Gruppe findet ihr hier.</description>
+    </item>
+    
+    <item>
+      <title>Heute Lockpicking</title>
+      <link>/post/post_2013-01-31/</link>
+      <pubDate>Thu, 31 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2013-01-31/</guid>
+      <description>Heute findet wie jeden letzten Donnerstag das Treffen der Lockpicking Sportgruppe statt.
+Interessierte sind jederzeit herzlich willkommen.</description>
+    </item>
+    
+    <item>
+      <title>Heute Bildverarbeitungsworkshop</title>
+      <link>/post/post_2013-01-17/</link>
+      <pubDate>Thu, 17 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2013-01-17/</guid>
+      <description>Heute findet wieder der Bildverarbeitungsworkshop statt. Wie üblich sind Interessierte jederzeit herzlich willkommen. Laptop und Programmierkenntnisse erforderlich.</description>
+    </item>
+    
+    <item>
+      <title>Freiraum offen</title>
+      <link>/post/post_2013-01-10/</link>
+      <pubDate>Thu, 10 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2013-01-10/</guid>
+      <description>Freiraum ab jetzt bis ca. 24:00 offen.</description>
+    </item>
+    
+    <item>
+      <title>Diese und nächste Woche Bildverarbeitungskurs</title>
+      <link>/post/post_2013-01-08/</link>
+      <pubDate>Tue, 08 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2013-01-08/</guid>
+      <description>Anders als der Kalender rechts anzeigt, findet diese und nächste Woche (10.1. und 17.1) wieder der Bildverarbeitungskurs statt. Wir werden vorraussichtlich weiterhin versuchen die gemachten Testbilder zu rekonstruieren.
+Interessierte sind jederzeit herzlich eingeladen. Laptop und Programmierkenntnisse sind hilfreich und sollten mitgebracht werden.</description>
+    </item>
+    
+    <item>
+      <title>Heute kein Bildverarbeitungskurs</title>
+      <link>/post/post_2013-01-03/</link>
+      <pubDate>Thu, 03 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2013-01-03/</guid>
+      <description>Der Bildverarbeitungskurs entfällt heute. Wer trotzdem kommen möchte kann dies selbstverständlich tun.
+UPDATE: Freiraum ab jetzt offen! (18:27)</description>
+    </item>
+    
+    <item>
+      <title>29C3-Streams am Samstag 29.12.2012</title>
+      <link>/post/post_2012-12-28/</link>
+      <pubDate>Fri, 28 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2012-12-28/</guid>
+      <description>Am Samstag ist der freiraum von ca. 11:00 bis 00:00 Uhr offen und die Streams werden übertragen.
+https://events.ccc.de/congress/2012/wiki/Documentation#Recordings</description>
+    </item>
+    
+    <item>
+      <title>Freiraum offen</title>
+      <link>/post/post_2012-12-20/</link>
+      <pubDate>Thu, 20 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2012-12-20/</guid>
+      <description>Freiraum ist ab jetzt bis ca 23 Uhr offen</description>
+    </item>
+    
+    <item>
+      <title>29C3-Streams</title>
+      <link>/post/post_2012-12-13/</link>
+      <pubDate>Thu, 13 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2012-12-13/</guid>
+      <description>Wie schon im Wiki zum Congress bekannt gegeben wird der Freiraum Teile des 29C3 streamen.
+Genaue Daten kommen später.</description>
+    </item>
+    
+    <item>
+      <title>Freiraum offen</title>
+      <link>/post/post_2012-12-06/</link>
+      <pubDate>Thu, 06 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2012-12-06/</guid>
+      <description>Freiraum ab jetzt (6. Dez. 19:30) bis mindestens 22:00 offen.</description>
+    </item>
+    
+    <item>
+      <title>Morgen kein Elektronikbastelkurs</title>
+      <link>/post/post_2012-12-03/</link>
+      <pubDate>Mon, 03 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2012-12-03/</guid>
+      <description>Der Elektronikbastelkurs morgen (4.12) fällt leider aus. Nächste Woche am 11.12 findet er dann aber wieder regulär statt.</description>
+    </item>
+    
+    <item>
+      <title>Freifunk zu Gast</title>
+      <link>/post/post_2012-12-02/</link>
+      <pubDate>Sun, 02 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2012-12-02/</guid>
+      <description>Diesen Donnerstag (ab 18:00) trifft sich voraussichtlich der Freifunk Ulm im Freiraum.
+ “Schwerpunkt des Treffens soll sein, die seriellen Schnittstellen an einigen Routern zum laufen zu bringen, damit wir vor allem den Boot-Prozess besser debuggen können.”
+ UPDATE: Freifunk-Treffen evtl. im Studentslab an der Uni. Doodle-Umfrage dazu hier. Ergebnis auf der entsprechenden Mailingliste.</description>
+    </item>
+    
+    <item>
+      <title>Freiraum&amp;Freunde</title>
+      <link>/post/post_2012-11-24/</link>
+      <pubDate>Sat, 24 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2012-11-24/</guid>
+      <description>Besuch aus dem Shackspace, von OSMlern, Lockpickern und anderen. Klackerlaken gebastelt, Nichtnewtonsche Flüssigkeit gemacht und Kuchen gegessen. :)</description>
+    </item>
+    
+    <item>
+      <title>WordPress-Blog installiert…</title>
+      <link>/post/post_2012-11-22/</link>
+      <pubDate>Thu, 22 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2012-11-22/</guid>
+      <description>…wir haben jetzt einen WordPress-Blog, yay!</description>
+    </item>
+    
+    <item>
+      <title>Ankündigung: Freiraum&amp;Freunde</title>
+      <link>/post/post_2012-11-20/</link>
+      <pubDate>Tue, 20 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2012-11-20/</guid>
+      <description> Wann? Heute (22.11) ab 19 Uhr Wer? Zum Freiraum&amp;amp;Freunde-Tag sind alle Hackerspace-affinen (=Freunde) Menschen eingeladen Was? Gelegenheit den Freiraum zu besichtigen, Kleinigkeiten zu basteln oder einfach nur gemütlich mit anderen Club-Mate oder Bier zu trinken  </description>
+    </item>
+    
+    <item>
+      <title>Freiraum offen für alle</title>
+      <link>/post/post_2012-05-10/</link>
+      <pubDate>Thu, 31 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2012-05-10/</guid>
+      <description>Am 10. Mai 2012, 21 Uhr: Vollversammlung aller Bernds</description>
+    </item>
+    
+    <item>
+      <title>Lockpicking im Freiraum</title>
+      <link>/post/post_2012-05-31/</link>
+      <pubDate>Thu, 31 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2012-05-31/</guid>
+      <description>Am 31. Mai 2012, 20 Uhr
+Es werden wieder einmal Schlösser geöffnet und Schlüssel gefeilt bei den Sportsfreunden der Sperrtechnik Ulm. Interessierte Menschen sind immer willkommen.
+Weitere Details beim SSDeV.</description>
+    </item>
+    
+    <item>
+      <title>Lockpicking im Freiraum</title>
+      <link>/post/post_2012-04-26/</link>
+      <pubDate>Thu, 26 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2012-04-26/</guid>
+      <description>Am 26. April 2012, 20 Uhr
+Die Sportsfreunde der Sperrtechnik Ulm laden wieder ein zu einem heiteren Abend voll unterhaltsamer Schlösser und fröhlicher Öffnungstechnik.
+Weitere Details beim SSDeV.</description>
+    </item>
+    
+    <item>
+      <title>Wohlfeil</title>
+      <link>/post/post_2012-04-20/</link>
+      <pubDate>Fri, 20 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2012-04-20/</guid>
+      <description>Wohlfeil Flyer
+Was sich im November letzten Jahres als Spielwiese von Tüftlern im Bereich audiovisueller Experimente in den Röhren des Sauschdall &amp;amp; CAT Raum geschaffen hat könnte sich zu einer Reihe entwickeln. Erst einmal wird fortgesetzt: WOHLFEIL.
+Im Freiraum entwickeln sich seit Wochen die Ideen, deren Umsetzung am 20.4. in den Gemäuern oberhalb der Hochschule zu elektronischen Sounds präsentiert werden. Auf zwei Floors schwirren lichterne Objekte aus dem virtuellen Raum, bewegen sich im Keller zu Benchmarks &amp;amp; Pendulols in Sphären treibendem Drum&amp;rsquo;n&amp;rsquo;Bass/DrumFunk-Gedonner, oder zappeln auf der Eingangsebene in den technoiden Netzen, die tdPaperstreet &amp;amp; die lärmLust aus indiTronics, E.</description>
+    </item>
+    
+    <item>
+      <title>Lockpicking im Freiraum</title>
+      <link>/post/post_2012-03-29/</link>
+      <pubDate>Thu, 29 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2012-03-29/</guid>
+      <description>Am 29. März 2012, 20 Uhr
+Es werden wieder einmal Schlösser geöffnet und Schlüssel gefeilt bei den Sportsfreunden der Sperrtechnik Ulm. Interessierte Menschen sind immer willkommen.
+Weitere Details beim SSDeV.</description>
+    </item>
+    
+    <item>
+      <title>Das literarische Solo</title>
+      <link>/post/post_2012-02-10/</link>
+      <pubDate>Fri, 10 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2012-02-10/</guid>
+      <description>Donnerstag, den 16. Februar, ab 20:00h im Freiraum
+&amp;ldquo;Dr. Hans Joachim Kluge&amp;rdquo; (Kuenstlername) diskutiert mit sich selbst ueber das Genre Science-Fiction. (Interaktion mit dem Publikum ist durchaus geduldet.)</description>
+    </item>
+    
+    <item>
+      <title>Lockpicking im Freiraum</title>
+      <link>/post/post_2012-01-17/</link>
+      <pubDate>Tue, 17 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2012-01-17/</guid>
+      <description>Am 26. Januar 2012, 20 Uhr
+Es werden wieder einmal Schlösser geöffnet und Schlüssel gefeilt bei den Sportsfreunden der Sperrtechnik Ulm. Interessierte Menschen sind immer willkommen.
+Weitere Details beim SSDeV.</description>
+    </item>
+    
+    <item>
+      <title>Chaos Communication Congress 28c3 Streams im freiraum</title>
+      <link>/post/post_2011-12-26/</link>
+      <pubDate>Mon, 26 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2011-12-26/</guid>
+      <description>Donnerstag, 27. Dezember bis Freitag, 30. Dezember
+Im Zuge von &amp;ldquo;no nerd left behind&amp;rdquo; werden alle vier Tage des 28c3 - behind enemy lines im freiraum gestreamt. Geöffnet sein wird ab ungefähr 11 Uhr, wie lange wir abends die Stellung halten können hängt zum einen vom Interesse ab und zum anderen davon, ob jemand von uns Zeit haben wird.</description>
+    </item>
+    
+    <item>
+      <title>Lockpicking im Freiraum</title>
+      <link>/post/post_2011-11-23/</link>
+      <pubDate>Wed, 23 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2011-11-23/</guid>
+      <description>Am 24. November 2011, 20 Uhr
+Es werden wieder einmal Schlösser geöffnet und Schlüssel gefeilt bei den Sportsfreunden der Sperrtechnik Ulm. Interessierte Menschen sind immer willkommen.
+Weitere Details beim SSDeV.</description>
+    </item>
+    
+    <item>
+      <title>Microcontroller-Stammtisch</title>
+      <link>/post/post_2011-11-08/</link>
+      <pubDate>Tue, 08 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2011-11-08/</guid>
+      <description>Am 17.11.2011 19:00 Microcontroller-Stammtisch
+Der Freiraum lädt zur gemütlichen Plauderei über Microcontroller ein. Manfred Helzle wird vorstellen was der AK Microcontroller so macht. Unter anderem stellt er selbstentwickelte Platinen vor die unter didaktischen Gesichtspunkten entworfen wurden.</description>
+    </item>
+    
+    <item>
+      <title>Lockpicking im Freiraum</title>
+      <link>/post/post_2011-08-13/</link>
+      <pubDate>Sat, 13 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2011-08-13/</guid>
+      <description>Am 25. August 2011, 20 Uhr
+Die Sportsfreunde der Sperrtechnik Ulm laden ein zu einem heiteren Abend voll unterhaltsamer Schlösser und fröhlicher Öffnungstechnik.
+Weitere Details beim SSDeV.</description>
+    </item>
+    
+    <item>
+      <title>Chaos Communication Camp 2011 Livestreams in Ulm</title>
+      <link>/post/post_2011-08-06/</link>
+      <pubDate>Sat, 06 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2011-08-06/</guid>
+      <description>Am 10. - 14. August alle fünf Tage des Livestreams vom Chaos Communication Camp im Freiraum in Ulm. Jeden Tag ab 12:00.
+Hier findet sich das Programm in dem alle Talks aufgeführt sind.</description>
+    </item>
+    
+    <item>
+      <title>Freiraum offen für alle</title>
+      <link>/post/post_2011-08-03/</link>
+      <pubDate>Wed, 03 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2011-08-03/</guid>
+      <description>Heute, 4. August 2011, ist wie jeden Donnerstag ab 12 Uhr offen für alle. Wer Interesse hat, kommt vorbei.</description>
+    </item>
+    
+    <item>
+      <title>Schlösser öffnen ohne Schlüssel - Puzzeln für Hacker</title>
+      <link>/post/post_2011-06-20/</link>
+      <pubDate>Mon, 20 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post_2011-06-20/</guid>
+      <description>Diesen Donnerstag, 23. Juni 2011 21 Uhr, steht der Freiraum im Zeichen des Lockpicking.
+Anlässlich des ersten Treffens der Sportsfreunde der Sperrtechnik Ulm wird es eine Einführung in die Kunst des sportlichen Schlossöffnens geben. Nach einem kleinen Vortrag gibt es Übungswerkzeug und Schlösser für alle, die praktisch üben möchten.</description>
+    </item>
+    
+  </channel>
+</rss>

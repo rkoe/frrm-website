@@ -1,0 +1,2051 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chaos-Seminar on Freiraum</title>
+    <link>/ccc/chaosseminar/</link>
+    <description>Recent content in Chaos-Seminar on Freiraum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>2018</copyright>
+    <lastBuildDate>Thu, 01 Jan 2099 00:00:00 +0000</lastBuildDate><atom:link href="/ccc/chaosseminar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SQLite als Programmiersprache und FiBu</title>
+      <link>/ccc/chaosseminar/sqlite/</link>
+      <pubDate>Sat, 02 Jan 9999 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/sqlite/</guid>
+      <description> ThemaSQLite als Programmiersprache und FiBu Termingeplant, evtl. AprilOrtUni Ulm, Hörsaal H20VortragendeRoland Archiv Noch keine Aufzeichnungsdateien verfügbar.   Vortragsinhalte:
+  SQL und SQLite:
+ Programmieren von Anwendungen rein in SQL, ohne andere Programmiersprachen
+(per Tabellen, Views, Trigger, GUIs/Formulare aus Tabellen usw.) Beispiel: Finanzbuchhaltungs-Software rein in SQLite, inkl. Bilanz/e-Bilanz
+(SELECT * FROM Bilanz)    SQLite-Frontends:
+ Übersicht Erfahrungen Design-Bugs    </description>
+    </item>
+    
+    <item>
+      <title>Beschriftungsgeräte und Reverse-Engineering</title>
+      <link>/ccc/chaosseminar/beschriftungsgeraete/</link>
+      <pubDate>Fri, 01 Jan 9999 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/beschriftungsgeraete/</guid>
+      <description> ThemaBeschriftungsgeräte und Reverse-Engineering Termingeplant, evtl. MärzOrtUni Ulm, Hörsaal H20VortragendeRoland Archiv Noch keine Aufzeichnungsdateien verfügbar.   Vortragsinhalte:
+ Beschriftungsgeräte:  Gerätearten, Abgrenzung zu Labeldruckern Funktionsweise Marktübersicht / Kaufempfehlungen   Erstellung eines Epson LabelWorks-Treibers für Linux per Reverse-Engineering:  Wireshark + USB Disassembler, Decompiler Fallstricke Erfahrungen    </description>
+    </item>
+    
+    <item>
+      <title>Familie/Daseinsfürsorge: Ehe, Erbe und der digitale Nachlass.</title>
+      <link>/ccc/chaosseminar/2020_02_familie/</link>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2020_02_familie/</guid>
+      <description> ThemaFamilie/Daseinsfürsorge: Ehe, Erbe und der digitale Nachlass. Terminvoraussichtlich 2020-02-10OrtUni Ulm, Hörsaal H20VortragendeMarcus Archiv Noch keine Aufzeichnungsdateien verfügbar.   Vortragsinhalte:
+ Abgrenzung: Recht in Deutschland Ehe: Ehefähigkeit und Ehe beschließen, Änderungen am Sozialsystem, Lohnsteuer, Eheverträge, Namenswahl, Sorgerecht, Adoptation, Ehe für alle Erbe: Geschwister, Halbgeschwister, Eltern, Abhängigkeit vom Ehevertrag digitaler Nachlass: Backup, Zugriffsschutz, Bankkonten, Nachlassverwalterdienste (?) unsortiert: Patientenverfügung  </description>
+    </item>
+    
+    <item>
+      <title>Lightningtalks: Organisationstools</title>
+      <link>/ccc/chaosseminar/2020_01_lightningtalks/</link>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2020_01_lightningtalks/</guid>
+      <description>ThemaLightningtalks: Organisationstools Termin2020-01-19 20:00OrtUni Ulm, Hörsaal H20Vortragende Archiv Noch keine Aufzeichnungsdateien verfügbar.   Vortragsinhalte:
+Kurze Vorstellung verschiedener Organisationstools.</description>
+    </item>
+    
+    <item>
+      <title>Graphentheorie</title>
+      <link>/ccc/chaosseminar/2019_12_graphentheorie/</link>
+      <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2019_12_graphentheorie/</guid>
+      <description>ThemaGraphentheorie Termin2019-12-16 20:00OrtUni Ulm, Hörsaal H20VortragendeJürgen Archiv Noch keine Aufzeichnungsdateien verfügbar.   Graphen sind ein beliebtes Modell mit allerlei Anwendungen in der Informatik. In dem Vortrag lernt ihr wie ein Graph definiert werden kann, wie man ihn darstellen kann und welche mathematischen Fallstricke dabei lauern. Beispiele führen vor, dass manchmal sehr ähnliche Probleme überhaupt gar keine ähnliche Lösung haben. Ihr erfahrt wie ein Navi funktioniert, was Euler bei seinen Spaziergängen in Kaliningrad erlebt, wie man das Haus vom Nikolaus baut und wie die Informatik über die Mathematik triumphiert.</description>
+    </item>
+    
+    <item>
+      <title>IT-Infrastruktur des CCC-Ulm</title>
+      <link>/ccc/chaosseminar/2019_10_it-infrastruktur/</link>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2019_10_it-infrastruktur/</guid>
+      <description> ThemaIT-Infrastruktur des CCC-Ulm Termin2019-10-14 20:00OrtUni Ulm, Hörsaal H20VortragendeSimon Archiv Noch keine Aufzeichnungsdateien verfügbar.   </description>
+    </item>
+    
+    <item>
+      <title>Freiraum- und CCC-Ulm-Webseite</title>
+      <link>/ccc/chaosseminar/2019_09_frrm-ccc-webseite/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2019_09_frrm-ccc-webseite/</guid>
+      <description>ThemaFreiraum- und CCC-Ulm-Webseite Termin2019-09-09 20:00OrtUni Ulm, Hörsaal H20VortragendeRoland Archiv Noch keine Aufzeichnungsdateien verfügbar.   Kürzlich wurde der Terminkalender auf frrm.de umgebaut und erweitert, und die ulm.ccc.de-Webseite teilweise in die Freiraum-Webseite integriert.
+Dieser Vortrag gibt einen Überblick über die hierbei verwendete Vorgehensweise, notwendige Umbauten usw.
+geplanter Inhalt:
+ Wie sollte eine Webseite idealerweise (aus meiner Sicht) erstellt/verwaltet werden? Wie sah die Freiraum-/CCC-Webseite bisher aus? Was waren die Probleme? Wie kann/konnte man diese lösen?</description>
+    </item>
+    
+    <item>
+      <title>Reisebericht China</title>
+      <link>/ccc/chaosseminar/2019_07_reisebericht_china/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2019_07_reisebericht_china/</guid>
+      <description>ThemaReisebericht China Termin2019-07-01 20:00OrtUni Ulm, Hörsaal H20VortragendeMarcus Archiv  Video: M4V (iPod) (72.0 MB) Video: MP4 (107.7 MB) Video: Ogg Theora (385.8 MB) Video: MP4 HD (358.7 MB) Audio: MP3 (59.3 MB) Audio: Ogg Vorbis (41.6 MB) Audio: Opus (42.0 MB)    Der Vortragende war auf Dienstreise in Nanjing und mag ein paar Bilder und Geschichten erzählen, die für eine Langnase nicht einleuchtend sind, zum Beispiel die Hinweistafeln an jeder Rolltreppe, man solle das Armförderband festhalten.</description>
+    </item>
+    
+    <item>
+      <title>Spracheinführung Chinesisch</title>
+      <link>/ccc/chaosseminar/2019_06_chinesiche_schrift/</link>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2019_06_chinesiche_schrift/</guid>
+      <description>ThemaSpracheinführung Chinesisch Termin2019-06-17 20:00OrtUni Ulm, Hörsaal H20VortragendeMarcus Archiv Noch keine Aufzeichnungsdateien verfügbar.   Konkret geht es um einen Einsteigercrashkurs in 汉语/Hanzi und Mandarin um den Zuhörer an ein fremdes Schriftsystem heranzuführen. Auf dem Weg dahin schauen wir uns an, welche Strichfolgen Zeichen bilden, wie sich die Beudeutung von Zeichen im Verbund aufaddiert, wie Kinder das Schriftsystem erlernen und wie die Eingabemethoden auf elektronischen Geräten (Handy und Computer) funktionieren.</description>
+    </item>
+    
+    <item>
+      <title>Kanban Grundlagen</title>
+      <link>/ccc/chaosseminar/2019_04_kanban_grundlagen/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2019_04_kanban_grundlagen/</guid>
+      <description>ThemaKanban Grundlagen Termin2019-04-08 20:00OrtUni Ulm, Hörsaal H20VortragendeMarcus Archiv  Video: M4V (iPod) (70.6 MB) Video: MP4 (97.0 MB) Video: Ogg Theora (299.5 MB) Video: MP4 HD (246.5 MB) Audio: MP3 (60.4 MB) Audio: Ogg Vorbis (43.8 MB) Audio: Opus (42.7 MB)    Bekannt geworden ist Kanban durch die Tafel mit den Klebezetteln, in den drei Spalten zu erledigen, in Arbeit, erledigt (englisch todo, doing, done), aber das schießt am Kern der Sache vorbei: Kanban ist ein kulturelles Wertesystem für Unternehmen, aus denen sich Handlungsempfehlungen/Prozesse/Berichtslinien ableiten.</description>
+    </item>
+    
+    <item>
+      <title>Wir spielen Nethack</title>
+      <link>/ccc/chaosseminar/2019_03_wir_spielen_nethack/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2019_03_wir_spielen_nethack/</guid>
+      <description>ThemaWir spielen Nethack Termin2019-03-11 20:00OrtUni Ulm, Hörsaal H20VortragendeMarcus Archiv Noch keine Aufzeichnungsdateien verfügbar.   Nethack ist ein Klassiker der Computerspielegeschichte. Es ist eine rundenbasierte Dungeons-and-Dragons-Implementierung für Einzelspieler mit einer sehr komplexen Spielmechanik und ungleich primitiven Oberfläche. Manche Leute meinen, der Sinn des Nethack bestünde darin durch regelmäßiges Scheitern die Computerspielmechanik zu erfahren. Wir kürzen diese Interpretation ab:
+ Dungeons and Dragons Crashkurs das Inventarsystem nethack.alt.org  und anschließend die Anwendung im Spiel.</description>
+    </item>
+    
+    <item>
+      <title>Cheating in Computerspielen</title>
+      <link>/ccc/chaosseminar/2019_02_computergamesecurity/</link>
+      <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2019_02_computergamesecurity/</guid>
+      <description>ThemaCheating in Computerspielen Termin2019-02-11 20:00OrtUni Ulm, Hörsaal H20VortragendeDennis Archiv  Video: M4V (iPod) (29.2 MB) Video: MP4 (38.8 MB) Video: Ogg Theora (114.5 MB) Video: MP4 HD (102.3 MB) Audio: MP3 (23.4 MB) Audio: Ogg Vorbis (16.3 MB) Audio: Opus (17.5 MB)    In diesem Vortrag erfahrt ihr über die Motivation von Schummlern in Computerspielen und auch wie entsprechende cheats funktionieren.</description>
+    </item>
+    
+    <item>
+      <title>Alltag eines Pentesters</title>
+      <link>/ccc/chaosseminar/2018_12_alltag_eines_pentesters/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2018_12_alltag_eines_pentesters/</guid>
+      <description>ThemaAlltag eines Pentesters Termin2018-12-10 20:00OrtUni Ulm, Hörsaal H20VortragendeThomas Archiv Noch keine Aufzeichnungsdateien verfügbar.   Du willst hacken? Mit Kapuze und &amp;ldquo;Cyber Cyber&amp;rdquo; auf dem Bildschirm? Systeme infiltrieren und die geheimen Datenbanken ausspähen?
+Eine Möglichkeit damit sogar (legal) seine Brötchen zu verdienen, ist sich als Pentester anstellen zu lassen. Doch was kommt da auf einen wirklich zu? Was macht man dann den ganzen Tag? Und Welche Skills brauche ich dafür?</description>
+    </item>
+    
+    <item>
+      <title>Der Paketmanager Nix und sein Ökosystem</title>
+      <link>/ccc/chaosseminar/2018_11_nix_paketmanager/</link>
+      <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2018_11_nix_paketmanager/</guid>
+      <description>ThemaDer Paketmanager Nix und sein Ökosystem Termin2018-11-12 20:00OrtUni Ulm, Hörsaal H20VortragendeRoland Archiv Noch keine Aufzeichnungsdateien verfügbar.   Nix ist etwas anderer, universeller Software-Paket-Manager für Linux und einige andere POSIX-Systeme; Nix kann dabei parallel zum vorhandenen Linux-Paketmanager (z.B. apt/dpkg) verwendet werden. NixOS ist eine darauf aufbauende Linux-Distribution.
+Da Nix einige Dinge anders macht, sind damit Dinge möglich, wie z.B.:
+ gleichzeitige, kollisionsfreie Nutzung verschiedener Versionen einer Software oder Bibliothek Installation ohne Root-Rechte einheitliches Paketmanagement für Linux-Pakete, Software-Module (z.</description>
+    </item>
+    
+    <item>
+      <title>DataSet from Hell and SciKit</title>
+      <link>/ccc/chaosseminar/2018_09_scikit/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2018_09_scikit/</guid>
+      <description>ThemaDataSet from Hell and SciKit Termin2018-09-10 20:00OrtUni Ulm, Hörsaal H22 (!)VortragendeTobias Archiv  Video: M4V (iPod) (51.3 MB) Video: MP4 (80.7 MB) Video: Ogg Theora (245.2 MB) Video: MP4 HD (242.1 MB) Audio: MP3 (39.4 MB) Audio: Ogg Vorbis (26.5 MB) Audio: Opus (29.6 MB)    Es gibt Datensätze und es gibt Datensätze. Hier geht es um einen Datensatz bei dem die DataScience zu versagen scheint, bei dem nichts normal ist.</description>
+    </item>
+    
+    <item>
+      <title>Hacker und das Informatikstudium</title>
+      <link>/ccc/chaosseminar/2018_07_hacker_und_das_informatikstudium/</link>
+      <pubDate>Mon, 09 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2018_07_hacker_und_das_informatikstudium/</guid>
+      <description>ThemaHacker und das Informatikstudium Termin2018-07-09 20:00OrtUni Ulm, Hörsaal H20VortragendeFrank Archiv Noch keine Aufzeichnungsdateien verfügbar.   Ein abgebrochenes Informatikstudium gehört in Hackerkreisen fast schon zur Pflichtqualifikation. Gleichzeitig gibt es gerade im Bereich der Security Forschung durchaus viele Berührpunkte zwischen akademischer Forschung und der Hackerszene. Auch viele CCC Erfakreise sind an Universitäten entstanden. Auch vor dem Hintergrund des eigenen Lebenslaufs beleuchtet Frank in diesem Vortrag Unterschiede und Gemeinsamkeiten, unterschiedliche Forschungsansätze, Herangehensweisen, Lernmethoden und generell die Vor- und Nachteile der beiden Welten.</description>
+    </item>
+    
+    <item>
+      <title>Fraktale</title>
+      <link>/ccc/chaosseminar/2018_06_fraktale/</link>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2018_06_fraktale/</guid>
+      <description>ThemaFraktale Termin2018-06-11 20:00OrtUni Ulm, Hörsaal H20VortragendeJürgen Archiv  Video: M4V (iPod) (67.2 MB) Video: MP4 (86.7 MB) Video: Ogg Theora (296.4 MB) Video: MP4 HD (228.2 MB) Audio: MP3 (58.7 MB) Audio: Ogg Vorbis (40.2 MB) Audio: Opus (44.8 MB)    Fraktale gab es eigentlich schon immer, aber erst mit der Möglichkeit diese mit Hilfe von Computern zu visualisieren hat sich das Konzept durchgesetzt. Der Vortrag führt in die Welt der Fraktale anhand von Beispielen ein, erläutert typische Eigenschaften von Fraktalen und verschiedene Möglichkeiten Fraktale zu erzeugen.</description>
+    </item>
+    
+    <item>
+      <title>Simulation einer Zombiapokalypse</title>
+      <link>/ccc/chaosseminar/2018_05_simulation_einer_zombiapokalypse/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2018_05_simulation_einer_zombiapokalypse/</guid>
+      <description>ThemaSimulation einer Zombiapokalypse Termin2018-05-07 (sic!) 20:00OrtUni Ulm, Hörsaal H20Vortragendecherti Archiv  Video: M4V (iPod) (58.4 MB) Video: MP4 (83.0 MB) Video: Ogg Theora (306.0 MB) Video: MP4 HD (272.3 MB) Audio: MP3 (49.5 MB) Audio: Ogg Vorbis (34.2 MB) Audio: Opus (35.8 MB)    Zombies sind eine offensichtliche und allgegenwärtige Gefahr! Um dieses Problem näher zu verstehen, können wir Simulationen von Zombieepidemien erstellen, um abzuschätzen, wie schnell eine Horde Zombies die Menschheit überrennen wird.</description>
+    </item>
+    
+    <item>
+      <title>Fahrzeug Security</title>
+      <link>/ccc/chaosseminar/2018_04_fahrzeug_security/</link>
+      <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2018_04_fahrzeug_security/</guid>
+      <description>ThemaFahrzeug Security Termin2018-04-09 20:00OrtUni Ulm, Hörsaal H20VortragendeHeiko Archiv  Video: M4V (iPod) (31.9 MB) Video: MP4 (43.8 MB) Video: Ogg Theora (132.8 MB) Video: MP4 HD (129.5 MB) Audio: MP3 (26.3 MB) Audio: Ogg Vorbis (18.4 MB) Audio: Opus (18.8 MB)    Sind unsere Autos noch geschützt?
+Immer wieder gehen Bilder von Auto-Diebstählen durch die Medien. Wird es den Dieben immer schwerer gemacht, Fahrzeuge zu übernehmen? Warum ist gerade die Entwicklung im Automotive-Bereich ein Hinweis darauf, wie uns die zunehmende Vernetzung in allen Lebensbereichen mit neuen Fragen über Schutz und Sicherheit konfrontiert?</description>
+    </item>
+    
+    <item>
+      <title>Android Treibersystem</title>
+      <link>/ccc/chaosseminar/2018_03_android_treibersystem/</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2018_03_android_treibersystem/</guid>
+      <description>ThemaAndroid Treibersystem Termin2018-03-12 20:00OrtUni Ulm, Hörsaal H20VortragendeMax Archiv  Video: M4V (iPod) (41.9 MB) Video: MP4 (51.1 MB) Video: Ogg Theora (156.6 MB) Video: MP4 HD (121.9 MB) Audio: MP3 (37.6 MB) Audio: Ogg Vorbis (26.0 MB) Audio: Opus (26.7 MB)    Ein Vergleich der Android Treiberwelt vor Android 8 und mit Android 8 mit Ausblick auf Docker, um die schöne Build-Umgebung wegzusperren.
+Wie scheiße das Build Environment für Android ist und wie geil Docker ist um das ganze wegzukapseln.</description>
+    </item>
+    
+    <item>
+      <title>Trading, Schwerpunkt Cryptowährungen</title>
+      <link>/ccc/chaosseminar/2018_02_tradingcryptomarkets/</link>
+      <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2018_02_tradingcryptomarkets/</guid>
+      <description>ThemaTrading, Schwerpunkt Cryptowährungen Termin2018-02-12 20:00OrtUni Ulm, Hörsaal H20VortragendeThomas Archiv Für diesen Vortrag gibt es leider keine Aufzeichnung.   Ein Vortrag mit anschließender Publikumsdiskussion über das Handeln von Cryptowährungen.</description>
+    </item>
+    
+    <item>
+      <title>Asset Management und Configuration Management</title>
+      <link>/ccc/chaosseminar/2018_01_assetmanagement_und_configurationmanagement/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2018_01_assetmanagement_und_configurationmanagement/</guid>
+      <description>ThemaAsset Management und Configuration Management Termin2018-01-08 20:00OrtUni Ulm, Hörsaal H20VortragendeMarcus Archiv Dieser Vortrag wird nicht aufgezeichnet.   Wenn man mehr als ein paar hundert Rechner zu verwalten hat, braucht das Strategien und eine Softwareimplementierung. Wir erarbeiten die Stolpersteine mithilfe von Anwendungsfällen (engl.: use cases), reden über die Strategie in Form von Prozessen und über die Software in Form von Beispielen.
+Ausschnitte aus der Vorbereitungsliste zum Appetit machen:
+Anwendungsfälle  neue VM anlegen für einen Dienst neuen Softwarecache anlegen Feuerzellkonzept und Updates  Kosten  Was kostet eine VM?</description>
+    </item>
+    
+    <item>
+      <title>Funktionale Programmierung</title>
+      <link>/ccc/chaosseminar/2017_12_funktionale_programmierung/</link>
+      <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2017_12_funktionale_programmierung/</guid>
+      <description>ThemaFunktionale Programmierung Termin2017-12-08 20:00OrtUni Ulm, Hörsaal H20VortragendeThomas Archiv  Video: M4V (iPod) (37.0 MB) Video: MP4 (47.6 MB) Video: Ogg Theora (212.4 MB) Video: MP4 HD (73.8 MB) Audio: MP3 (34.3 MB) Audio: Ogg Vorbis (24.9 MB) Audio: Opus (26.2 MB)    Einführung mit praktischen Beispielen in MathCad und Haskell.</description>
+    </item>
+    
+    <item>
+      <title>Schlechte Zufallszahlengeneratoren</title>
+      <link>/ccc/chaosseminar/2017_11_schlechterzufall/</link>
+      <pubDate>Mon, 13 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2017_11_schlechterzufall/</guid>
+      <description>ThemaSchlechte Zufallszahlengeneratoren Termin2017-11-13 20:00OrtUni Ulm, O27, Hörsaal 20VortragendeMarco plus Assistent Archiv  Video: M4V (iPod) (75.7 MB) Video: MP4 (111.6 MB) Video: Ogg Theora (511.0 MB) Video: MP4 HD (573.7 MB) Audio: MP3 (64.9 MB) Audio: Ogg Vorbis (45.7 MB) Audio: Opus (48.4 MB)    Schlechter Zufall sorgt für Probleme in der Informatik. Marco hat ein paar scheinbar gute Beispiele gebaut und visualisiert sie mit Bildern.</description>
+    </item>
+    
+    <item>
+      <title>p≡p ≡ pretty Easy privacy. Privacy by Default.</title>
+      <link>/ccc/chaosseminar/2017_09_prettyeasyprivacy/</link>
+      <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2017_09_prettyeasyprivacy/</guid>
+      <description>Themap≡p ≡ pretty Easy privacy. Privacy by Default. Termin2017-09-04 20:00OrtUni Ulm, Hörsaal H22Vortragendesva, evtl. Überaschungsgast Archiv  Video: M4V (iPod) (58.4 MB) Video: MP4 (75.6 MB) Video: Ogg Theora (258.9 MB) Video: MP4 HD (327.9 MB) Audio: MP3 (54.0 MB) Audio: Ogg Vorbis (37.4 MB) Audio: Opus (35.4 MB)    Einfache Verschlüsselung für alle, E-Mails und Nachrichten werden standardmäßig &amp;ldquo;by default&amp;rdquo; verschlüsselt und anonymisiert, ohne dass der Nutzer grossen Aufwand damit hat, sondern seine Standardanwendungen verwendet.</description>
+    </item>
+    
+    <item>
+      <title>Backup, Sicherheit, Dokumentenverwaltung</title>
+      <link>/ccc/chaosseminar/2017_07_meinbackupkonzept/</link>
+      <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2017_07_meinbackupkonzept/</guid>
+      <description>ThemaBackup, Sicherheit, Dokumentenverwaltung Termin2017-07-10 20:00OrtUni Ulm, Hörsaal H20VortragendeMarcus Archiv  Video: M4V (iPod) (60.7 MB) Video: MP4 (84.1 MB) Video: Ogg Theora (304.3 MB) Video: MP4 HD (352.7 MB) Audio: MP3 (52.6 MB) Audio: Ogg Vorbis (15.4 MB) Audio: Opus (39.6 MB)    Vortragsfolien: chaosseminar_backup_handout.pdf
+Es geht um Backup, Sicherheit und Dokumentenverwaltung.
+Marcus hat ein Konzept implementiert, dass gegen Wohnungsbrand, Diebstahl und Cryptotrojaner halten soll. Es wird vorgestellt und zur Diskussion freigegeben.</description>
+    </item>
+    
+    <item>
+      <title>Sneaker Net</title>
+      <link>/ccc/chaosseminar/2017_06_sneakernet/</link>
+      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2017_06_sneakernet/</guid>
+      <description>ThemaSneaker Net Termin2017-06-12 20:00OrtUni Ulm, Hörsaal H20VortragendeMarco, Marcus Archiv  Video: M4V (iPod) (72.5 MB) Video: MP4 (104.4 MB) Video: Ogg Theora (342.3 MB) Video: MP4 HD (452.1 MB) Audio: MP3 (64.8 MB) Audio: Ogg Vorbis (14.9 MB) Audio: Opus (48.6 MB)    Es gibt Orte, an denen das Internet knapp ist. Dort helfen USB-Sticks und Festplatten. Die Daten werden per Turnschuh (Sneaker) im Netzwerk (Net) propagiert. Das ist so ähnlich wie Bittorrent mit viel mehr Latenz.</description>
+    </item>
+    
+    <item>
+      <title>Marathonbericht</title>
+      <link>/ccc/chaosseminar/2017_05_marathonbericht/</link>
+      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2017_05_marathonbericht/</guid>
+      <description>ThemaMarathonbericht Termin2017-05-08 20:00OrtUni Ulm, Hörsaal H20VortragendeMarcus Archiv Es existiert keine Aufzeichnung.   Marcus Reisebericht Rumänien plus Marathon. Mit Demonstration der Ausrüstung und einigen Fotos.</description>
+    </item>
+    
+    <item>
+      <title>SSH-Tunnel</title>
+      <link>/ccc/chaosseminar/2017_04_ssh-tunnel/</link>
+      <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2017_04_ssh-tunnel/</guid>
+      <description>ThemaSSH-Tunnel Termin2017-04-10 20:00OrtUni Ulm, Hörsaal H20VortragendeMarcus Archiv  Video: M4V (iPod) (72.7 MB) Video: MP4 (111.7 MB) Video: Ogg Theora (447.4 MB) Video: MP4 HD (533.7 MB) Audio: MP3 (62.8 MB) Audio: Ogg Vorbis (13.8 MB) Audio: Opus (46.7 MB)    Die Secure SHell kennen Administratoren als Fernwartungswerkzeug für Linux, Solaris und BSD. Die meisten Leute loggen sich interaktiv auf einem Computer ein, aber das Werkzeug ist sehr viel mächtiger.</description>
+    </item>
+    
+    <item>
+      <title>Freifunk</title>
+      <link>/ccc/chaosseminar/2017_03_freifunk/</link>
+      <pubDate>Mon, 13 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2017_03_freifunk/</guid>
+      <description>ThemaFreifunk Termin2017-03-13 20:00OrtUni Ulm, Hörsaal H20VortragendeMoritz Warning Archiv  Folien: PDF (4.2 MB) Video: M4V (iPod) (79.4 MB) Video: MP4 (142.9 MB) Video: Ogg Theora (487.0 MB) Video: MP4 HD (478.9 MB) Audio: MP3 (53.3 MB) Audio: Ogg Vorbis (19.2 MB) Audio: Opus (42.9 MB)    Freifunk ist eine Initiative aus unabhängigen Gruppen um eine offenes, nicht-kommerzielles und dezentrales Netzwerk aus WLAN-Geräten zu schaffen.
+Der Vortrag geht auf die Ideen und die Technik hinter Freifunk ein.</description>
+    </item>
+    
+    <item>
+      <title>Digitale Selbstverteidigung</title>
+      <link>/ccc/chaosseminar/2017_02_crypto/</link>
+      <pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2017_02_crypto/</guid>
+      <description>ThemaDigitale Selbstverteidigung Termin2017-02-13 20:00OrtUni Ulm, Hörsaal H20VortragendeMarcus, Simon, Juergen, Veronika Archiv  Video: M4V (iPod) (69.8 MB) Video: MP4 (97.7 MB) Video: Ogg Theora (332.7 MB) Video: MP4 HD (364.2 MB) Audio: MP3 (62.4 MB) Audio: Ogg Vorbis (25.8 MB) Audio: Opus (48.6 MB)    Wir zeigen einige grundlegende Angriffe und kryptographische Möglichkeiten mit denen man sich dabei verteidigen kann. Unter anderem zeigen wir die Installation von Ubuntu mit Festplattenverschlüsselung, Mailverschlüsselung mit Thunderbird und enigmail und Anonymisierung mit Tor-Browser.</description>
+    </item>
+    
+    <item>
+      <title>IPv6 Alias-Resolution auf großen Hostmengen</title>
+      <link>/ccc/chaosseminar/2017_01_ipv6_alias-resolution/</link>
+      <pubDate>Mon, 09 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2017_01_ipv6_alias-resolution/</guid>
+      <description>ThemaIPv6 Alias-Resolution auf großen Hostmengen Termin2017-01-09 20:00OrtUni Ulm, Hörsaal H20VortragendeMarcus Archiv Leider keine Aufzeichnung.   Wenn mit Traceroute die Netztopologie erkundet wird, laufen wahrscheinlich der Hinweg und Rückweg über die gleichen Router. Das muss sich jedoch nicht an den IPv6-Adressen widerspiegeln. Um die Topologieinformationen zu gewinnen, müssen die Adressen zu Routern zusammengeführt werden. Dieser Vorgang heißt Alias-Resolution. Marcus Masterarbeit beschäftigt sich mit Alias-Resolution im großen (10^6) Maßstab.
+Nach einer Einführung in IPv6 und Path-Maximum-Transfer-Unit-Discovery, werden die Vorarbeiten und die verwandten Arbeiten vorgestellt.</description>
+    </item>
+    
+    <item>
+      <title>Kurzvorträge: Plattentektonik, C99</title>
+      <link>/ccc/chaosseminar/2016_12_kurzvortraege/</link>
+      <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2016_12_kurzvortraege/</guid>
+      <description>ThemaKurzvorträge: Plattentektonik, C99 Termin2016-12-12 20:00OrtUni Ulm, Hörsaal H20VortragendeMarco, Marcus Archiv Noch keine Aufzeichnungsdateien verfügbar.   Vortrag: Klimaerwärmung und Plattentektonik  Wärmeleitungsgleichung Lösung für Sinusförmige Anregung an der Erdoberfläche (Eis- und Warmzeiten) Eindringtiefe der Temperaturänderung durch Eiszeiten Dadurch verursachte Wärmeausdehnung der Erdplatten Dadurch verursachte Kontinentaldriftgeschwindigkeit (3-10 cm pro Jahr)  Vortrag: Das Byte in C99 Für einen Netzwerkstack soll Code entstehen, der auch noch in 20 Jahren kompiliert. Wie bildet man das ab?</description>
+    </item>
+    
+    <item>
+      <title>Gewachsene kleine Programmiersprachen</title>
+      <link>/ccc/chaosseminar/2016_11_mini_programmiersprachen/</link>
+      <pubDate>Mon, 14 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2016_11_mini_programmiersprachen/</guid>
+      <description>ThemaGewachsene kleine Programmiersprachen Termin2016-11-14 20:15OrtUni Ulm, Hörsaal H20VortragendeMarco Archiv  Video: M4V (iPod) (43.3 MB) Video: MP4 (61.7 MB) Video: Ogg Theora (235.6 MB) Video: MP4 HD (207.1 MB) Audio: MP3 (38.0 MB) Audio: Ogg Vorbis (16.5 MB) Audio: Opus (31.0 MB)    Vielleicht geht&amp;rsquo;s euch auch so, dass ihr so erst mal ein kleines Programm schreibt, das irgendwas nützliches tut. Dann wird es erweitert, weil es läuft ja eh so toll, dann soll es interaktiv werden, und man muss irgendwie eine input-switch-case-schleife basteln, und schon ist mehr oder weniger zufällig eine primitive Programmiersprache entstanden.</description>
+    </item>
+    
+    <item>
+      <title>Charset, Encoding &amp; Font</title>
+      <link>/ccc/chaosseminar/2016_10_charset-encoding-font/</link>
+      <pubDate>Mon, 10 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2016_10_charset-encoding-font/</guid>
+      <description>ThemaCharset, Encoding &amp;amp; Font Termin2016-10-10 20:15OrtUni Ulm, Hörsaal H22Vortragendemeillo Archiv  Video: MP4 (131.2 MB) Video: Ogg Theora (589.5 MB) Video: M4V (iPod) (90.3 MB) Video: MP4 HD (481.7 MB) Audio: MP3 (79.2 MB) Audio: Ogg Vorbis (32.9 MB) Audio: Opus (65.4 MB)    Dieser Vortrag bringt Licht in die Verwirrungen und das Unwissen im Themenfeld um Zeichensaetze (Charsets), Zeichenkodierungen (Encodings) und Schriften (Fonts).
+Links Fonts:
+ https://en.</description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>/ccc/chaosseminar/2016_09_python/</link>
+      <pubDate>Mon, 12 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2016_09_python/</guid>
+      <description>ThemaPython Termin2016-09-12 20:00OrtUni Ulm, Hörsaal H20VortragendeRens Archiv  Video: M4V (iPod) (80.7 MB) Video: MP4 (120.6 MB) Video: Ogg Theora (525.2 MB) Video: MP4 HD (467.8 MB) Audio: MP3 (70.5 MB) Audio: Ogg Vorbis (28.9 MB) Audio: Opus (58.1 MB)    In diesen Vortrag geht es um der Programmiersprache Python. Es wird ein kurzen Überblick über die Sprache gegeben, sowie auch eine ganze Reihe von Fragen beantwortet &amp;ndash; wie ist das Programmierumfeld?</description>
+    </item>
+    
+    <item>
+      <title>Secure Messengers</title>
+      <link>/ccc/chaosseminar/2016_07_secure_messengers/</link>
+      <pubDate>Mon, 11 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2016_07_secure_messengers/</guid>
+      <description>ThemaSecure Messengers Termin2016-07-11 20:00OrtUni Ulm, Hörsaal H20VortragendeDome, Matou Archiv  Video: M4V (iPod) (75.6 MB) Video: MP4 (112.1 MB) Video: Ogg Theora (311.9 MB) Video: MP4 HD (469.0 MB) Audio: MP3 (63.2 MB) Audio: Ogg Vorbis (26.9 MB) Audio: Opus (50.1 MB)    Seit Jahren unterhalten wir uns über verschlüsselte E-Mails, aber bis heute gibt es kaum Menschen, die E-Mail-Verschlüsselung regelmäßig verwenden. Davon abgesehen findet ein Großteil der elektronischen Kommunikation mittlerweile über sogenannte Messenger (typischerweise auf dem Smartphone) statt.</description>
+    </item>
+    
+    <item>
+      <title>Process Wire</title>
+      <link>/ccc/chaosseminar/2016_06_process_wire/</link>
+      <pubDate>Mon, 13 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2016_06_process_wire/</guid>
+      <description>ThemaProcess Wire Termin2016-06-13 20:00OrtUni Ulm, Hörsaal H20VortragendeSimon Archiv  Video: M4V (iPod) (45.9 MB) Video: MP4 (75.7 MB) Video: Ogg Theora (274.9 MB) Video: MP4 HD (333.2 MB) Audio: MP3 (37.0 MB) Audio: Ogg Vorbis (17.3 MB) Audio: Opus (29.1 MB)    Open Source Content Management System.</description>
+    </item>
+    
+    <item>
+      <title>Spaß mit IPv6 Implementierungen</title>
+      <link>/ccc/chaosseminar/2016_05_spasz_mit_ipv6/</link>
+      <pubDate>Mon, 09 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2016_05_spasz_mit_ipv6/</guid>
+      <description>ThemaSpaß mit IPv6, widersprechenden Standards und Herstellerimplementierungen Termin2016-05-09 20:00OrtUni Ulm, Hörsaal H20VortragendeMarcus Archiv  Video: M4V (iPod) (44.4 MB) Video: MP4 (67.3 MB) Video: Ogg Theora (274.9 MB) Video: MP4 HD (248.1 MB) Audio: MP3 (38.2 MB) Audio: Ogg Vorbis (17.2 MB) Audio: Opus (29.6 MB)    Vortragszusammenfassung Alias Resolution beschäftigt sich mit der Frage: Sind diese beiden Adressen 2001::1 und 2004::f der gleiche Router? Es werden Verfahren zur IPv6 Alias Resolution erklärt und partiell demonstriert.</description>
+    </item>
+    
+    <item>
+      <title>Sichere Autos – aber wie?</title>
+      <link>/ccc/chaosseminar/2016_04_sichereautos/</link>
+      <pubDate>Mon, 11 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2016_04_sichereautos/</guid>
+      <description>ThemaSichere Autos – aber wie? Termin2016-04-11 20:00OrtUni Ulm, Hörsaal H20VortragendeFrank Archiv Es wird zu diesem Chaosseminar keine Aufzeichnung geben.   Der Vortrag betrachtet moderne und zukünftige Fahrzeuge und wirft die Frage auf, wie aktuelle Entwicklungen zu Connected Cars, Fahrerassistenzsystemen und automatisiertem Fahren deren Security beeinflussen und möglicherweise zu einem gläsernen Autofahrer führen. Ziel ist es, einen auch für Laien verständlichen Überblick über die verschiedenen Aspekte der Thematik zu geben und dabei sowohl Car-2-Car Communication, fahrzeuginterne Systeme und die Sensorik automatisierter Fahrzeuge als Angriffsziel zu betrachten.</description>
+    </item>
+    
+    <item>
+      <title>Lua</title>
+      <link>/ccc/chaosseminar/2016_03_lua/</link>
+      <pubDate>Mon, 14 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2016_03_lua/</guid>
+      <description>ThemaLua Termin2016-03-14 20:00OrtUni Ulm, Hörsaal H20VortragendePhil, Simon Archiv  Video: M4V (iPod) (55.5 MB) Video: MP4 (76.4 MB) Video: Ogg Theora (223.0 MB) Video: MP4 HD (330.7 MB) Audio: MP3 (51.7 MB) Audio: Ogg Vorbis (40.2 MB) Audio: Opus (37.7 MB)    Lua ist eine beliebte Skriptsprache mit verschiedensten Anwendungmöglichkeiten. Entwickelt als Konfigurations- und Erweiterungssprache, zeigte sich bald, dass Lua sehr gut portierbar ist und z.B. auch für eingebettete Systeme wunderbar geeignet ist.</description>
+    </item>
+    
+    <item>
+      <title>Privatsphäre – Brauchen wir das?</title>
+      <link>/ccc/chaosseminar/2016_02_privacy/</link>
+      <pubDate>Mon, 08 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2016_02_privacy/</guid>
+      <description>ThemaPrivatsphäre – Brauchen wir das? Termin2016-02-08 20:00OrtUni Ulm, Hörsaal H20VortragendeMatthias Matousek (matou) Archiv  Video: M4V (iPod) (57.5 MB) Video: MP4 (85.6 MB) Video: Ogg Theora (285.3 MB) Video: MP4 HD (496.3 MB) Audio: MP3 (48.1 MB) Audio: Ogg Vorbis (34.2 MB) Audio: Opus (33.0 MB)    Viele Arbeiten beschäftigen sich damit private Daten zu schützen. Viele Leute argumentieren gegen den Schutz von privaten Daten. Viele sind müde sich ständig Gedanken zum Thema Privacy/Datenschutz/Privatsphäre zu machen.</description>
+    </item>
+    
+    <item>
+      <title>E-mail</title>
+      <link>/ccc/chaosseminar/2016_01_e-mail/</link>
+      <pubDate>Mon, 11 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2016_01_e-mail/</guid>
+      <description>ThemaE-mail Termin2016-01-11 20:00OrtUni Ulm, Hörsaal H20VortragendeJürgen Archiv  Video: M4V (iPod) (78.0 MB) Video: MP4 (110.1 MB) Video: Ogg Theora (407.8 MB) Video: MP4 HD (647.9 MB) Audio: MP3 (72.1 MB) Audio: Ogg Vorbis (51.4 MB) Audio: Opus (49.1 MB)    Der Vortrag zeigt, wie es hinter der bunten Welt vieler Clients aussieht, welche Auswirkungen mancher Klick hat und wie das dann anderswo ankommt. Im speziellen wird auf den In-Reply-To Header eingegangen.</description>
+    </item>
+    
+    <item>
+      <title>Buchempfehlungen: nett und freundlich</title>
+      <link>/ccc/chaosseminar/2015_12_buchempfehlungen/</link>
+      <pubDate>Mon, 14 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2015_12_buchempfehlungen/</guid>
+      <description>ThemaBuchempfehlungen: nett und freundlich Termin2015-12-14 20:00OrtUni Ulm, Hörsaal H20VortragendeFelix Archiv  Video: M4V (iPod) (45.7 MB) Video: MP4 (68.3 MB) Video: Ogg Theora (264.2 MB) Video: MP4 HD (458.1 MB) Audio: MP3 (38.0 MB) Audio: Ogg Vorbis (28.1 MB) Audio: Opus (26.5 MB)    Analoges Wissen im Buch. Es beinhaltet ein Dutzend Bücher über Vernunft, Methodik, Wissen und Glauben. Insbesondere das Sachbuch von weiblichen IT Autoren würdigt der Vortragende.</description>
+    </item>
+    
+    <item>
+      <title>Lightning Talks</title>
+      <link>/ccc/chaosseminar/2015_11_lightning/</link>
+      <pubDate>Mon, 09 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2015_11_lightning/</guid>
+      <description> ThemaLightning Talks Termin2015-11-09 20:00OrtUni Ulm, Hörsaal H20VortragendeHenning, Marco, Björn, Marcus Archiv  Video: M4V (iPod) (95.0 MB) Video: MP4 (157.6 MB) Video: Ogg Theora (517.0 MB) Video: MP4 HD (1,070.2 MB) Audio: MP3 (70.5 MB) Audio: Ogg Vorbis (50.0 MB) Audio: Opus (48.3 MB)    Im November wurden uns mehrere Kurzvorträge präsentiert. Im Folgenden die Vortragenden und ihre Themen, sowie die entsprechenden Start-Zeiten im Video:
+   Thema Vortragender Start-Zeit im Video     Negative Warhscheinlichkeiten Henning 00:03:46   Impulsvortrag und Diskussion zur Geheimhaltung von Forschungsergebnissen Marco 00:20:38   Browser Tracking Björn 00:40:35   Junghacker abholen wo sie stehen Marcus 01:15:53   Sport Bootstrapping für Nerds Marcus 01:20:15    </description>
+    </item>
+    
+    <item>
+      <title>Ruby</title>
+      <link>/ccc/chaosseminar/2015_10_ruby/</link>
+      <pubDate>Mon, 12 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2015_10_ruby/</guid>
+      <description> ThemaRuby Termin2015-10-12 20:00OrtUni Ulm, Hörsaal H20VortragendeNiklas Häusele Archiv  Video: M4V (iPod) (69.7 MB) Video: MP4 (103.7 MB) Video: Ogg Theora (464.3 MB) Video: MP4 HD (497.3 MB) Audio: MP3 (53.4 MB) Audio: Ogg Vorbis (38.0 MB) Audio: Opus (35.7 MB)    </description>
+    </item>
+    
+    <item>
+      <title>Das Spiel Go</title>
+      <link>/ccc/chaosseminar/2015_09_go/</link>
+      <pubDate>Mon, 14 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2015_09_go/</guid>
+      <description>ThemaDas Spiel Go Termin2015-09-14 20:10OrtUni Ulm, Hörsaal H20VortragendeRens &amp;#39;namnatulco&amp;#39; van der Heijden Archiv  Video: M4V (iPod) (83.1 MB) Video: MP4 (135.2 MB) Video: Ogg Theora (460.7 MB) Video: MP4 HD (1,119.6 MB) Audio: MP3 (61.9 MB) Audio: Ogg Vorbis (44.5 MB) Audio: Opus (42.3 MB)    Auch wenn man aus unseren Kreisen vielleicht einen Vortrag über die Programmiersprache Go erwartet, soll es in diesem Vortrag um das Brettspiel Go gehen.</description>
+    </item>
+    
+    <item>
+      <title>Kurzvorträge: DNS-Tunnel, Traffic Maps, CMU Sphinx</title>
+      <link>/ccc/chaosseminar/2015_07_kurzvortraege_abgeschlossener_projekte/</link>
+      <pubDate>Mon, 13 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2015_07_kurzvortraege_abgeschlossener_projekte/</guid>
+      <description>ThemaKurzvorträge: DNS-Tunnel, Traffic Maps, CMU Sphinx Termin2015-07-13 20:00OrtUni Ulm, Hörsaal H20VortragendeMarcus Archiv  Video: M4V (iPod) (84.6 MB) Video: MP4 (143.3 MB) Video: Ogg Theora (457.6 MB) Video: MP4 HD (700.5 MB) Audio: MP3 (64.3 MB) Audio: Ogg Vorbis (48.4 MB) Audio: Opus (46.1 MB)    3 Kurzvorträge abgeschlossener Projekte:
+ DNS-Tunnel - wir klauen am Telekom Hotspot Google Traffic Map Archiv Project CMU-Sphinx &amp;ldquo;hello world&amp;rdquo; der Spracherkennung  Traffic Maps cnt=1; for f in *png; do h=$(printf &#39;%04d\n&#39; $cnt); cnt=$(($cnt+1)); mv $f $h.</description>
+    </item>
+    
+    <item>
+      <title>Tcl</title>
+      <link>/ccc/chaosseminar/2015_06_tcl/</link>
+      <pubDate>Mon, 08 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2015_06_tcl/</guid>
+      <description>ThemaTcl Termin2015-06-08 20:10OrtUni Ulm, Hörsaal H20Vortragendemeillo Archiv  Video: M4V (iPod) (66.3 MB) Video: MP4 (95.6 MB) Video: Ogg Theora (307.9 MB) Video: MP4 HD (412.9 MB) Audio: MP3 (57.8 MB) Audio: Ogg Vorbis (45.3 MB) Audio: Opus (39.9 MB)    In diesem Chaosseminar wird die Programmiersprache Tcl vorgestellt. Sie ist, ueberstark vereinfacht, eine Mischung aus C, Lisp, sh, Perl und Lua. Einst war Tcl neben Perl die beliebteste Scriptsprache.</description>
+    </item>
+    
+    <item>
+      <title>Recht: Filesharing, Streaming, Framing</title>
+      <link>/ccc/chaosseminar/2015_05_recht_filesharing_streaming_framing/</link>
+      <pubDate>Mon, 11 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2015_05_recht_filesharing_streaming_framing/</guid>
+      <description>ThemaRecht: Filesharing, Streaming, Framing Termin2015-05-11 20:00OrtUni Ulm, Hörsaal H20VortragendeAL Archiv  Video: M4V (iPod) (59.4 MB) Video: MP4 (80.6 MB) Video: Ogg Theora (336.3 MB) Video: MP4 HD (339.1 MB) Audio: MP3 (54.2 MB) Audio: Ogg Vorbis (39.8 MB) Audio: Opus (38.7 MB)    AL spricht über rechtliche Aspekte von Filesharing, Streaming und Framing. Außerdem wird das Urheberrecht zur Zeit des Internets ein Teilthema.</description>
+    </item>
+    
+    <item>
+      <title>Editoren Battle</title>
+      <link>/ccc/chaosseminar/2015_04_editoren_battle/</link>
+      <pubDate>Mon, 13 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2015_04_editoren_battle/</guid>
+      <description>ThemaEditoren Battle Termin2015-04-13 20:15OrtUni Ulm, Hörsaal H20VortragendeHeiko, Marco, Marcus, Matou, Meillo, Phil Archiv  Video: M4V (iPod) (72.8 MB) Video: MP4 (105.3 MB) Video: Ogg Theora (469.3 MB) Video: MP4 HD (615.9 MB) Audio: MP3 (62.1 MB) Audio: Ogg Vorbis (45.1 MB) Audio: Opus (41.7 MB)    In diesem Chaosseminar treten Tastatur-Athleten mit ihren perfekt getunten Editoren in verschiedensten Disziplinen des Editierens gegeneinander an.
+Jeder Teilnehmer hat einen Zeitslot um seinen Editor vorzustellen.</description>
+    </item>
+    
+    <item>
+      <title>Turtlegrafik und Paedagogische Programmiersprachen</title>
+      <link>/ccc/chaosseminar/2015_03_turtlegrafik/</link>
+      <pubDate>Mon, 09 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2015_03_turtlegrafik/</guid>
+      <description>ThemaTurtlegrafik und Paedagogische Programmiersprachen Termin2015-03-09 20:05OrtUni Ulm, Hörsaal H20VortragendeMarco Haschka Archiv  Video: M4V (iPod) (68.9 MB) Video: MP4 (98.0 MB) Video: Ogg Theora (389.8 MB) Video: MP4 HD (452.7 MB) Audio: MP3 (60.8 MB) Audio: Ogg Vorbis (43.1 MB) Audio: Opus (40.4 MB)    Logo war in den 80ern DIE paedagogische Programmiersprache schlechthin. Vernuenftige Programme schrieb man zwar lieber in BASIC, Fortran oder Turbo-Pascal, aber Logo malte wunderschoene Bildchen.</description>
+    </item>
+    
+    <item>
+      <title>Algorithmischer Handel</title>
+      <link>/ccc/chaosseminar/2015_02_boerse/</link>
+      <pubDate>Mon, 09 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2015_02_boerse/</guid>
+      <description>ThemaAlgorithmischer Handel Termin2015-02-09 20:00OrtUni Ulm, Hörsaal H20VortragendeHenning Kopp Archiv  Video: M4V (iPod) (59.4 MB) Video: MP4 (95.6 MB) Video: Ogg Theora (321.4 MB) Video: MP4 HD (445.7 MB) Audio: MP3 (43.5 MB) Audio: Ogg Vorbis (31.5 MB) Audio: Opus (29.8 MB)    Der Vortrag handelt davon, wie Börsen und andere Märkte funktionieren. Es geht um verschiedene Strategien der Auftragsausführung. Quasi eine kleine Einführung in algorithmischen Handel, verschiedene Ordertypen, Abgrenzung zu quantitativem Handel,&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>RFID Malware</title>
+      <link>/ccc/chaosseminar/2015_01_rfid_malware/</link>
+      <pubDate>Mon, 12 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2015_01_rfid_malware/</guid>
+      <description>ThemaRFID Malware Termin2015-01-12 20:00OrtUni Ulm, Hörsaal H20VortragendeMatou Archiv  Video: M4V (iPod) (38.5 MB) Video: MP4 (54.1 MB) Video: Ogg Theora (204.9 MB) Video: MP4 HD (236.6 MB) Audio: MP3 (34.0 MB) Audio: Ogg Vorbis (25.3 MB) Audio: Opus (23.9 MB)    Jeglichem Input nicht zu trauen ist einer der Grundsätze in der Software Security. Selbst wenn man sich versucht an diesen Grundsatz zu halten, ist es nicht immer einfach alles richtig zu machen.</description>
+    </item>
+    
+    <item>
+      <title>Spaß mit Übersetzen und Unicode</title>
+      <link>/ccc/chaosseminar/2014_12_uebersetzen/</link>
+      <pubDate>Mon, 08 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2014_12_uebersetzen/</guid>
+      <description>ThemaSpaß mit Übersetzen und Unicode Termin2014-12-08 20:00OrtUni Ulm, Hörsaal H20VortragendeMarcus Poller Archiv  Video: M4V (iPod) (99.9 MB) Video: MP4 (151.5 MB) Video: Ogg Theora (590.5 MB) Video: MP4 HD (757.4 MB) Audio: MP3 (81.2 MB) Audio: Ogg Vorbis (60.4 MB) Audio: Opus (57.1 MB)    Das Thema lang erklärt: Es sind zwei Teilvorträge.
+Der erste fasst die Geschichten zusammen, die Marcus und seine Sprachschüler an Fehlübersetzungen und lustigen Missverständnissen hatten und soll dabei leichtfüßig in mögliche Gedankengänge von Fremdsprachen einführen.</description>
+    </item>
+    
+    <item>
+      <title>Init-Systeme</title>
+      <link>/ccc/chaosseminar/2014_11_initsysteme/</link>
+      <pubDate>Mon, 10 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2014_11_initsysteme/</guid>
+      <description>ThemaInit-Systeme Termin2014-11-10 20:00OrtUni Ulm, Hörsaal H20VortragendeBjörn Archiv  Video: M4V (iPod) (82.6 MB) Video: MP4 (110.9 MB) Video: Ogg Theora (455.7 MB) Video: MP4 HD (428.9 MB) Audio: MP3 (76.6 MB) Audio: Ogg Vorbis (50.8 MB) Audio: Opus (50.8 MB)    Init-Systeme Der Vortag beschreibt zum einen technische Aspekte und Herangehensweisen von existierenden Init-Systemen. Zum anderen gibt es aber eine Reihe von Umbrüchen in vielen Distributionen und auch soziale Aspekte spielen eine erhebliche Rolle.</description>
+    </item>
+    
+    <item>
+      <title>Brain Computer Interfaces</title>
+      <link>/ccc/chaosseminar/2014_10_bci/</link>
+      <pubDate>Mon, 13 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2014_10_bci/</guid>
+      <description>ThemaBrain Computer Interfaces Termin2014-10-13 20:07OrtUni Ulm, Hörsaal H20VortragendeMatou &amp;lt; matou@ulm.ccc.de &amp;gt; &amp;amp; Kate &amp;lt; katja.rogers@ulm.ccc.de &amp;gt; Archiv  Video: M4V (iPod) (64.4 MB) Video: MP4 (96.5 MB) Video: Ogg Theora (327.9 MB) Video: MP4 HD (427.3 MB) Audio: MP3 (52.5 MB) Audio: Ogg Vorbis (36.9 MB) Audio: Opus (35.9 MB)    Dem Computer Befehle erteilen ohne dafür einen einzigen Muskel zu bewegen. Kate und matou werden euch an diesem Abend zeigen, welche Möglichkeiten es gibt, Gehirnaktivität zu messen, zu interpretieren und Systeme zu bauen die diese als Input verwenden.</description>
+    </item>
+    
+    <item>
+      <title>Android Malware over USB</title>
+      <link>/ccc/chaosseminar/2014_09_malware/</link>
+      <pubDate>Mon, 08 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2014_09_malware/</guid>
+      <description>ThemaAndroid Malware over USB Termin2014-09-08 20:00OrtUni Ulm, Hörsaal H20VortragendeSergej Schmidt Archiv  Video: M4V (iPod) (55.8 MB) Video: MP4 (77.8 MB) Video: Ogg Theora (300.5 MB) Video: MP4 HD (324.0 MB) Audio: MP3 (50.0 MB) Audio: Ogg Vorbis (35.2 MB) Audio: Opus (33.8 MB)    In dem Talk geht es darum aufzuzeigen wie auf einem Desktop PC, durch ein verbundenes Android das verschiedene physische Geräte vortäuschen kann, unerwünschte Aktionen oder Software ausgeführt werden kann.</description>
+    </item>
+    
+    <item>
+      <title>Kamerasysteme</title>
+      <link>/ccc/chaosseminar/2014_07_kamerasysteme/</link>
+      <pubDate>Mon, 14 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2014_07_kamerasysteme/</guid>
+      <description>ThemaKamerasysteme Termin2014-07-14 20:00OrtUni Ulm, Hörsaal H20VortragendeMarco Haschka Archiv  Video: M4V (iPod) (123.7 MB) Video: MP4 (195.8 MB) Video: Ogg Theora (216.7 MB) Video: MP4 HD (886.0 MB) Audio: MP3 (94.2 MB) Audio: Ogg Vorbis (71.6 MB) Audio: Opus (66.9 MB)    Wenn man &amp;ldquo;Fliegende Augen&amp;rdquo; hoert, denkt man heute nicht an neues Spiel unter Medizinstudenten sondern man denkt an Drohnen mit Kamerasystemen an Bord. Kameras sind heute in Autos, in Telefonen, in (optischen) Maeusen, in Tollcollect-Bruecken in 70-Euro-Spielzeughubschraubern.</description>
+    </item>
+    
+    <item>
+      <title>Mathemagie</title>
+      <link>/ccc/chaosseminar/2014_06_mathe/</link>
+      <pubDate>Mon, 16 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2014_06_mathe/</guid>
+      <description>ThemaMathemagie Termin2014-06-16 20:00OrtUni Ulm, Hörsaal H20VortragendeJürgen Dollinger Archiv  Video: M4V (iPod) (55.2 MB) Video: MP4 (74.6 MB) Video: Ogg Theora (269.3 MB) Video: MP4 HD (826.0 MB) Audio: MP3 (51.5 MB) Audio: Ogg Vorbis (38.2 MB) Audio: Opus (38.7 MB)    Die Mathematik bietet viel praktisches aber, zumindest je nach Sichtweise auch vergnügliches bis unglaubliches. Der Vortrag stellt zunächst Fourierreihen vor, weil die vor ein paar Monaten im Chaosseminar zu sehen waren und es da noch viel zu sagen gab.</description>
+    </item>
+    
+    <item>
+      <title>Eine Einführung in die Kategorientheorie</title>
+      <link>/ccc/chaosseminar/2014_05_kategorien/</link>
+      <pubDate>Mon, 12 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2014_05_kategorien/</guid>
+      <description>ThemaEine Einführung in die Kategorientheorie Termin2014-05-12 20:00OrtUni Ulm, Hörsaal H20VortragendeHenning Kopp Archiv  Video: M4V (iPod) (115.6 MB) Video: MP4 (205.8 MB) Video: Ogg Theora (619.5 MB) Video: MP4 HD (1,077.0 MB) Audio: MP3 (70.5 MB) Audio: Ogg Vorbis (51.8 MB) Audio: Opus (48.5 MB)    Eine Einführung in die Kategorientheorie mit Beispielen in Haskell.</description>
+    </item>
+    
+    <item>
+      <title>Geschichte der Webentwicklung</title>
+      <link>/ccc/chaosseminar/2014_04_web_history/</link>
+      <pubDate>Mon, 14 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2014_04_web_history/</guid>
+      <description>ThemaGeschichte der Webentwicklung Termin2014-04-14 20:00OrtUni Ulm, Hörsaal H20Vortragendedome Archiv  Video: M4V (iPod) (55.1 MB) Video: MP4 (83.6 MB) Video: Ogg Theora (49.2 MB) Video: MP4 HD (618.4 MB) Audio: MP3 (46.0 MB) Audio: Ogg Vorbis (34.2 MB) Audio: Opus (31.8 MB)    Eine subjektive Zeitreise und berblick über die Geschichte der Webentwicklung und verschiedene Web-Technologien, inklusive einer kleinen Live Demonstration wie Web-Anwendungen entwickelt werden können, ohne dabei Bluthochdruck zu bekommen.</description>
+    </item>
+    
+    <item>
+      <title>Software Verification</title>
+      <link>/ccc/chaosseminar/2014_03_verifikation/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2014_03_verifikation/</guid>
+      <description>ThemaSoftware Verification Termin2014-03-10 20:00OrtUni Ulm, Hörsaal H20VortragendeNamnatulco Archiv  Video: M4V (iPod) (48.9 MB) Video: MP4 (72.9 MB) Video: Ogg Theora (238.6 MB) Video: MP4 HD (299.0 MB) Audio: MP3 (40.3 MB) Audio: Ogg Vorbis (29.4 MB) Audio: Opus (28.1 MB)    Software schreiben ist schwierig. Ein Tool, das immer wieder kurze Zeit auf kommt, um danach wieder zu verschwinden, ist die (automatische, statische) Verifikation von Software. Ziel ist, mit einem Algorithmus fest zu stellen, ob ein Programm &amp;ldquo;korrekt&amp;rdquo; funktioniert.</description>
+    </item>
+    
+    <item>
+      <title>Elektromagnetische Verträglichkeit an ausgewählten BUS-Systemen</title>
+      <link>/ccc/chaosseminar/2014_02_emv/</link>
+      <pubDate>Mon, 10 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2014_02_emv/</guid>
+      <description>ThemaElektromagnetische Verträglichkeit an ausgewählten BUS-Systemen Termin2014-02-10 20:15OrtUni Ulm, Hörsaal H20VortragendeMarcus Archiv  Video: M4V (iPod) (54.3 MB) Video: MP4 (76.9 MB) Video: Ogg Theora (253.5 MB) Video: MP4 HD (334.0 MB) Audio: MP3 (46.4 MB) Audio: Ogg Vorbis (34.6 MB) Audio: Opus (32.1 MB)    oder &amp;mdash; wie Marcus im Labor Mikrocontroller ge-blitz-dingst hat &amp;mdash;
+Alle elektrisch betriebenen Geräte generieren mehr oder weniger stark ausgeprägte elektromagnetische Felder, lassen sich aber auch von Feldern ab einer gewissen Intensität selbst beeinflussen.</description>
+    </item>
+    
+    <item>
+      <title>Hardware- und Softwareentwurf einer Maschine zur Prozesssteuerung</title>
+      <link>/ccc/chaosseminar/2014_01_hardwaresoftwareentwurf/</link>
+      <pubDate>Mon, 13 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2014_01_hardwaresoftwareentwurf/</guid>
+      <description>ThemaHardware- und Softwareentwurf einer Maschine zur Prozesssteuerung Termin2014-01-13 20:15OrtUni Ulm, Hörsaal H20VortragendeHEck Archiv  Video: M4V (iPod) (42.4 MB) Video: MP4 (68.6 MB) Video: Ogg Theora (175.8 MB) Video: MP4 HD (245.6 MB) Audio: MP3 (35.6 MB) Audio: Ogg Vorbis (26.6 MB) Audio: Opus (24.7 MB)    Halbleiter werden aus Stoffen mit mehreren Schichten zusammengefügt. Je präziser man die Schichtübergänge fertigen kann, desto genauer kann man das Verhalten des Bauteiles voraussagen.</description>
+    </item>
+    
+    <item>
+      <title>Der elektronische Personalausweis</title>
+      <link>/ccc/chaosseminar/2013_12_personalausweis/</link>
+      <pubDate>Mon, 09 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2013_12_personalausweis/</guid>
+      <description>ThemaDer elektronische Personalausweis Termin2013-12-09 20:00OrtUni Ulm, Hörsaal H20VortragendeVolker Birk Archiv  Video: M4V (iPod) (147.0 MB) Video: MP4 (337.2 MB) Video: Ogg Theora (823.6 MB) Video: MP4 HD (1,270.4 MB) Audio: MP3 (53.0 MB) Audio: Ogg Vorbis (36.9 MB) Audio: Opus (36.8 MB)    Der elektronische Personalausweis. Eine Leidensgeschichte. Von Promos mit der Bildzeitung, defekter Software und dem technischen Totalversagen. JETZT NEU mit einem hohlen Innenminister-Spruch zum Sammeln in jeder Packung!</description>
+    </item>
+    
+    <item>
+      <title>On Performance</title>
+      <link>/ccc/chaosseminar/2013_11_performance/</link>
+      <pubDate>Mon, 11 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2013_11_performance/</guid>
+      <description>ThemaOn Performance Termin2013-11-11 20:00OrtUni Ulm, Hörsaal H20Vortragendemeillo (markus schnalke) Archiv  Folien: PDF (0.1 MB) Video: M4V (iPod) (59.3 MB) Video: MP4 (90.2 MB) Video: Ogg Theora (220.4 MB) Video: MP4 HD (316.4 MB) Audio: MP3 (55.4 MB) Audio: Ogg Vorbis (42.3 MB) Audio: Opus (38.4 MB)    Vortragswebsite: http://marmaro.de/docs/chaosseminar/on-performance/
+In diesem Vortrag geht es um Gedanken zur Performance von Software und Software-Systemen. Anhand von Beispielen werden verschiedenen Seiten des Themas beleuchtet und diskutiert.</description>
+    </item>
+    
+    <item>
+      <title>Das Unix-Prinzip. Die experimentelle Textengine</title>
+      <link>/ccc/chaosseminar/2013_10_textengine/</link>
+      <pubDate>Mon, 14 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2013_10_textengine/</guid>
+      <description>ThemaDas Unix-Prinzip. Die experimentelle Textengine Termin2013-10-14 20:00OrtUni Ulm, Hörsaal H20VortragendeFrancesc Hervada-Sala Archiv  Video: M4V (iPod) (39.2 MB) Video: MP4 (61.8 MB) Video: Ogg Theora (176.1 MB) Video: MP4 HD (236.1 MB) Audio: MP3 (34.8 MB) Audio: Ogg Vorbis (25.5 MB) Audio: Opus (24.2 MB)    Unix-Prinzip kann man den Grundsatz „Software ist Text” nennen. Dieses Prinzip zu ergründen, indem der Text nicht als bloße Zeichenkette, sondern als geparste Struktur implementiert wird, ist der Zweck der experimentellen Textengine, die in diesem Vortrag vorgestellt wird.</description>
+    </item>
+    
+    <item>
+      <title>Open Data</title>
+      <link>/ccc/chaosseminar/2013_07_open_data/</link>
+      <pubDate>Mon, 08 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2013_07_open_data/</guid>
+      <description>ThemaOpen Data Termin2013-07-08 20:00OrtUni Ulm, Hörsaal H20VortragendeMichi Archiv  Video: M4V (iPod) (57.6 MB) Video: MP4 (101.9 MB) Video: Ogg Theora (288.6 MB) Video: MP4 HD (372.0 MB) Audio: MP3 (43.7 MB) Audio: Ogg Vorbis (32.2 MB) Audio: Opus (29.9 MB)    Es ist höchste Zeit, dass es zu diesem Thema ein ChaosSeminar gibt! Immer mehr technische Enthusiasten entdecken unser politisches System als Spielwiese und sind dabei Ideen aus der freien Softwarewelt in die Politik zu übertragen.</description>
+    </item>
+    
+    <item>
+      <title>Lightningtalks</title>
+      <link>/ccc/chaosseminar/2013_06_lightningtalks/</link>
+      <pubDate>Mon, 10 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2013_06_lightningtalks/</guid>
+      <description> ThemaLightningtalks Termin2013-06-10 20:00OrtUni Ulm, Hörsaal H20VortragendeRens, Marcus, Jens, Laura, Marco, Nico Archiv  Video: M4V (iPod) (76.1 MB) Video: MP4 (126.9 MB) Video: Ogg Theora (394.2 MB) Video: MP4 HD (502.1 MB) Audio: MP3 (63.1 MB) Audio: Ogg Vorbis (47.1 MB) Audio: Opus (43.7 MB)    Verschiedene Kurzbeiträge zu den Themen:
+ Sicherheit in IT-Systemen Lasercutter Raspberry-Pi Software für Kleinkinder Datentypen in Perl  </description>
+    </item>
+    
+    <item>
+      <title>Selfmade OSHW Homeautomation</title>
+      <link>/ccc/chaosseminar/2013_05_homeautomation/</link>
+      <pubDate>Mon, 13 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2013_05_homeautomation/</guid>
+      <description>ThemaSelfmade OSHW Homeautomation Termin2013-05-13 20:00OrtUni Ulm, Hörsaal H20VortragendePatrick Weggler Archiv  Video: M4V (iPod) (62.7 MB) Video: MP4 (104.3 MB) Video: Ogg Theora (299.6 MB) Video: MP4 HD (408.7 MB) Audio: MP3 (53.9 MB) Audio: Ogg Vorbis (38.9 MB) Audio: Opus (37.4 MB)    Eine energiesparende und trotzdem kosteneffektive Beleuchtung mit LEDs, zusätzlich Rollläden, Steckdosen und noch einiges mehr Steuern und alles als Open Source Hardware.</description>
+    </item>
+    
+    <item>
+      <title>Lightningtalks</title>
+      <link>/ccc/chaosseminar/2013_04_lightningtalks/</link>
+      <pubDate>Mon, 08 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2013_04_lightningtalks/</guid>
+      <description> ThemaLightningtalks Termin2013-04-08 20:00OrtUni Ulm, Hörsaal H20VortragendeMarcus, Björn, Felix, Dominik Archiv  Video: M4V (iPod) (58.4 MB) Video: MP4 (95.5 MB) Video: Ogg Theora (281.4 MB) Video: MP4 HD (358.7 MB) Audio: MP3 (49.1 MB) Audio: Ogg Vorbis (36.3 MB) Audio: Opus (34.4 MB)    Verschiedene Kurzbeiträge zu den Themen:
+ &amp;ldquo;Deutsche Bahn reverseengineering&amp;rdquo; IPV6 Bücherrezension Fernsehserienverwaltung SVG  </description>
+    </item>
+    
+    <item>
+      <title>HOWTO Lockpick</title>
+      <link>/ccc/chaosseminar/2013_02_lockpicking2/</link>
+      <pubDate>Mon, 11 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2013_02_lockpicking2/</guid>
+      <description>ThemaHOWTO Lockpick Termin2013-02-11 20:00OrtUni Ulm, Hörsaal H20VortragendePatrick Archiv  Video: M4V (iPod) (38.0 MB) Video: MP4 (67.5 MB) Video: Ogg Theora (223.1 MB) Video: MP4 HD (290.1 MB) Audio: MP3 (30.3 MB) Audio: Ogg Vorbis (22.1 MB) Audio: Opus (21.0 MB)    Ein Vortrag ber die Technik zur zerstörungsfreien Öffnung von Schlössern. Dieser Vortrag schließt an den Vortrag &amp;ldquo;Aufsperrtechnik&amp;rdquo; vom Juni 2011 an.</description>
+    </item>
+    
+    <item>
+      <title>Port Scan Techniken</title>
+      <link>/ccc/chaosseminar/2013_01_port_scanning/</link>
+      <pubDate>Mon, 14 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2013_01_port_scanning/</guid>
+      <description>ThemaPort Scan Techniken Termin2013-01-14 20:00OrtUni Ulm, Hörsaal H20VortragendeRoland Leidenfrost Archiv  Video: M4V (iPod) (43.6 MB) Video: MP4 (88.6 MB) Video: Ogg Theora (253.5 MB) Video: MP4 HD (452.1 MB) Audio: MP3 (29.6 MB) Audio: Ogg Vorbis (21.7 MB) Audio: Opus (20.5 MB)    Ein Überblick über eingesetzte TCP/IP Scantechniken.</description>
+    </item>
+    
+    <item>
+      <title>Battle of programming languages</title>
+      <link>/ccc/chaosseminar/2012_11_battle/</link>
+      <pubDate>Mon, 12 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2012_11_battle/</guid>
+      <description>ThemaBattle of programming languages Termin2012-11-12 20:00OrtUni Ulm, Hörsaal H20Vortragendediverse Archiv  Video: M4V (iPod) (95.1 MB) Video: MP4 (168.9 MB) Video: Ogg Theora (786.4 MB) Video: MP4 HD (1,119.3 MB) Audio: MP3 (83.3 MB) Audio: Ogg Vorbis (61.6 MB)    Zu Wettbewerb angetreten sind: Octave/Matlab, Ruby, VHDL, PHP, Whitespace, C, JavaScript, Haskell und Cellang.</description>
+    </item>
+    
+    <item>
+      <title>Paradoxien und Antinomien</title>
+      <link>/ccc/chaosseminar/2012_10_paradox/</link>
+      <pubDate>Mon, 08 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2012_10_paradox/</guid>
+      <description>ThemaParadoxien und Antinomien Termin2012-10-08 20:00OrtUni Ulm, Hörsaal H20VortragendeMarco Haschka Archiv  Video: M4V (iPod) (57.1 MB) Video: MP4 (102.8 MB) Video: Ogg Theora (368.3 MB) Video: MP4 HD (409.8 MB) Audio: MP3 (43.1 MB) Audio: Ogg Vorbis (31.7 MB)    Ist Licht ein Teilchen oder eine Welle? Kann es sein, dass der beste Sportstar der Antike es nicht schafft, eine Schildkröte zu überholen? Kann ein kleiner Dämon den zweiten Hauptsatz der Thermodynamik austricksen?</description>
+    </item>
+    
+    <item>
+      <title>Damals</title>
+      <link>/ccc/chaosseminar/2012_09_damals/</link>
+      <pubDate>Mon, 10 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2012_09_damals/</guid>
+      <description>ThemaDamals Termin2012-09-10 20:00OrtUni Ulm, Hörsaal H20VortragendeMarco Haschka, Jürgen Dollinger, ... Archiv  Video: M4V (iPod) (88.9 MB) Video: MP4 (166.1 MB) Video: Ogg Theora (683.2 MB) Video: MP4 HD (701.9 MB) Audio: MP3 (60.7 MB) Audio: Ogg Vorbis (44.3 MB)    Als wir die Computer noch selbst geschnitzt haben. Wir erzählen ein bisschen aus alten Zeiten. Wer mag kann seinen ersten Rechner mitbringen.</description>
+    </item>
+    
+    <item>
+      <title>Virtualisierung</title>
+      <link>/ccc/chaosseminar/2012_07_virtualisierung/</link>
+      <pubDate>Mon, 09 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2012_07_virtualisierung/</guid>
+      <description>ThemaVirtualisierung Termin2012-07-09 20:07.5OrtUni Ulm, Hörsaal H20VortragendeBjörn Wiedersheim Archiv  Folien: PDF (0.1 MB) Video: M4V (iPod) (63.4 MB) Video: MP4 (96.3 MB) Video: Ogg Theora (224.7 MB) Video: MP4 HD (336.3 MB) Audio: MP3 (60.4 MB) Audio: Ogg Vorbis (45.7 MB)    Durch die immer größer werdende Rechenkapazität von Desktop-PCs ist es auch mit normaler Hardware möglich, andere Systeme zu emulieren oder zu virtualisieren. Der Vortrag soll einen Überblick über Techniken und verfügbare Implementierungen geben.</description>
+    </item>
+    
+    <item>
+      <title>OpenBSD</title>
+      <link>/ccc/chaosseminar/2012_06_openbsd/</link>
+      <pubDate>Mon, 11 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2012_06_openbsd/</guid>
+      <description>ThemaOpenBSD Termin2012-06-11 20:07.5OrtUni Ulm, Hörsaal H20Vortragendephil Archiv  Folien: PDF (0.5 MB) Video: M4V (iPod) (75.1 MB) Video: MP4 (137.1 MB) Video: Ogg Theora (530.9 MB) Video: MP4 HD (623.0 MB) Audio: MP3 (58.8 MB) Audio: Ogg Vorbis (43.8 MB)    Über das Betriebssystem OpenBSD.</description>
+    </item>
+    
+    <item>
+      <title>Whitespace</title>
+      <link>/ccc/chaosseminar/2012_05_whitespace/</link>
+      <pubDate>Mon, 14 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2012_05_whitespace/</guid>
+      <description>ThemaWhitespace Termin2012-05-14 20:00OrtUni Ulm, Hörsaal H20Vortragendematou Archiv  Video: M4V (iPod) (42.3 MB) Video: MP4 (75.3 MB) Video: Ogg Theora (254.7 MB) Video: MP4 HD (302.7 MB) Audio: MP3 (32.4 MB) Audio: Ogg Vorbis (23.9 MB)    Eine kleine Einführung in die Programmiersprache Whitespace.</description>
+    </item>
+    
+    <item>
+      <title>mmh (meillo&#39;s mail handler)</title>
+      <link>/ccc/chaosseminar/2012_04_mmh/</link>
+      <pubDate>Mon, 16 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2012_04_mmh/</guid>
+      <description>Themammh (meillo&amp;#39;s mail handler) Termin2012-04-16 20:10OrtUni Ulm, Hörsaal H20Vortragendemeillo (markus schnalke) Archiv  Video: M4V (iPod) (80.5 MB) Video: MP4 (141.7 MB) Video: Ogg Theora (528.2 MB) Video: MP4 HD (612.8 MB) Audio: MP3 (65.7 MB) Audio: Ogg Vorbis (49.6 MB)    Vortragswebsite: http://marmaro.de/docs/chaosseminar/mmh/
+Das Thema des Vortrags ist gleichfalls Masterarbeitsthema des Vortragenden. In ihr soll das angestaubte nmh in Form der experimentellen Version mmh modernisiert werden.</description>
+    </item>
+    
+    <item>
+      <title>Chaos macht Schule</title>
+      <link>/ccc/chaosseminar/2012_03_chaos_macht_schule/</link>
+      <pubDate>Mon, 12 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2012_03_chaos_macht_schule/</guid>
+      <description>ThemaChaos macht Schule Termin2012-03-12 20:07.5OrtUni Ulm, Hörsaal H20Vortragendematou, michi, nico Archiv  Video: M4V (iPod) (70.1 MB) Video: MP4 (117.3 MB) Video: Ogg Theora (368.0 MB) Video: MP4 HD (472.0 MB) Audio: MP3 (61.1 MB) Audio: Ogg Vorbis (45.8 MB)    Seit einigen Jahren engagieren sich Erfa-Kreise in der Zusammenarbeit mit Bildungsinstitutionen. Es geht darum, Schülern unsere Sicht auf Technologien, wie dem Internet, näher zu bringen. Im Mittelpunkt stehen dabei Besuche und Veranstaltungen an Schulen.</description>
+    </item>
+    
+    <item>
+      <title>node.js</title>
+      <link>/ccc/chaosseminar/2012_02_node.js/</link>
+      <pubDate>Mon, 13 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2012_02_node.js/</guid>
+      <description>Themanode.js Termin2012-02-13 20:00OrtUni Ulm, Hörsaal H20VortragendeBenjamin Erb, Michael Müller Archiv  Video: M4V (iPod) (99.9 MB) Video: MP4 (169.0 MB) Video: Ogg Theora (488.1 MB) Video: MP4 HD (595.3 MB) Audio: MP3 (84.0 MB) Audio: Ogg Vorbis (61.2 MB)    Folien: http://berb.github.com/nodejs-talk-chaosseminar/#1
+&amp;ldquo;Node&amp;rsquo;s goal is to provide an easy way to build scalable network programs.
+Almost no function in Node directly performs I/O, so the process never blocks.</description>
+    </item>
+    
+    <item>
+      <title>Bitcoin</title>
+      <link>/ccc/chaosseminar/2012_01_bitcoin/</link>
+      <pubDate>Mon, 09 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2012_01_bitcoin/</guid>
+      <description>ThemaBitcoin Termin2012-01-09 20:00OrtUni Ulm, Hörsaal H20VortragendeAlexander Bernauer Archiv  Video: M4V (iPod) (87.2 MB) Video: MP4 (153.2 MB) Video: Ogg Theora (505.1 MB) Video: MP4 HD (576.7 MB) Audio: MP3 (69.5 MB) Audio: Ogg Vorbis (51.2 MB)    Bitcoin ist die erste digitale Währung, die nicht zentral gesteuert wird. Stattdessen verwaltet eine verteilte Datenbank die Kontostände aller Teilnehmer und generiert neues Geld anhand einer fest vorgegebenen Rate. Der technische Trick, der ein solches System möglich macht, ist, dass die Veränderung des globalen Zustandes im verteilten Systems einen Proof-of-Work voraussetzt.</description>
+    </item>
+    
+    <item>
+      <title>Programmieren in der Automatisierungstechnik</title>
+      <link>/ccc/chaosseminar/2011_12_automatisierungstechnik/</link>
+      <pubDate>Mon, 12 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2011_12_automatisierungstechnik/</guid>
+      <description>ThemaFUP, KOP, Ladder Diagram - Programmieren in der Automatisierungstechnik Termin2011-12-12 20:00OrtUni Ulm, Hörsaal H20VortragendeMarkus Schaber Archiv  Video: M4V (iPod) (67.1 MB) Video: MP4 (119.7 MB) Video: Ogg Theora (461.5 MB) Video: MP4 HD (590.8 MB) Audio: MP3 (58.4 MB) Audio: Ogg Vorbis (43.8 MB) Audio: Opus (40.9 MB)    Hinweis: Aufgrund technischer Probleme endet die Aufzeichnung leider vorzeitig
+Auch in der Automatisierungsindustrie werden immer mehr Computer eingesetzt.</description>
+    </item>
+    
+    <item>
+      <title>User Interfaces</title>
+      <link>/ccc/chaosseminar/2011_11_user_interfaces/</link>
+      <pubDate>Mon, 14 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2011_11_user_interfaces/</guid>
+      <description>ThemaUser Interfaces Termin2011-11-14 20:00OrtUni Ulm, Hörsaal H20VortragendeMichael Müller Archiv  Folien: PDF (15.4 MB) Video: M4V (iPod) (55.4 MB) Video: MP4 (103.0 MB) Video: Ogg Theora (522.7 MB) Video: MP4 HD (600.0 MB) Audio: MP3 (45.6 MB) Audio: Ogg Vorbis (33.1 MB) Audio: Opus (31.4 MB)    Der Vortrag orientiert sich an Fragestellungen, wie &amp;ldquo;Was ist Intuition? Wie kann man Benutzeroberflächen möglichst intuitiv gestalten?&amp;rdquo; (Affordances, Mappings, Constraints, UI Patterns) oder &amp;ldquo;Kann es für diese Aufgabe ein besseres Interface geben?</description>
+    </item>
+    
+    <item>
+      <title>Therapsiden</title>
+      <link>/ccc/chaosseminar/2011_10_therapsiden/</link>
+      <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2011_10_therapsiden/</guid>
+      <description>ThemaTherapsiden Termin2011-10-10 20:00OrtUni Ulm, Hörsaal H20VortragendeMarco Haschka Archiv  Video: M4V (iPod) (46.5 MB) Video: MP4 (71.9 MB) Video: Ogg Theora (186.4 MB) Video: MP4 HD (254.3 MB) Audio: MP3 (43.1 MB) Audio: Ogg Vorbis (33.2 MB) Audio: Opus (30.1 MB)    Die Dinosaurier sind vor 65 Milionen Jahren ausgestorben. Danach kamen die Säugetiere. Diese Meinung ist falsch, die Wurzeln der Säugetiere gehen in der Zeit weiter zurück als sogar die ältesten Dinosaurier.</description>
+    </item>
+    
+    <item>
+      <title>Sicherheit für Produktionsmaschinen</title>
+      <link>/ccc/chaosseminar/2011_09_sichere_produktion/</link>
+      <pubDate>Mon, 12 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2011_09_sichere_produktion/</guid>
+      <description>ThemaSicherheit für Produktionsmaschinen Termin2011-09-12 20:00OrtUni Ulm, Hörsaal H20VortragendeVolker Birk Archiv  Video: M4V (iPod) (99.3 MB) Video: MP4 (175.7 MB) Video: Ogg Theora (157.4 MB) Video: MP4 HD (639.1 MB) Audio: MP3 (64.6 MB) Audio: Ogg Vorbis (46.5 MB) Audio: Opus (45.0 MB)    Vortrag zur Sicherheit in Netzen von Produktionsmaschinen. Gerade werden viele Maschinen, die Sachen produzieren ans Internet angeschlossen, mit der Sicherheit ist es leider nicht gut bestellt.</description>
+    </item>
+    
+    <item>
+      <title>Creative Coding</title>
+      <link>/ccc/chaosseminar/2011_07_creative_coding/</link>
+      <pubDate>Mon, 11 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2011_07_creative_coding/</guid>
+      <description>ThemaCreative Coding Termin2011-07-11 20:00OrtUni Ulm, Hörsaal H20VortragendeMichael Müller Archiv  Video: M4V (iPod) (68.8 MB) Video: MP4 (105.1 MB) Video: Ogg Theora (94.2 MB) Video: MP4 HD (345.7 MB) Audio: MP3 (62.3 MB) Audio: Ogg Vorbis (48.3 MB) Audio: Opus (43.2 MB)    Folien: http://micha.elmueller.net/media/talks/chaosseminar/creative-coding/slides.pdf (6.4 MB)
+Der Vortrag beschäftigt sich mit dem kreativen Umgang mit Code, der generativen Gestaltung mittels Algorithmen und der Visualisierung von Daten.</description>
+    </item>
+    
+    <item>
+      <title>Aufsperrtechnik</title>
+      <link>/ccc/chaosseminar/2011_06_aufsperrtechnik/</link>
+      <pubDate>Mon, 20 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2011_06_aufsperrtechnik/</guid>
+      <description>ThemaAufsperrtechnik Termin2011-06-20 20:07,5OrtUni Ulm, Hörsaal H20VortragendeBerend Eggers Archiv  Video: M4V (iPod) (92.0 MB) Video: MP4 (157.5 MB) Video: Ogg Theora (137.7 MB) Video: MP4 HD (956.1 MB) Audio: MP3 (73.3 MB) Audio: Ogg Vorbis (55.7 MB) Audio: Opus (50.8 MB)    Auf jeder Hackerkonferenz findet man mittlerweile Lockpicking und das Öffnen von Schlössern mittels Schlagschlüsseln geistert immer wieder durch die Medien. Das ist aber noch lange nicht alles aus dem weiten Feld der Aufsperrtechnik.</description>
+    </item>
+    
+    <item>
+      <title>In Lateinamerika</title>
+      <link>/ccc/chaosseminar/2011_05_inlateinamerika/</link>
+      <pubDate>Mon, 09 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2011_05_inlateinamerika/</guid>
+      <description>ThemaIn Lateinamerika Termin2011-05-09 20:00OrtUni Ulm, Hörsaal H20Vortragendemeillo Archiv  Video: M4V (iPod) (70.2 MB) Video: MP4 (114.1 MB) Video: Ogg Theora (122.0 MB) Video: MP4 HD (374.2 MB) Audio: MP3 (60.8 MB) Audio: Ogg Vorbis (47.2 MB) Audio: Opus (42.8 MB)    Waehrend meiner Reise durch Suedamerika habe ich viel gesehen und hatte viel Zeit nachzudenken. Ich will meine Eindruecke und Gedanken mit euch teilen. Ich will an Beispielen erklaeren wie die Welt dort unten aussieht, wie sich dort Software Libre manifestiert, wie Technik genutzt wird.</description>
+    </item>
+    
+    <item>
+      <title>Keysigning-Party</title>
+      <link>/ccc/chaosseminar/2011_04_keysigning/</link>
+      <pubDate>Mon, 11 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2011_04_keysigning/</guid>
+      <description>ThemaKeysigning-Party Termin2011-04-11; Erklärungen ab 20:07½, Keysigning selbst etwas späterOrtUni Ulm, Hörsaal H20VortragendeOrganisation: Matou, Hannes, Nico, weitere Archiv  Video: M4V (iPod) (59.4 MB) Video: MP4 (114.5 MB) Video: Ogg Theora (99.2 MB) Video: MP4 HD (509.9 MB) Audio: MP3 (43.8 MB) Audio: Ogg Vorbis (32.7 MB) Audio: Opus (30.9 MB)    Im Chaosseminar im April unterschreiben wir alle gegenseitig unsere OpenPGP-Keys. Zuvor gibt es von ein paar Organisatoren Erklärungen zu der Prozedur.</description>
+    </item>
+    
+    <item>
+      <title>Erde bei Nacht</title>
+      <link>/ccc/chaosseminar/2011_03_nacht/</link>
+      <pubDate>Mon, 14 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2011_03_nacht/</guid>
+      <description>ThemaErde bei Nacht Termin2011-03-14 20:00OrtUni Ulm, Hörsaal H20VortragendeFelix Paetzold Archiv  Video: M4V (iPod) (101.2 MB) Video: MP4 (198.2 MB) Video: Ogg Theora (171.0 MB) Video: MP4 HD (1,068.3 MB) Audio: MP3 (69.7 MB) Audio: Ogg Vorbis (49.3 MB) Audio: Opus (48.8 MB)    Die Erde bei Nacht ist eine Projektion von vielen Einzelbildern und zeigt Nacht über der ganzen Erdkugel.
+In allen Kontinenten sehen wir Lichterscheinungen, die eine Wirklichkeit wieder und wider spiegeln.</description>
+    </item>
+    
+    <item>
+      <title>Ich hab doch nichts zu verbergen</title>
+      <link>/ccc/chaosseminar/2011_02_ich_hab_doch_nichts_zu_verbergen/</link>
+      <pubDate>Mon, 14 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2011_02_ich_hab_doch_nichts_zu_verbergen/</guid>
+      <description>ThemaIch hab doch nichts zu verbergen Termin2011-02-14 20:00OrtUni Ulm, Hörsaal H20VortragendeNico, Matou Archiv  Video: M4V (iPod) (38.6 MB) Video: MP4 (81.6 MB) Video: Ogg Theora (72.8 MB) Video: MP4 HD (360.1 MB) Audio: MP3 (23.0 MB) Audio: Ogg Vorbis (16.9 MB) Audio: Opus (16.1 MB)    Folien: http://dontpanic.ulm.ccc.de/~matou/nichts_zu_verbergen.pdf
+Wir fordern von unserem Staat, dass dieser uns vor bösen Menschen beschützt. Dafür braucht der Staat unsere Daten. In den letzten Jahren kamen immer wieder neue Ideen auf, wie diese Daten gesammelt werden können.</description>
+    </item>
+    
+    <item>
+      <title>Mach-O Executable Format</title>
+      <link>/ccc/chaosseminar/2010_12_mach_o/</link>
+      <pubDate>Mon, 13 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2010_12_mach_o/</guid>
+      <description>ThemaMach-O Executable Format Termin2010-12-13 20:00OrtUni Ulm, Hörsaal H20VortragendeMichael Feiri Archiv  Folien: PDF (0.0 MB) Video: M4V (iPod) (79.3 MB) Video: MP4 (212.5 MB) Video: Ogg Theora (169.8 MB) Video: MP4 HD (1,834.4 MB) Audio: MP3 (48.8 MB) Audio: Ogg Vorbis (34.9 MB)    Der Vortrag geht zunächst auf die Details des unixoiden Programmstart unter Mac OS X ein. Im zweiten Teil geht es um die Optimierung des kleinstmöglichen Mach-O Executable für Mac OS X v10.</description>
+    </item>
+    
+    <item>
+      <title>Worst Wide Web</title>
+      <link>/ccc/chaosseminar/2010_11_worstwideweb/</link>
+      <pubDate>Mon, 08 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2010_11_worstwideweb/</guid>
+      <description>ThemaWorst Wide Web Termin2010-11-08 20:00OrtUni Ulm, Hörsaal H20VortragendeNico Archiv  Video: M4V (iPod) (122.1 MB) Video: MP4 (230.1 MB) Video: Ogg Theora (199.5 MB) Video: MP4 HD (1,570.5 MB) Audio: MP3 (65.0 MB) Audio: Ogg Vorbis (48.1 MB)    Das Web ist kaputt.
+Dies ist die kurze und treffende Zusammenfassung dieses Chaosseminar-Vortrags, in dem Nico an Hand einiger Beispiele zeigt, was man so alles im Web finden kann, das nicht funktioniert.</description>
+    </item>
+    
+    <item>
+      <title>De-Mail -- Gedanken zum E-Government 2.0</title>
+      <link>/ccc/chaosseminar/2010_10_demail/</link>
+      <pubDate>Mon, 11 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2010_10_demail/</guid>
+      <description>ThemaDe-Mail -- Gedanken zum E-Government 2.0 Termin2010-10-11 20:00OrtUni Ulm, Hörsaal H20Vortragendematou Archiv  Folien: PDF (0.2 MB) Video: M4V (iPod) (108.7 MB) Video: MP4 (207.0 MB) Video: Ogg Theora (164.3 MB) Video: MP4 HD (1,348.8 MB) Audio: MP3 (50.0 MB) Audio: Ogg Vorbis (36.7 MB)    Fast jeder hat schon davon gehört; kaum jemand weiß, was es wirklich ist und macht.
+Die De-Mail soll Kommunikation über das Internet sicher und vertrauenswürdig machen.</description>
+    </item>
+    
+    <item>
+      <title>Deklarative Programmiersprachen</title>
+      <link>/ccc/chaosseminar/2010_09_deklarativeprogrammierung/</link>
+      <pubDate>Mon, 13 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2010_09_deklarativeprogrammierung/</guid>
+      <description>ThemaDeklarative Programmiersprachen Termin2010-09-13 20:00OrtUni Ulm, Hörsaal H20VortragendeLeo Archiv  Video: M4V (iPod) (133.1 MB) Video: MP4 (271.2 MB) Video: Ogg Theora (203.9 MB) Video: MP4 HD (2,157.6 MB) Audio: MP3 (65.3 MB) Audio: Ogg Vorbis (48.5 MB)    Ein Obst ist der Apfel. Jedes Obst ist gesund. Ist ein Apfel gesund?
+Toaster-&amp;gt;toasten( Toastbrot );
+Menschen habe viele Wege gesucht, ihre Probleme in einer Zwischensprache zu modellieren. Dies sind die &amp;ldquo;Paradigmen&amp;rdquo; der Programmierung.</description>
+    </item>
+    
+    <item>
+      <title>Software Project Revival</title>
+      <link>/ccc/chaosseminar/2010_07_softwareprojectrevival/</link>
+      <pubDate>Mon, 12 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2010_07_softwareprojectrevival/</guid>
+      <description>ThemaSoftware Project Revival Termin2010-07-12 20:00OrtUni Ulm, Hörsaal H20VortragendeMarkus Schnalke Archiv  Folien: PDF (0.0 MB) Video: M4V (iPod) (51.6 MB) Video: MP4 (81.7 MB) Video: Ogg Theora (69.0 MB) Video: MP4 HD (785.5 MB) Audio: MP3 (48.2 MB) Audio: Ogg Vorbis (36.1 MB)    Ein Vortrag mit Erfahrungen und Tipps über meine Wiederbelebungsversuche von masqmail.
+Masqmail wurde 1999-2002 entwickelt und ist 2005 verwaist. Im Herbst 2008 habe ich es, im Rahmen meiner Diplomarbeit, übernommen.</description>
+    </item>
+    
+    <item>
+      <title>git, OS im Eigenbau</title>
+      <link>/ccc/chaosseminar/2010_06_git&#43;os-im-eigenbau/</link>
+      <pubDate>Mon, 14 Jun 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2010_06_git&#43;os-im-eigenbau/</guid>
+      <description>Themagit, OS im Eigenbau Termin2010-06-14 20:00OrtUni Ulm, Hörsaal H20VortragendeChristian Himpel, matou und phil Archiv  Video: M4V (iPod) (206.1 MB) Video: MP4 (463.5 MB) Video: Ogg Theora (380.3 MB) Video: MP4 HD (3,220.8 MB) Audio: MP3 (80.0 MB) Audio: Ogg Vorbis (60.3 MB)    In diesem Monat haben wir zwei kleine Vorträge.
+git Vortragender: Christian Himpel
+Uhrzeit: 20:00
+Git ist eine Versionsverwaltungssoftware, die hauptsächlich zur Entwicklung und Pflege des Linux Kerns implementiert wurde.</description>
+    </item>
+    
+    <item>
+      <title>Seefahrt</title>
+      <link>/ccc/chaosseminar/2010_05_seefahrt/</link>
+      <pubDate>Mon, 10 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2010_05_seefahrt/</guid>
+      <description>ThemaSeefahrt Termin2010-05-10 20:00OrtUni Ulm, Hörsaal H20VortragendeMarcus Archiv  Video: M4V (iPod) (100.6 MB) Video: MP4 (230.9 MB) Video: Ogg Theora (377.1 MB) Video: MP4 HD (1,431.1 MB) Audio: MP3 (51.9 MB) Audio: Ogg Vorbis (38.4 MB)    Fortsetzung von /dev/radio: Klugscheißerfragen gern gehört.
+ Wie sieht eine Straße im Wasser aus? Wie verhalte ich mich, wenn ich drei grüne Lichter über dem Wasser sehe? Warum bewegt sich das Schiff fort und wie steuere ich das?</description>
+    </item>
+    
+    <item>
+      <title>Lightningtalks</title>
+      <link>/ccc/chaosseminar/2010_04_lightning3/</link>
+      <pubDate>Mon, 12 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2010_04_lightning3/</guid>
+      <description> ThemaLightningtalks Termin2010-04-12 20:00OrtUni Ulm, Hörsaal H20Vortragendediverse Archiv  Video: M4V (iPod) (67.9 MB) Video: MP4 (133.4 MB) Video: Ogg Theora (110.2 MB) Video: MP4 HD (694.9 MB) Audio: MP3 (39.4 MB) Audio: Ogg Vorbis (29.3 MB)    Ein paar spontane Lightningtalks.
+ Enigma (Hannes) Knoten (Marcus) alternative Suchmaschinen (Juergen)  </description>
+    </item>
+    
+    <item>
+      <title>Unix Philosophie</title>
+      <link>/ccc/chaosseminar/2010_03_unixphil/</link>
+      <pubDate>Mon, 08 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2010_03_unixphil/</guid>
+      <description>ThemaUnix Philosophie Termin2010-03-08 20:00OrtUni Ulm, Hörsaal H20VortragendeMarkus Schnalke Archiv  Video: M4V (iPod) (67.3 MB) Video: MP4 (134.5 MB) Video: Ogg Theora (118.1 MB) Video: MP4 HD (767.3 MB) Audio: MP3 (58.8 MB) Audio: Ogg Vorbis (43.9 MB)    Folien: http://marmaro.de/docs/chaosseminar/unix-phil/
+Ein Vortrag über die wahre Genialität von Unix.
+Unix ist ein beeindruckendes Betriebssystem und eine erstklassige Programmsammlung. Doch dies ist beides letztlich nur eine Folge. Das eigentlich besondere an Unix ist seine Philosophie.</description>
+    </item>
+    
+    <item>
+      <title>Lightning talks</title>
+      <link>/ccc/chaosseminar/2010_02_lightning/</link>
+      <pubDate>Mon, 08 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2010_02_lightning/</guid>
+      <description> ThemaLightning talks Termin2010-02-08 20:00OrtUni Ulm, Hörsaal H20Vortragendeverschiedene Archiv  Video: M4V (iPod) (91.7 MB) Video: MP4 (183.5 MB) Video: Ogg Theora (176.9 MB) Video: MP4 HD (1,026.7 MB) Audio: MP3 (71.3 MB) Audio: Ogg Vorbis (51.1 MB)    Lightning talks sind kurze Vorträge bei denen es auch keiner großen Planung bedarf.
+ RTSJ - Echtzeit in Java (matou) Backscatter (Juergen) Apple Marketing (Marcus) QT (Marcus) BSD Sockets (Marcus) xterm und die Windowmanager (Juergen)  </description>
+    </item>
+    
+    <item>
+      <title>Urheberrecht und Prioritätsverhandlungen</title>
+      <link>/ccc/chaosseminar/2010_01_prioritaetsverhandlung/</link>
+      <pubDate>Mon, 11 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2010_01_prioritaetsverhandlung/</guid>
+      <description>ThemaUrheberrecht und Prioritätsverhandlungen Termin2010-01-11 20:00OrtUni Ulm, Hörsaal H20VortragendeSylvia Kröger, Dr. Christoph Ziegler Archiv  Handout (0.2 MB)    In diesem Vortrag werden ein Notar und eine Rechtsanwältin uns in verdaulichen Häppchen in das Gebiet des Urheberrechts einführen. Eine Abschweifung in verwandte Rechtsgebiete wie Marken- oder Patentrecht wird dabei nicht fehlen.
+Der Schöpfer eines Werks hat demnach automatisch auch das Urheberrecht daran. Aber oft ist das eher theoretisch, denn wie beweist man, dass man selbst und nicht jemand anders der das auch behauptet Schöpfer des Werks ist?</description>
+    </item>
+    
+    <item>
+      <title>Manipulationspsychologie</title>
+      <link>/ccc/chaosseminar/2009_12_manipulationspsychologie/</link>
+      <pubDate>Mon, 14 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2009_12_manipulationspsychologie/</guid>
+      <description>ThemaManipulationspsychologie Termin2009-12-14 20:00OrtUni Ulm, Hörsaal H20VortragendeGeorg Gottleuber Archiv  Folien: PDF (0.9 MB) Video: M4V (iPod) (57.4 MB) Video: MP4 (103.6 MB) Video: Ogg Theora (85.4 MB) Video: MP4 HD (183.0 MB) Audio: MP3 (47.1 MB) Audio: Ogg Vorbis (32.3 MB)    In guten Sicherheitssystemen sind nicht nur technische Maßnahmen ausschlaggebend. Bei genauer Betrachtung zeigt sich, dass die Sicherheitsstrategie immer auch Menschen enthält (z.B. den Administrator). Angriffe auf diese menschliche Komponente verdienen also ebenfalls volle Aufmerksamkeit.</description>
+    </item>
+    
+    <item>
+      <title>troff and friends</title>
+      <link>/ccc/chaosseminar/2009_11_troff-and-friends/</link>
+      <pubDate>Mon, 09 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2009_11_troff-and-friends/</guid>
+      <description>Thematroff and friends Termin2009-11-09 20:00OrtUni Ulm, Hörsaal H20Vortragendemeillo (markus schnalke) Archiv  Folien: PDF (0.0 MB) Video: M4V (iPod) (137.8 MB) Video: MP4 (378.0 MB) Video: Ogg Theora (348.9 MB) Video: MP4 HD (683.1 MB) Audio: MP3 (56.4 MB) Audio: Ogg Vorbis (45.3 MB)    Folien und Beispiele: http://marmaro.de/docs/chaosseminar/troff
+Tex kennt und verwendet heute fast jeder Computerbegeisterte wenn er Dokumente erstellen soll. Neben Tex gibt es aber auch andere Textsatzsysteme die keineswegs schlechter, nur unbekannter, sind.</description>
+    </item>
+    
+    <item>
+      <title>Alte Softwareschätze</title>
+      <link>/ccc/chaosseminar/2009_10_softwareschaetze/</link>
+      <pubDate>Mon, 12 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2009_10_softwareschaetze/</guid>
+      <description>ThemaAlte Softwareschätze Termin2009-10-12 20:00OrtUni Ulm, Hörsaal H20Vortragendemeillo (markus schnalke) Archiv  Video: M4V (iPod) (118.1 MB) Video: MP4 (287.8 MB) Video: Ogg Theora (253.7 MB) Video: MP4 HD (394.3 MB) Audio: MP3 (75.5 MB) Audio: Ogg Vorbis (59.5 MB)    Folien und Code: http://marmaro.de/docs/chaosseminar/treasuries/
+Dieser Vortrag soll Software vorstellen die schon einige Jahre auf dem Buckel hat. Vieles wird man schon vom Namen her gehört haben, aber nur wenige werden damit selbst gearbeitet haben oder noch immer arbeiten.</description>
+    </item>
+    
+    <item>
+      <title>Linux Kernel Hacking (Teil 2)</title>
+      <link>/ccc/chaosseminar/2009_09_linux_kernel_hacking_ii/</link>
+      <pubDate>Mon, 14 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2009_09_linux_kernel_hacking_ii/</guid>
+      <description>ThemaLinux Kernel Hacking (Teil 2) Termin2009-09-14 20:00OrtUni Ulm, Hörsaal H20VortragendeGeorg Gottleuber Archiv  Folien: PDF (0.2 MB) Video: M4V (iPod) (68.6 MB) Video: MP4 (209.1 MB) Video: Ogg Theora (197.1 MB) Video: MP4 HD (733.0 MB) Audio: MP3 (41.8 MB) Audio: Ogg Vorbis (31.4 MB) Codebeispiele im Quelltext: TAR.GZ (0.0 MB)    Nach der Einführung im ersten Teil, geht es jetzt ans Eingemachte. Wie man dem Kernel mit eigenem C-Code einen Tritt verpasst, wird an Hand von Codebeispielen erläutert.</description>
+    </item>
+    
+    <item>
+      <title>Linux Kernel Hacking (Teil 1)</title>
+      <link>/ccc/chaosseminar/2009_07_linux_kernel_hacking/</link>
+      <pubDate>Mon, 13 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2009_07_linux_kernel_hacking/</guid>
+      <description>ThemaLinux Kernel Hacking (Teil 1) Termin2009-07-13 20:00OrtUni Ulm, Hörsaal H20VortragendeGeorg Gottleuber Archiv  Folien: PDF (0.1 MB) Video: M4V (iPod) (75.2 MB) Video: MP4 (144.1 MB) Video: Ogg Theora (163.0 MB) Video: MP4 HD (479.7 MB) Audio: MP3 (66.9 MB) Audio: Ogg Vorbis (52.8 MB)    Unter der Haube von allen Linux-Distributionen &amp;ndash; Debian GNU/Hurd mal ausgenommen &amp;ndash; schafft der Linux-Kernel. Weshalb man einen Kernel braucht und wie er funktioniert, wird als Theorie kurz eingeführt.</description>
+    </item>
+    
+    <item>
+      <title>Überraschung</title>
+      <link>/ccc/chaosseminar/2009_05_surprise/</link>
+      <pubDate>Mon, 11 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2009_05_surprise/</guid>
+      <description>ThemaÜberraschung Termin2009-05-11 20:00OrtUni Ulm, Hörsaal H20Vortragendeviele Referenten Archiv  Video: M4V (iPod) (83.2 MB) Video: MP4 (209.5 MB) Video: Ogg Theora (229.3 MB) Video: MP4 HD (1,069.1 MB) Audio: MP3 (62.8 MB) Audio: Ogg Vorbis (49.2 MB)    Viele Leute berichten über viele interessante Themen:
+ Nico erzählt was über &amp;ldquo;bootris&amp;rdquo; Michael erzählt was über &amp;ldquo;Booten mit dem Mac&amp;rdquo; Jason erzählt was über OpenCL jemand erzählt was über Softwarepatente und Urheberrecht jemand anderes erzählt was über Fnordlichter Matthias erzählt von Lockpicking Felix erzählt was über Spiegelneuronen  Für jeden ist also was passendes dabei.</description>
+    </item>
+    
+    <item>
+      <title>PostCanvas</title>
+      <link>/ccc/chaosseminar/2009_04_postcanvas/</link>
+      <pubDate>Mon, 20 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2009_04_postcanvas/</guid>
+      <description>ThemaPostCanvas Termin2009-04-20 20:00OrtUni Ulm, Hörsaal H20VortragendeMichael Feiri Archiv  Video: M4V (iPod) (74.9 MB) Video: MP4 (408.0 MB) Video: Ogg Theora (255.2 MB) Video: MP4 HD (311.3 MB) Audio: MP3 (55.3 MB) Audio: Ogg Vorbis (42.7 MB)    PostCanvas ist ein kleiner PostScript Interpreter, umgesetzt in JavaScript und HTML5. Warum macht man sowas? Ach, es hat sich einfach angeboten, ja geradezu aufgedrängt. Die gegebenen Komponenten passen einfach zu schön zusammen.</description>
+    </item>
+    
+    <item>
+      <title>masqmail</title>
+      <link>/ccc/chaosseminar/2009_03_masqmail/</link>
+      <pubDate>Mon, 09 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2009_03_masqmail/</guid>
+      <description>Themamasqmail Termin2009-03-09 20:00OrtUni Ulm, Hörsaal H20VortragendeMarkus Schnalke Archiv  Folien: PDF (0.5 MB) Video: M4V (iPod) (111.9 MB) Video: MP4 (233.6 MB) Video: Ogg Theora (215.8 MB) Video: MP4 HD (2,050.1 MB) Audio: MP3 (53.1 MB) Audio: Ogg Vorbis (38.6 MB)    Ein Vortrag über masqmail, das Thema der Diplomarbeit von Markus Schnalke.
+Der Vortrag ist keine reine Beschreibung der Diplomarbeit, dreht sich aber doch um sie, oder vielmehr um masqmail, das wiederum Thema der Diplomarbeit ist.</description>
+    </item>
+    
+    <item>
+      <title>Hacker Jeopardy</title>
+      <link>/ccc/chaosseminar/2009_02_hacker_jeopardy/</link>
+      <pubDate>Mon, 09 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2009_02_hacker_jeopardy/</guid>
+      <description>ThemaHacker Jeopardy Termin2009-02-09 20:00OrtUni Ulm, Hörsaal H20VortragendeModeratoren: Frank und Björn Archiv Noch keine Aufzeichnungsdateien verfügbar.   Spass für die ganze Familie
+Lustige Antworten rund um das Hacker Leben und viele interessante Kandidaten, die dazu die richtigen Fragen suchen. Bekannt von Congress und Co.. Wer zum Chaosseminar kommt, riskiert am Ende als Kandidat auf der Bühne zu stehen. ;-)
+AUFRUF: wer eine Kategorie beisteuern möchte, der schickt bis 7.2. eine E-Mail mit einem Kategorienamen und 5 Frage-Antwort Paaren (mit zunehmendem Schwierigkeitsgrad) an frank.</description>
+    </item>
+    
+    <item>
+      <title>Mailman PGP/SMIME extension</title>
+      <link>/ccc/chaosseminar/2009_01_mailman_pgp_smime/</link>
+      <pubDate>Mon, 12 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2009_01_mailman_pgp_smime/</guid>
+      <description>ThemaMailman PGP/SMIME extension Termin2009-01-12 20:00OrtUni Ulm, Hörsaal H20VortragendeJoost van Baal Archiv  Video: M4V (iPod) (59.3 MB) Video: MP4 (125.6 MB) Video: Ogg Theora (167.5 MB) Video: MP4 HD (224.0 MB) Audio: MP3 (45.0 MB) Audio: Ogg Vorbis (32.9 MB)    Joost van Baal ist der Maintainer eines OpenPGP- und S/MIME-erweiterten Mailman - einem Projekt, das bei uns hier als Mailman-Patch für die Ulmer Intern-Mailingliste begann. Joost wird über die Entwicklung der Erweiterung, die technischen Schwierigkeiten und Hindernisse, sowie die Verbreitung und die Zukunft des Projekts berichten:</description>
+    </item>
+    
+    <item>
+      <title>RIOT</title>
+      <link>/ccc/chaosseminar/2008_12_riot/</link>
+      <pubDate>Mon, 08 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2008_12_riot/</guid>
+      <description>ThemaRIOT Termin2008-12-08 20:00OrtUni Ulm, Hörsaal H20VortragendeAlexander Bernauer Archiv  Folien: PDF (0.2 MB) Video: M4V (iPod) (64.1 MB) Video: MP4 (104.0 MB) Video: Ogg Theora (181.2 MB) Audio: MP3 (63.1 MB) Audio: Ogg Vorbis (49.0 MB)    RIOT ist ein C++ Framework für skalierbare und effiziente Applikationen auf Hardware mit parallelen I/O und CPU Resourcen.
+Skalierbar heißt dabei, dass der Verwaltungsaufwand proportional kaum vorhanden ist, so dass eine Verdopplung der Hardware Resourcen nahezu eine Verdopplung des maximalen Durchsatzes bringt.</description>
+    </item>
+    
+    <item>
+      <title>Das „S“ in „HTTPS“: von Sicherheitswarnung bis Zertifikatsperrliste</title>
+      <link>/ccc/chaosseminar/2008_11_https/</link>
+      <pubDate>Mon, 10 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2008_11_https/</guid>
+      <description>ThemaDas „S“ in „HTTPS“: von Sicherheitswarnung bis Zertifikatsperrliste Termin2008-11-10 20:00OrtUni Ulm, Hörsaal H20VortragendeNicolas Roeser Archiv  Video: M4V (iPod) (36.7 MB) Video: MP4 (51.1 MB) Video: Ogg Theora (119.8 MB) Video: MP4 HD (77.8 MB) Audio: MP3 (37.9 MB) Audio: Ogg Vorbis (29.4 MB)    Wer schon einmal online etwas eingekauft oder versteigert hat, hat (hoffentlich!) dabei ein Protokoll namens HTTPS erlebt. In diesem &amp;ndash; für Otto Normalverbraucher geeigneten &amp;ndash; Vortrag des Chaosseminars wird erklärt, was es damit und mit den lästigen „Sicherheitswarnungen“ der Webbrowser auf sich hat.</description>
+    </item>
+    
+    <item>
+      <title>Meinungsfreiheit, Pressefreiheit, Zensur</title>
+      <link>/ccc/chaosseminar/2008_10_meinungsfreiheit/</link>
+      <pubDate>Mon, 13 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2008_10_meinungsfreiheit/</guid>
+      <description>ThemaMeinungsfreiheit, Pressefreiheit, Zensur Termin2008-10-13 20:00OrtUni Ulm, Hörsaal H20VortragendeTobias Rehfeld Archiv  Video: M4V (iPod) (131.0 MB) Video: MP4 (275.6 MB) Video: Ogg Theora (634.6 MB) Video: MP4 HD (548.0 MB) Audio: MP3 (128.8 MB)    „Alle Informationen sollen frei sein“ war eine der ersten Forderungen des CCC. Im April 2002 organisierte der CCC eine Demo gegen Netzzensur in Düsseldorf. Jeder glaubt, alles darüber zu wissen. Doch was ist Zensur eigentlich?</description>
+    </item>
+    
+    <item>
+      <title>Infrastruktur CCC Ulm</title>
+      <link>/ccc/chaosseminar/2008_09_dokumentation_infrastruktur/</link>
+      <pubDate>Mon, 08 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2008_09_dokumentation_infrastruktur/</guid>
+      <description>ThemaInfrastruktur CCC Ulm Termin2008-09-08 20:00OrtUni Ulm, Hörsaal H20VortragendeAlexander Bernauer, Ulrich Dangel Archiv  Video: M4V (iPod) (92.9 MB) Video: MP4 (223.2 MB) Video: Ogg Theora (457.4 MB) Video: MP4 HD (940.8 MB) Audio: MP3 (66.2 MB) Audio: Ogg Vorbis (48.8 MB)    Was läuft eigentlich alles auf der Dontpanic. Warum, Weshalb, Wieso ist das eigentlich alles so?</description>
+    </item>
+    
+    <item>
+      <title>Technikphilosophie</title>
+      <link>/ccc/chaosseminar/2008_07_technikphilosophie/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2008_07_technikphilosophie/</guid>
+      <description>ThemaTechnikphilosophie Termin2008-07-14 20:00OrtUni Ulm, Hörsaal H20VortragendeMichael Feiri Archiv  Video: M4V (iPod) (93.6 MB) Video: MP4 (219.7 MB) Video: Ogg Theora (358.5 MB) Video: MP4 HD (926.4 MB) Audio: MP3 (71.4 MB) Audio: Ogg Vorbis (52.1 MB)    Wir werden eine sehr kurze Vorstellung von Philosophie im Allgemeinen bekommen und dann auf Technikphilosophie im Besonderen eingehen. Da die Vorkenntnisse des Publikums nicht klar sind, werden wir inhaltlich flexibel bleiben und uns aus einer Auswahl der üblichen technikphilosophischen Grundthemen bedienen (Technik und/als Macht, Zweck-Mittel-Relation, Philosophie als Welterklärung, chinesisches Zimmer, Wertigkeit technischer Berufe und technischen Handelns, Rationalismus vs.</description>
+    </item>
+    
+    <item>
+      <title>Solaris</title>
+      <link>/ccc/chaosseminar/2008_06_solaris/</link>
+      <pubDate>Mon, 09 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2008_06_solaris/</guid>
+      <description>ThemaSolaris Termin2008-06-09 20:00OrtUni Ulm, Hörsaal H20VortragendeTom Archiv Noch keine Aufzeichnungsdateien verfügbar.   Alles moegliche was von SUN kommt: Solaris, Java, nis+, &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>dtrace</title>
+      <link>/ccc/chaosseminar/2008_05_dtrace/</link>
+      <pubDate>Mon, 05 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2008_05_dtrace/</guid>
+      <description>Themadtrace Termin2008-05-05 20:00OrtUni Ulm, Hörsaal H20VortragendeFrank Kargl Archiv  Folien: PDF (4.9 MB) Video: M4V (iPod) (65.6 MB) Video: MP4 (149.1 MB) Video: Ogg Theora (264.4 MB) Audio: MP3 (56.9 MB) Audio: Ogg Vorbis (43.7 MB)    dtrace ist ein - ursprünglich von Sun geschriebenes - Werkzeug zum Tracing von Programmabläufen in Kernel- und Userland. Mittels in einer Sprache namens D geschriebenen Skripten instrumentiert man seine Programme zur Laufzeit und ohne Notwendigkeit einer Neuübersetzung und kann mittels sog.</description>
+    </item>
+    
+    <item>
+      <title>Voice over IP</title>
+      <link>/ccc/chaosseminar/2008_04_voip/</link>
+      <pubDate>Mon, 14 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2008_04_voip/</guid>
+      <description>ThemaVoice over IP Termin2008-04-14 20:00OrtUni Ulm, Hörsaal H20VortragendePatrick von Schwarz Archiv  Video: M4V (iPod) (36.3 MB) Video: MP4 (82.2 MB) Video: Ogg Theora (281.6 MB) Video: MP4 HD (402.1 MB) Audio: MP3 (34.6 MB) Audio: Ogg Vorbis (25.9 MB)    Spätestens seit moderne DSL-Router auf dem Markt sind mit diversen neuen Features wie z.B. Internet-Telefonie, ist Voice-Over-IP (kurz VoIP) fast jedem bekannt geworden, der zu Hause seinen PC ans Internet angeschlossen hat.</description>
+    </item>
+    
+    <item>
+      <title>Datenschutz</title>
+      <link>/ccc/chaosseminar/2008_03_datenschutz/</link>
+      <pubDate>Mon, 10 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2008_03_datenschutz/</guid>
+      <description>ThemaDatenschutz Termin2008-03-10 20:00OrtUni Ulm, Hörsaal H20VortragendeTobias Rehfeld Archiv  Video: M4V (iPod) (111.1 MB) Video: MP4 (266.1 MB) Video: Ogg Theora (246.7 MB) Video: MP4 HD (386.2 MB) Audio: MP3 (55.1 MB) Audio: Ogg Vorbis (39.7 MB)    Datenschutz ist beim Chaos Computer Club allgegenwärtig. Computersicherheit wird häufig als technischer Datenschutz verstanden. Begriffe wie &amp;ldquo;informationelle Selbstbestimmung&amp;rdquo; gehen locker über die Lippen. Jeder glaubt alles darüber zu wissen. Doch was ist Datenschutz eigentlich?</description>
+    </item>
+    
+    <item>
+      <title>Lightning talks</title>
+      <link>/ccc/chaosseminar/2008_02_lightning_talks/</link>
+      <pubDate>Mon, 11 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2008_02_lightning_talks/</guid>
+      <description>ThemaLightning talks Termin2008-02-11 20:00OrtUni Ulm, Hörsaal H20VortragendeBenni, Nico, Juergen Archiv  Folien: PDF (0.2 MB) Video: M4V (iPod) (33.9 MB) Video: MP4 (65.0 MB) Video: Ogg Theora (69.3 MB) Video: MP4 HD (95.6 MB) Audio: MP3 (25.9 MB) Audio: Ogg Vorbis (18.7 MB)    Nachdem erst der Ausfall des Chaos Seminar angekuendigt wurde gab es doch noch drei spontane Kurzvortraege.</description>
+    </item>
+    
+    <item>
+      <title>Verbesserte IDE</title>
+      <link>/ccc/chaosseminar/2008_01_verbesserte_ide/</link>
+      <pubDate>Mon, 14 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2008_01_verbesserte_ide/</guid>
+      <description>ThemaVerbesserte IDE Termin2008-01-14 20:00OrtUni Ulm, Hörsaal H20VortragendeBenjamin Andresen Archiv  Video: M4V (iPod) (92.9 MB) Video: MP4 (203.4 MB) Video: Ogg Theora (210.2 MB) Audio: MP3 (46.5 MB) Audio: Ogg Vorbis (35.1 MB)    In diesem Vortrag geht es darum wie wir in der Zukunft programmieren werden. Doch die Zukunft ist bereits hier. Und zwar in Smalltalk. Tim O&amp;rsquo;Reilly hat mal gesagt: &amp;ldquo;Die Zukunft ist hier, sie ist einfach noch nicht fair verteilt.</description>
+    </item>
+    
+    <item>
+      <title>verbesserte prozedurale Programmiersprachen</title>
+      <link>/ccc/chaosseminar/2007_12_verbesserte_prozedurale_programmiersprachen/</link>
+      <pubDate>Mon, 10 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2007_12_verbesserte_prozedurale_programmiersprachen/</guid>
+      <description>Themaverbesserte prozedurale Programmiersprachen Termin2007-12-10 20:00OrtUni Ulm, Hörsaal H20VortragendeChristian Heinlein Archiv  Video: M4V (iPod) (165.4 MB) Video: MP4 (391.0 MB) Video: Ogg Theora (384.6 MB) Audio: MP3 (81.5 MB) Audio: Ogg Vorbis (59.7 MB)    Trotz ihrer weiten Verbreitung und allgemein hohen Akzeptanz, leiden objektorientierte Programmiersprachen (und damit auch ihre Benutzer) an einigen unangenehmen Problemen, für die es trotz intensiver Forschungsarbeit über viele Jahre noch keine rundum zufriedenstellenden Lösungen gibt.</description>
+    </item>
+    
+    <item>
+      <title>Ziviler Vorratsdatenungehorsam</title>
+      <link>/ccc/chaosseminar/2007_11_ziviler_vorratsdatenungehorsam/</link>
+      <pubDate>Mon, 12 Nov 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2007_11_ziviler_vorratsdatenungehorsam/</guid>
+      <description>ThemaZiviler Vorratsdatenungehorsam Termin2007-11-12 20:07½OrtUni Ulm, Hörsaal H20VortragendeMarcel Linden, Michael Feiri, Stefan Schlott, Nico Roeser; ggf. weitere Archiv  Folien: PDF (0.2 MB) Video: MP4 (744.2 MB) Video: Ogg Theora (497.9 MB) Audio: MP3 (81.0 MB) Audio: Ogg Vorbis (63.1 MB)    Aus aktuellem Anlass (Vorratsdatenspeicherung) ist unser nächster Vortrag in der Chaosseminar-Reihe mit „Ziviler Vorratsdatenungehorsam“ betitelt.
+Die Referenten werden hauptsächlich zeigen, wie man seinen Computer so einrichten kann, dass er in der Lage ist, den verteilten Anonymisierungsdienst Tor zu benutzen.</description>
+    </item>
+    
+    <item>
+      <title>automatisierte Softwareentwicklung</title>
+      <link>/ccc/chaosseminar/2007_10_automatisierte_softwareentwicklung/</link>
+      <pubDate>Mon, 08 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2007_10_automatisierte_softwareentwicklung/</guid>
+      <description>Themaautomatisierte Softwareentwicklung Termin2007-10-08 20:00OrtUni Ulm, Hörsaal H22VortragendeVolker Birk Archiv  Video: MP4 (805.6 MB)    Der gängige Ansatz zur automatisierten Softwareentwicklung ist die Model-Driven-Architecture. Die Praxis hat allerdings gezeigt, dass dieser Ansatz Probleme macht. So ist u.A. generierter Code meistens dick und ineffizient und die Integration von handgeschriebenem Code ist sehr aufwändig bis unmöglich.
+Volker zeigt uns in seinem Vortrag einen alternativen Ansatz, der mit diesen Problemen aufräumt.</description>
+    </item>
+    
+    <item>
+      <title>Multiprozessoren und Multithreading</title>
+      <link>/ccc/chaosseminar/2007_09_multiprozessoren/</link>
+      <pubDate>Mon, 10 Sep 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2007_09_multiprozessoren/</guid>
+      <description>ThemaMultiprozessoren und Multithreading Termin2007-09-10 20:00OrtUni Ulm, Hörsaal H20VortragendeAlexander Bernauer, Markus Schaber Archiv  Folien: PDF (0.3 MB) Video: MP4 (608.8 MB)    Die Hersteller von Prozessoren stoßen mit der Steigerung der Geschwindigkeit mittlerweile an ihre Grenzen. Als Ausweg werden nun einfach mehrere Prozessoren zusammen geschaltet.
+Gängige Programmiersprachen und Werkzeuge eignen sich mehr schlecht als recht für die optimale Ausnutzung moderner massiv paralleler Hardware. Dieser Vortrag beleuchtet, welche Chancen, Fallen und Herausforderungen einem dabei begegnen und stellt neue Ideen zur automatisierten Lösung der sich stellenden Probleme vor</description>
+    </item>
+    
+    <item>
+      <title>Software Engineering</title>
+      <link>/ccc/chaosseminar/2007_07_software_engineering/</link>
+      <pubDate>Mon, 09 Jul 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2007_07_software_engineering/</guid>
+      <description>ThemaSoftware Engineering Termin2007-07-09 20:00OrtUni Ulm, Hörsaal H20VortragendeVolker Birk Archiv  Video: MP4 (497.0 MB)    Wie schreibt man eine umfangreiche Software? Man setzt sich vor den leeren Editor und beginnt zu debuggen! Daß es nicht immer so funktioniert, erklärt uns dieser Vortrag. Unter anderem erfahren wir, warum das Wasserfallmodell ausschließlich von Vollidioten befürwortet wird.</description>
+    </item>
+    
+    <item>
+      <title>Desktops, Benutzeroberflächen, Windowmanager</title>
+      <link>/ccc/chaosseminar/2007_06_desktop_und_co/</link>
+      <pubDate>Mon, 11 Jun 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2007_06_desktop_und_co/</guid>
+      <description>ThemaDesktops, Benutzeroberflächen, Windowmanager Termin2007-06-11 20:00OrtUni Ulm, Hörsaal H20VortragendeJonathan Häberle, Alexander Bernauer, Michael Feiri, Ulrich Dangel, Markus Schaber, und ggf. noch Überraschungsgäste Archiv  Video: M4V (iPod) (177.4 MB) Video: MP4 (449.6 MB) Video: Ogg Theora (661.0 MB) Audio: MP3 (73.1 MB) Audio: Ogg Vorbis (56.0 MB)    (Von Amiga Workbench bis ZWM - ein Rundumschlag)
+Da unser geplanter Referent leider wegen Termin-Kollision verschieben musste, gibt es ein Spontan-Seminar.</description>
+    </item>
+    
+    <item>
+      <title>Inter Vehicle Communication</title>
+      <link>/ccc/chaosseminar/2007_05_inter_vehicle_communication/</link>
+      <pubDate>Mon, 14 May 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2007_05_inter_vehicle_communication/</guid>
+      <description>ThemaInter Vehicle Communication Termin2007-05-14 20:00OrtUni Ulm, Hörsaal H20VortragendeFrank Kargl Archiv  Video: MP4 (491.5 MB) Video: Ogg Theora (224.4 MB) Audio: MP3 (69.4 MB) Audio: Ogg Vorbis (51.0 MB)    Was passiert, wenn Autos miteinander reden? Komunikation zwischen Fahrzegen ist ein großes Forschungsgebiet. Anwendungen sollen das Fahren sicherer und effizienter machen und Spaß noch dazu bringen. Doch es gibt auch Missbrauchsmöglichkeiten. Der Vortrag behandelt deshalb auch Sicherheit und Privatsphäre in solchen VANETs (Vehicular Ad Hoc Networks).</description>
+    </item>
+    
+    <item>
+      <title>Globalisierung</title>
+      <link>/ccc/chaosseminar/2007_04_globalisierung/</link>
+      <pubDate>Mon, 16 Apr 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2007_04_globalisierung/</guid>
+      <description>ThemaGlobalisierung Termin2007-04-16 20:00OrtUni Ulm, Hörsaal H20VortragendeAttac Ulm Archiv  Video: MP4 (505.6 MB) Video: Ogg Theora (313.3 MB) Audio: MP3 (74.1 MB) Audio: Ogg Vorbis (57.2 MB)    Globalisierung - ein Schlagwort das in allen Köpfen geistert und uns tagtäglich begleitet. Doch was verbirgt sich eigentlich hinter dem &amp;ldquo;Schreckgespenst&amp;rdquo; der Globalisierung? Wo beginnt Globalisierung und welche Institutionen sind hier am Wirken? Gibt es einen Ausweg aus der Globlisierungsfalle und was können wir als Verbraucher dabei tun&amp;hellip;.</description>
+    </item>
+    
+    <item>
+      <title>Das Internet zwischen Freiheit und Sicherheit, Kommunikation und Zensur</title>
+      <link>/ccc/chaosseminar/2007_03_internet_freiheit_zensur/</link>
+      <pubDate>Mon, 12 Mar 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2007_03_internet_freiheit_zensur/</guid>
+      <description>ThemaDas Internet zwischen Freiheit und Sicherheit, Kommunikation und Zensur Termin2007-03-12 20:00OrtUni Ulm, Hörsaal H20VortragendeAlvar Freude Archiv  Video: MP4 (575.8 MB) Video: Ogg Theora (342.3 MB) Audio: MP3 (90.9 MB) Audio: Ogg Vorbis (65.8 MB)    Das Internet zwischen Freiheit und Sicherheit, Kommunikation und Zensur.
+Der Netzaktivist und Bürgerrechtler Alvar Freude, z. B. beteiligt an Odem.org, berichtet über seine Projekte, z.B. das Filterprojekt &amp;ldquo;insert coin&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Objektorientierung und warum C&#43;&#43; keine hat</title>
+      <link>/ccc/chaosseminar/2007_02_objektorientierung/</link>
+      <pubDate>Mon, 05 Feb 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2007_02_objektorientierung/</guid>
+      <description>ThemaObjektorientierung und warum C&amp;#43;&amp;#43; keine hat Termin2007-02-05 20:00OrtUni Ulm, Hörsaal H20VortragendeVolker Birk Archiv  Video: MP4 (503.5 MB) Video: Ogg Theora (210.9 MB) Audio: MP3 (66.1 MB) Audio: Ogg Vorbis (47.9 MB)    Der Vortrag erläutert das Konzept der Objektorientierung und bringt Beispiele aus den Sprachen C++ und Java. Es geht allerdings nicht ganz kritiklos zu: Wir erfahren, warum C++ gar nicht objektorientiert ist und warum Java sch**** ist.</description>
+    </item>
+    
+    <item>
+      <title>Das Netz der Uni Ulm</title>
+      <link>/ccc/chaosseminar/2007_01_das_netz_der_uni_ulm/</link>
+      <pubDate>Mon, 15 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2007_01_das_netz_der_uni_ulm/</guid>
+      <description>ThemaDas Netz der Uni Ulm Termin2007-01-15 20:00OrtUni Ulm, Hörsaal H20VortragendeCharly Gaissmaier Archiv  Video: MP4 (277.7 MB) Video: Ogg Theora (159.2 MB) Audio: MP3 (42.9 MB) Audio: Ogg Vorbis (31.2 MB)    Wie sieht unser Uni Netz aus und wie sind die Pläne für den zukünftigen Ausbau.</description>
+    </item>
+    
+    <item>
+      <title>Digitales Fernsehen/HDTV</title>
+      <link>/ccc/chaosseminar/2006_12_dvb/</link>
+      <pubDate>Mon, 11 Dec 2006 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2006_12_dvb/</guid>
+      <description>ThemaDigitales Fernsehen/HDTV Termin2006-12-11 20:00OrtUni Ulm, Hörsaal H20VortragendeHerby Archiv  Folien: PDF (1.4 MB) Video: MP4 (103.9 MB) Video: Ogg Theora (78.0 MB) Audio: MP3 (32.0 MB) Audio: Ogg Vorbis (22.3 MB)    URL: http://www.it-innung.de/Digitales_Fernsehen/index.htm
+Dieses Seminar versucht, einen Überblick über die momentane Situation zu geben. Tausend Abkürzungen wie DVB-T, DVB-C, DVB-S, MPEG2, MPEG4, S2 usw., was soll das, was bedeutet das alles?</description>
+    </item>
+    
+    <item>
+      <title>PostgreSQL - Ein Elephant vergisst nie</title>
+      <link>/ccc/chaosseminar/2006_11_postgresql/</link>
+      <pubDate>Mon, 13 Nov 2006 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2006_11_postgresql/</guid>
+      <description>ThemaPostgreSQL - Ein Elephant vergisst nie Termin2006-11-13 20:00OrtUni Ulm, Hörsaal H20VortragendeMarkus Schaber Archiv  Folien: PDF (0.3 MB) Video: MP4 (300.9 MB) Video: Ogg Theora (149.3 MB) Audio: MP3 (47.5 MB) Audio: Ogg Vorbis (32.7 MB)    Errata / Updates: http://dontpanic.ulm.ccc.de/~schabi/postgres/index.html
+Die freie SQL-Datenbank PostgreSQL und ihr Umfeld werden vorgestellt.
+Der Vortrag geht auf die Geschichte und die aktuelle Entwicklung in PostgreSQL ein. Neben einem Überblick werden auch ein paar technische Details beleuchtet, und diverse Erweiterungen und kommerzielle Ableger vorgestellt.</description>
+    </item>
+    
+    <item>
+      <title>Pimp my Dontpanic</title>
+      <link>/ccc/chaosseminar/2006_10_dontpanic/</link>
+      <pubDate>Mon, 09 Oct 2006 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2006_10_dontpanic/</guid>
+      <description>ThemaPimp my Dontpanic Termin2006-10-09 20:00OrtUni Ulm, Hörsaal H20VortragendeUlrich Dangel, Alexander Bernauer, Tobias Rehfeld Archiv  Folien: PDF (0.9 MB) Video: MP4 (474.6 MB) Video: Ogg Theora (293.1 MB) Audio: MP3 (73.8 MB) Audio: Ogg Vorbis (52.6 MB)    Tex Sourcen: Source
+Eigentlich wollten wir nur 2 zusätzliche Platten einbauen. Daraus wurde dann ein komplett neuer Rechner und ein Umbau unseres Servers dontpanic. Die dazu benutzen Programme, Techniken usw.</description>
+    </item>
+    
+    <item>
+      <title>Console Tools</title>
+      <link>/ccc/chaosseminar/2006_09_console_tools/</link>
+      <pubDate>Mon, 11 Sep 2006 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2006_09_console_tools/</guid>
+      <description>ThemaConsole Tools Termin2006-09-11 20:00OrtUnit Ulm, Hörsaal H20VortragendeUlrich Dangel, Alexander Bernauer, Markus Schaber, Stefan Schlott Archiv  Folien: PDF (0.0 MB) Video: MP4 (461.7 MB) Video: Ogg Theora (265.3 MB) Audio: MP3 (28.9 MB) Audio: Ogg Vorbis (21.3 MB)    Es werden interessante und nützliche Programme, Programmoptionen und Features von Konsolen Programmen vorgestellt die zum Teil unbekannt oder einfach sehr sehr nützlich sind. Der Vortrag soll u.a. auch mit dem Vorurteil aufräumen das die Konsole tot ist, und zeigen was man alles mit und auf der Konsole machen kann.</description>
+    </item>
+    
+    <item>
+      <title>Windows Vista Netzwerk Stack</title>
+      <link>/ccc/chaosseminar/2006_08_vista_netzwerk_stack/</link>
+      <pubDate>Mon, 28 Aug 2006 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2006_08_vista_netzwerk_stack/</guid>
+      <description>ThemaWindows Vista Netzwerk Stack Termin2006-08-28 20:00OrtUni Ulm, Hörsaal H20VortragendeHagen Pfeifer Archiv  Folien: PDF (0.1 MB) Video: MP4 (141.6 MB) Video: Ogg Theora (109.0 MB) Audio: MP3 (43.1 MB) Audio: Ogg Vorbis (26.3 MB)    Ausser Reihe gibt es im August noch einen Vortrag über den Netzwerk Stack von Windows Vista
+Inhalt u.a.:
+ Allgemeine TCP Ingredienzien (Neuerungen) Compound TCP Teredo (RFC 4380) Winsock Kernel Interface - WSK (Transport Data interface) Firewalling (so einen kompletten Abriss ueber Neuerungen) Windows Filtering Platform NDIS 6.</description>
+    </item>
+    
+    <item>
+      <title>Sicherheit und Privatsphäre im Ubiquitous Computing</title>
+      <link>/ccc/chaosseminar/2006_07_ubicompprivacy/</link>
+      <pubDate>Mon, 17 Jul 2006 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2006_07_ubicompprivacy/</guid>
+      <description>ThemaSicherheit und Privatsphäre im Ubiquitous Computing Termin2006-07-17 20:00OrtUni Ulm, Hörsaal H22VortragendeStefan Schlott Archiv  Folien: PDF (1.7 MB) Video: MP4 (273.9 MB) Video: Ogg Theora (131.5 MB) Audio: MP3 (67.0 MB) Audio: Ogg Vorbis (50.0 MB)    Ubiquitous Computing - die Vision immer kleinerer Computer, die den Benutzer unaufdringlich bei seinen Tätigkeiten unterstützen - ist nach wie vor ein populäres Thema in der Forschung. Nach der anfänglichen Euphorie über die Chancen und Möglichkeiten häufen sich in jüngster Zeit die Fragen nach der Sicherheit und den Auswirkungen auf die Privatsphäre des Benutzers.</description>
+    </item>
+    
+    <item>
+      <title>Personentracking</title>
+      <link>/ccc/chaosseminar/2006_06_personentracking/</link>
+      <pubDate>Mon, 12 Jun 2006 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2006_06_personentracking/</guid>
+      <description>ThemaPersonentracking Termin2006-06-12 20:00OrtUni Ulm, Hörsaal H20VortragendeVolker Birk Archiv  Folien: PDF (0.4 MB) Video: Ogg Theora (204.2 MB) Video: MP4 (375.6 MB) Audio: MP3 (81.1 MB) Audio: Ogg Vorbis (48.2 MB)    Folien: tgtp-chaos-seminar.odp
+Es folgt der Call for Paper des 22C3. Ich hatte keine Lust zum Übersetzen. Der Vortrag ist aber auf deutsch.
+Title Tracking goods and tracing people - localization in the pizza man&amp;rsquo;s universe</description>
+    </item>
+    
+    <item>
+      <title>The Internet Communication Engine</title>
+      <link>/ccc/chaosseminar/2006_05_the_internet_communication_engine/</link>
+      <pubDate>Mon, 08 May 2006 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2006_05_the_internet_communication_engine/</guid>
+      <description>ThemaThe Internet Communication Engine Termin2006-05-08 20:00OrtUni Ulm, Hörsaal H20VortragendeAlexander Bernauer Archiv  Folien: PDF (0.4 MB) Video: 3GPP (40.9 MB) Video: M4V (iPod) (91.9 MB) Video: MP4 (186.6 MB) Video: Ogg Theora (110.2 MB) Audio: MP3 (59.1 MB) Audio: Ogg Vorbis (35.2 MB)    Folien und Beispiele: ice.tar.bz2
+Die Internet Communcation Engine ist eine Middleware für verteilte Objekte. Entwickelt wird sie von der Firma ZeroC, die sie unter der GPL und bei Bedarf unter kommerzieller Lizenz vertreibt.</description>
+    </item>
+    
+    <item>
+      <title>Informatik und Gesellschaft</title>
+      <link>/ccc/chaosseminar/2006_04_informatik_und_gesellschaft/</link>
+      <pubDate>Mon, 24 Apr 2006 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2006_04_informatik_und_gesellschaft/</guid>
+      <description>ThemaInformatik und Gesellschaft Termin2006-04-24 20:00OrtUni Ulm, Hörsaal H20VortragendeFrank Kargl Archiv  Folien: PDF (0.5 MB) Video: 3GPP (35.3 MB) Video: M4V (iPod) (80.8 MB) Video: MP4 (160.3 MB) Video: Ogg Theora (135.4 MB) Audio: MP3 (50.7 MB) Audio: Ogg Vorbis (29.7 MB)    2006 ist das &amp;ldquo;Jahr der Informatik&amp;rdquo;. Doch in der Bevölkerung wird Informatik selten als Wissenschaft wahrgenommen. Informatiker sind meistens die Jungs, die einem beim Installieren oder Reparieren des eigenen Windows PCs helfen.</description>
+    </item>
+    
+    <item>
+      <title>Polizeidatenbanken</title>
+      <link>/ccc/chaosseminar/2006_03_polizeidatenbanken/</link>
+      <pubDate>Mon, 13 Mar 2006 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2006_03_polizeidatenbanken/</guid>
+      <description>ThemaPolizeidatenbanken Termin2006-03-13 20:00OrtUni Ulm, Hörsaal H20Vortragende Archiv  Folien: PDF (0.0 MB) Video: 3GPP (59.8 MB) Video: M4V (iPod) (131.0 MB) Video: MP4 (259.9 MB) Video: Ogg Theora (291.4 MB) Audio: MP3 (82.2 MB) Audio: Ogg Vorbis (49.1 MB)    Polizei und Verfassungsschutz sammeln eifrig Daten und speichern sie. Die Realität zwischen technischer Inkompetenz, Überwachungswahn und politischen Stunts ist dabei weit entfernt von Szenarien Marke 1984. Und doch gibt es Gründe genug, den Behörden auf die Finger zu schauen.</description>
+    </item>
+    
+    <item>
+      <title>Weird Programming III</title>
+      <link>/ccc/chaosseminar/2006_02_weird_programming_iii/</link>
+      <pubDate>Mon, 13 Feb 2006 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2006_02_weird_programming_iii/</guid>
+      <description>ThemaWeird Programming III Termin2006-02-13 20:00OrtUni Ulm, Hörsaal H20VortragendeGiselbert Hinkelmann Archiv  Video: 3GPP (34.7 MB) Video: M4V (iPod) (80.4 MB) Video: MP4 (159.6 MB) Video: Ogg Theora (170.8 MB) Audio: Ogg Vorbis (29.9 MB) Audio: MP3 (50.5 MB)    Der dritte Vortrag unserer beliebten Reihe beschäftigt sich wie die Vorgänger mit ausgefallenen Programmiersprachen und Programmen.</description>
+    </item>
+    
+    <item>
+      <title>Distrobashing</title>
+      <link>/ccc/chaosseminar/2006_01_distrobashing/</link>
+      <pubDate>Mon, 09 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2006_01_distrobashing/</guid>
+      <description>ThemaDistrobashing Termin2006-01-09 20:07:30OrtUni Ulm, Hörsaal H20VortragendeHolger, Jürgen, Uli, Alex, ... Archiv  Video: 3GPP (65.2 MB) Video: M4V (iPod) (148.5 MB) Video: MP4 (294.6 MB) Video: Ogg Theora (188.1 MB) Audio: Ogg Vorbis (52.1 MB) Audio: MP3 (93.1 MB) Audio: Ogg Vorbis (188.1 MB)    Welche Linuxdistribution ist die beste? Oder soll ich doch lieber Opendarwin benutzen? Windows ist&amp;rsquo;s! Oder doch nicht? Die Frage nach dem richtigen Betriebssystem lässt sich nicht so einfach objektiv beantworten und schon gar nicht pauschal.</description>
+    </item>
+    
+    <item>
+      <title>Linux From Scratch</title>
+      <link>/ccc/chaosseminar/2005_12_linux_from_scratch/</link>
+      <pubDate>Mon, 12 Dec 2005 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2005_12_linux_from_scratch/</guid>
+      <description>ThemaLinux From Scratch Termin2005-12-12 20:07:30OrtUni Ulm, Hörsaal H20VortragendeNico Roeser Archiv  Folien: PDF (0.1 MB) Video: 3GPP (32.7 MB) Video: M4V (iPod) (323.5 MB) Video: MP4 (237.1 MB) Video: Ogg Theora (124.4 MB) Audio: Ogg Vorbis (47.2 MB) Audio: MP3 (77.0 MB)    Fast alle aktuellen Betriebssystem-Distributionen kommen als CDs oder DVDs mit Binärpaketen und häufig begleitet von vielen Seiten Dokumentation heraus. Das aus einem HOWTO hervorgegangene Projekt Linux From Scratch dagegen liefert Benutzern, die ein Betriebssystem installieren möchten, nur das Handbuch, das Schritt für Schritt erklärt, wie Systemkern und Basisprogramme ausgehend vom Quellcode selbst kompiliert und installiert werden.</description>
+    </item>
+    
+    <item>
+      <title>Informationstheorie</title>
+      <link>/ccc/chaosseminar/2005_11_informationstheorie/</link>
+      <pubDate>Mon, 14 Nov 2005 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2005_11_informationstheorie/</guid>
+      <description>ThemaInformationstheorie Termin2005-11-14 20:00VortragendeAlexander Bernauer und Stephanie Wist Archiv  Folien: PDF (0.7 MB) Video: 3GPP (54.3 MB) Video: M4V (iPod) (331.7 MB) Video: MP4 (221.5 MB) Video: Ogg Theora (119.5 MB) Audio: Ogg Vorbis (46.9 MB) Audio: MP3 (79.0 MB)    Für das Problem, Informationen über einen gestörten Kanal zu übertragen, lieferte Claude E. Shannon 1948 mit seinem Aufsatz &amp;ldquo;A Mathematical Theory of Communication&amp;rdquo; ein mathematisches Modell, dessen Mächtigkeit und Tragweite der Wissenschaft erst mit der Zeit klar wurde.</description>
+    </item>
+    
+    <item>
+      <title>Java - Evolution einer Sprache</title>
+      <link>/ccc/chaosseminar/2005_10_java_-_evolution_einer_sprache/</link>
+      <pubDate>Mon, 10 Oct 2005 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2005_10_java_-_evolution_einer_sprache/</guid>
+      <description>ThemaJava - Evolution einer Sprache Termin2005-10-10 20:00VortragendeMarkus Schaber Archiv  Folien: PDF (0.2 MB) Video: 3GPP (36.0 MB) Video: M4V (iPod) (349.4 MB) Video: MP4 (256.5 MB) Video: Ogg Theora (156.3 MB) Audio: Ogg Vorbis (50.5 MB) Audio: MP3 (83.2 MB)    Unterlagen: http://dontpanic.ulm.ccc.de/~schabi/javaevo/index.html
+Während Java 1.1 in den Sprachmitteln extrem minimalistisch designt war, wurden in den darauffolgenden Releases immer mehr Erweiterungen eingebaut. Beispiele dafür sind anonyme und innere Klassen, Assertions, Enumerations und Generics.</description>
+    </item>
+    
+    <item>
+      <title>Mac OS X Hacks</title>
+      <link>/ccc/chaosseminar/2005_09_mac_os_x_hacks/</link>
+      <pubDate>Mon, 12 Sep 2005 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2005_09_mac_os_x_hacks/</guid>
+      <description>ThemaMac OS X Hacks Termin2005-09-12 20:00VortragendeMichael Feri Archiv  Folien: PDF (0.1 MB) Video: 3GPP (29.3 MB) Video: M4V (iPod) (323.8 MB) Video: MP4 (237.2 MB) Video: Ogg Theora (205.4 MB) Audio: Ogg Vorbis (37.9 MB) Audio: MP3 (77.2 MB)    Mac OS X erfreut sich auch in Hackerzirkeln einer gewissen Beliebtheit. Dementsprechend wollen wir uns einige spaßigere Aktivitäten anschauen, die auch unter Mac OS X für Erheiterung sorgen.</description>
+    </item>
+    
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>/ccc/chaosseminar/2005_07_c&#43;&#43;/</link>
+      <pubDate>Mon, 11 Jul 2005 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2005_07_c&#43;&#43;/</guid>
+      <description>ThemaC&amp;#43;&amp;#43; Termin2005-07-11 20:00VortragendeAlexander Bernauer Archiv  Folien: PDF (0.1 MB) Video: 3GPP (65.0 MB) Video: M4V (iPod) (380.4 MB) Video: MP4 (287.6 MB) Video: Ogg Theora (150.4 MB) Audio: Ogg Vorbis (44.3 MB) Audio: MP3 (90.7 MB)    Bei wohl keiner Programmiersprache ist der Unterschied zwischen Kennen und Können so groß wie bei C++. Als &amp;ldquo;C with classes&amp;rdquo; angefangen, hat es sich mittlerweile zu einer der komplexesten in der Praxis eingesetzten Sprachen entwickelt.</description>
+    </item>
+    
+    <item>
+      <title>WebSecurity</title>
+      <link>/ccc/chaosseminar/2005_06_websecurity/</link>
+      <pubDate>Mon, 13 Jun 2005 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2005_06_websecurity/</guid>
+      <description>ThemaWebSecurity Termin2005-06-13 20:00VortragendeFrank Kargl und Stefan Schlott Archiv  Folien: PDF (2.4 MB) Video: 3GPP (70.5 MB) Video: M4V (iPod) (430.0 MB) Video: MP4 (323.2 MB) Video: Ogg Theora (259.6 MB) Audio: Ogg Vorbis (53.7 MB) Audio: MP3 (102.5 MB)    Immer mehr Sicherheitsvorfälle in IT-Systemen gehen auf das Konto von unsicheren Web-Servern oder -Clients. Seien es Buffer-Overflows in der Software, fehlerhafte Web-Anwendungen oder überforderte Benutzer, Angriffsmöglichkeiten gibt es zu Hauf.</description>
+    </item>
+    
+    <item>
+      <title>Machinima</title>
+      <link>/ccc/chaosseminar/2005_05_machinima/</link>
+      <pubDate>Mon, 09 May 2005 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2005_05_machinima/</guid>
+      <description>ThemaMachinima Termin2005-05-09 20:00VortragendeMichael Feri Archiv Noch keine Aufzeichnungsdateien verfügbar.   Machinima bezeichnet 3D-Filme, die mit Hilfe von Game-Engines erstellt worden sind. Nach ein paar einführenden Worten wurden auch Beispiele gezeigt.</description>
+    </item>
+    
+    <item>
+      <title>Biometrische Pässe</title>
+      <link>/ccc/chaosseminar/2005_04_biometrische_p%C3%A4sse/</link>
+      <pubDate>Mon, 11 Apr 2005 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2005_04_biometrische_p%C3%A4sse/</guid>
+      <description>ThemaBiometrische Pässe Termin2005-04-11 20:00OrtUni Ulm, Hörsaal H20VortragendeFrank Kargl und Stefan Schlott Archiv  Folien: PDF (1.0 MB) Video: 3GPP (41.3 MB) Video: M4V (iPod) (242.0 MB) Video: MP4 (176.0 MB) Video: Ogg Theora (172.8 MB) Audio: Ogg Vorbis (34.2 MB) Audio: MP3 (57.6 MB)    Als kurzfristige Alternative zum ausgefallenen ChaosSeminar zur TkÜV gibt es einen Kurzvortrag mit anschließender Diskussionsmöglichkeit über die &amp;ldquo;biometrischen Pässe&amp;rdquo; und deren Sicherheitsfeatures. Der Vortrag versucht, die Inhalte des Beitrags eines BSI-Mitarbeiters zusammenzufassen, den dieser auf der &amp;ldquo;Conference on Security in Pervasive Computing&amp;rdquo; hielt.</description>
+    </item>
+    
+    <item>
+      <title>Jabber</title>
+      <link>/ccc/chaosseminar/2005_03_jabber/</link>
+      <pubDate>Mon, 14 Mar 2005 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2005_03_jabber/</guid>
+      <description>ThemaJabber Termin2005-03-14 20:00VortragendeFlorian Holzhauer Archiv  Folien: PDF (0.8 MB) Video: MP4 (200.7 MB) Video: Ogg Theora (129.9 MB) Audio: Ogg Vorbis (32.0 MB) Audio: MP3 (66.1 MB)    Aus Frust über die bestehenden Instant Messenger Systeme wird seit 1999 das offene IM-Protokoll &amp;ldquo;Jabber&amp;rdquo; entwickelt, das inzwischen unter dem Namen XMPP RFC-Standard ist. Inzwischen existieren alle möglichen Anwendungen für Jabber, von vernetzten Rollenspielen und Cobrowsing bis hin zu Telefonie-Signalisierung und E-Mail-Protokollen.</description>
+    </item>
+    
+    <item>
+      <title>SemanticWeb</title>
+      <link>/ccc/chaosseminar/2005_02_semanticweb/</link>
+      <pubDate>Mon, 14 Feb 2005 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2005_02_semanticweb/</guid>
+      <description>ThemaSemanticWeb Termin2005-02-14 20:00OrtUni Ulm, Hörsaal H20VortragendeFrank Kargl Archiv  Video: MP4 (175.6 MB) Video: Ogg Theora (154.4 MB) Audio: Ogg Vorbis (27.2 MB) Audio: MP3 (55.6 MB)    Nach der &amp;ldquo;Web-Revolution&amp;rdquo; basteln Berners-Lee und seine Mitstreiter im W3C längst an einem Nachfolger, dem Semantic Web. Ziel ist die Entwicklung von Technologien, mit welchen sich selbsterklärende Dokumente erstellen lassen. Suchmaschinen sollen beispielsweise erkennen können, dass der Begriff &amp;ldquo;Kuchen&amp;rdquo; auf einer Seite über die schwäbische Alb sich auf einen Ort bezieht, während er auf anderen Seiten vielleicht ein stark zuckerhaltiges Lebensmittel beschreibt.</description>
+    </item>
+    
+    <item>
+      <title>(Un)Sicheres Windows am Heim-PC</title>
+      <link>/ccc/chaosseminar/2005_01_unsicheres_windows_am_heim-pc/</link>
+      <pubDate>Mon, 10 Jan 2005 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2005_01_unsicheres_windows_am_heim-pc/</guid>
+      <description>Thema(Un)Sicheres Windows am Heim-PC Termin2005-01-10 20:00VortragendeVolker Birk Archiv  Folien: PDF (0.3 MB) Video: MP4 (212.7 MB) Video: Ogg Theora (150.0 MB) Audio: Ogg Vorbis (49.8 MB) Audio: MP3 (82.1 MB)    Personal Firewalls? Virenscanner? Internet-Security-Paket?
+Das Aufrüsten der Abwehr auf dem PC zuhause geht weiter. Ein Milliardenmarkt entsteht. Aber: sind diese Maßnahmen eigentlich sinnvoll? Stellt sich für den Heimanwender nicht eher die Frage: &amp;ldquo;Ich möchte doch nur E-Mails verschicken und surfen.</description>
+    </item>
+    
+    <item>
+      <title>Personal Firewalls</title>
+      <link>/ccc/chaosseminar/2004_12_personal_firewalls/</link>
+      <pubDate>Mon, 13 Dec 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2004_12_personal_firewalls/</guid>
+      <description>ThemaPersonal Firewalls Termin2004-12-13 20:00VortragendeAlexander Bernauer, Ansgar Wiechers, [Jonathan Häberle](http://dreampulse.de) Archiv  Folien: PDF (0.3 MB) Video: MP4 (176.9 MB) Video: Ogg Theora (152.4 MB) Audio: Ogg Vorbis (31.9 MB) Audio: MP3 (61.3 MB)    Firewalls gelten als Inbegriff der Computersicherheit. Deshalb haben sich clevere Marketingstrategen gedacht man könnte doch für jeden Rechner eine verkaufen.
+Dabei werden die Benutzer bezüglich der Funktionalität getäuscht. Es wird eine Sicherheit versprochen, die eine Personal Firewall prinzipbedingt nicht bringen kann.</description>
+    </item>
+    
+    <item>
+      <title>The Danger of Software Patents / Gefahren der Softwarepatente</title>
+      <link>/ccc/chaosseminar/2004_11_gefahren_der_softwarepatente/</link>
+      <pubDate>Thu, 04 Nov 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2004_11_gefahren_der_softwarepatente/</guid>
+      <description>ThemaThe Danger of Software Patents / Gefahren der Softwarepatente Termin2004-11-04 20:00VortragendeRichard Stallman Archiv  Video: MP4 (138.8 MB) Video: Ogg Theora (92.8 MB) Audio: MP3 (21.5 MB) Audio: Ogg Vorbis (22.4 MB) Video Q&amp;amp;A: AVI (52.9 MB) Video Q&amp;amp;A: MP4 (44.9 MB)    Poster: stallman-plakat-de.pdf
+englischsprachige Ankündigung:
+Forced by the US, Europe is just about to adopt a new form of patents that were illegal up to now: Patents on Software.</description>
+    </item>
+    
+    <item>
+      <title>Computer-Algebra-Systeme</title>
+      <link>/ccc/chaosseminar/2004_10_computer-algebra-systeme/</link>
+      <pubDate>Mon, 11 Oct 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2004_10_computer-algebra-systeme/</guid>
+      <description>ThemaComputer-Algebra-Systeme Termin2004-10-11 20:00VortragendeKatharina Müller Archiv  Folien: PDF (0.7 MB)    Unterlagen: https://ulm.ccc.de/old/chaos-seminar/computeralgebrasysteme/
+Dieser Vortrag gibt einen Einblick in die verschiedensten Computeralgebrasysteme wie Maple, Matlab, Mathematica etc. Aber auch freie Systeme wie MuPAD, GNU Octave und Maxima sollen vorgestellt werden. Mit praktischen Anwendungsbeispielen wird die Syntax und die Handhabung des Systems kurz erläutert und anschließend die Vor- und Nachteile von kommerzieller und freier Software diskutiert.</description>
+    </item>
+    
+    <item>
+      <title>Jugendschutz</title>
+      <link>/ccc/chaosseminar/2004_09_jugendschutz/</link>
+      <pubDate>Mon, 13 Sep 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2004_09_jugendschutz/</guid>
+      <description>ThemaJugendschutz Termin2004-09-13 20:00VortragendeManuela Münchow Archiv Noch keine Aufzeichnungsdateien verfügbar.   Jugendschutz ist gerade im Internet ein heiss diskutiertes Thema, denn oft steht Jugendschutz im Widerspruch zur Meinungs- und Informationsfreiheit. Es gibt viele Jugendliche die das Internet benutzen, aber es ist schwierig festzustellen ob derjenige der ein bestimmtes Angebot nutzen will wirklich (k)ein Jugendlicher ist.
+Der Vortrag stellt die aktuelle Rechtslage (Jugendschutzgesetz und Jugendmedienschutz-Staatsvertrag) vor und beleuchtet die Aktivitäten der Kommission für Jugendmedienschutz (KJM), die im Online-Bereich als zentrale Aufsichtsstelle für den Jugendschutz und den Schutz der Menschenwürde fungiert.</description>
+    </item>
+    
+    <item>
+      <title>Mobile Computing</title>
+      <link>/ccc/chaosseminar/2004_07_mobile_computing/</link>
+      <pubDate>Mon, 12 Jul 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2004_07_mobile_computing/</guid>
+      <description>ThemaMobile Computing Termin2004-07-12 20:00VortragendeFrank Kargl Archiv Noch keine Aufzeichnungsdateien verfügbar.   Unterlagen: http://medien.informatik.uni-ulm.de/lehre/courses/ss04/mobcomp/unterlagen/index.xml
+Der Einsatz von Computern beschränkt sich heute längst nicht mehr nur auf den Arbeitsplatz, Computer und elektronische Kleingeräte werden in einer Vielzahl von Situationen auch mobil eingesetzt. Der Vortrag gibt einen Überblick über Anwendungen, Geräte, Kommunikationssysteme und Softwaresysteme für den Technonomaden, der sich auch weitab der heimischen Bürowelt ein Leben ohne Elektronik nicht mehr vorstellen kann.</description>
+    </item>
+    
+    <item>
+      <title>Geo Informations Systeme</title>
+      <link>/ccc/chaosseminar/2004_06_geo_informations_systeme/</link>
+      <pubDate>Mon, 14 Jun 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2004_06_geo_informations_systeme/</guid>
+      <description>ThemaGeo Informations Systeme Termin2004-06-14 20:00VortragendeMarkus Schaber Archiv  Folien: PDF (0.2 MB)    Unterlagen: http://dontpanic.ulm.ccc.de/~schabi/gis/
+Daten mit räumlicher Zuordnung - vom Routenplaner bis zur Baumbestands-Datenbank - sind nicht nur ein zukunftsträchtiges Feld in der Informatik, sondern bringen auch ihre eigenen Problemstellungen mit sich.
+Dieser Vortrag gibt einen kurzen Überblick über das Gebiet, und stellt einige Techniken, Standards, Programme und Algorithmen vor.</description>
+    </item>
+    
+    <item>
+      <title>XML</title>
+      <link>/ccc/chaosseminar/2004_05_xml/</link>
+      <pubDate>Mon, 10 May 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2004_05_xml/</guid>
+      <description>ThemaXML Termin2004-05-10 20:00VortragendeFrank Kargl Archiv  Folien: PDF (1.3 MB)    Unterlagen: xml.pdf
+Die Extensible Markup Language wird manchmal als Nachfolger von HTML betrachtet. Das ist eigentlich falsch, denn XML ist eine Metasprache, mit der sich konkrete Auszeichnungssprachen wie HTML beschreiben lassen. Fast jedes Datenformat in jüngster Zeit basiert auf XML, seien es Dokumente der neuesten M$ Office Version, Newsfeeds mit RSS oder Programmschnittstellen mit SOAP oder XML-RPC.</description>
+    </item>
+    
+    <item>
+      <title>Peer to Peer Netze</title>
+      <link>/ccc/chaosseminar/2004_04_peer_to_peer_netze/</link>
+      <pubDate>Mon, 05 Apr 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2004_04_peer_to_peer_netze/</guid>
+      <description>ThemaPeer to Peer Netze Termin2004-04-05 20:00VortragendeStefan Schlott Archiv  Folien: PDF (0.2 MB)    Unterlagen: p2p.pdf
+Peer-to-Peer Netze sind seit geraumer Zeit in den Mittelpunkt öffentlicher Diskussionen gerückt. Grund dafür sind vor allem rechtliche Schritte und Werbekampagnen der Musikindustrie gegen die Benutzer der Tauschbörsen sowohl in den USA als auch in Europa. Abgesehen von der Tatsache, daß P2P nicht immer Filesharing bedeuten muß, ist für den Informatiker allerdings die Technik hinter solchen Netzwerken interessanter.</description>
+    </item>
+    
+    <item>
+      <title>CAN Controler Area Network</title>
+      <link>/ccc/chaosseminar/2004_03_can_controler_area_network/</link>
+      <pubDate>Mon, 08 Mar 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2004_03_can_controler_area_network/</guid>
+      <description>ThemaCAN Controler Area Network Termin2004-03-08 20:00VortragendeAlexander Bernauer Archiv  Folien: PDF (0.9 MB)    Das Controler Area Network ist als Busstandard dem normalen Hacker eher unbekannt. Vor allem im Automobilbau ist es jedoch der Standard schlechthin. Im Vortrag wird die Funktionsweise und die Prinzipien erklärt und gezeigt, warum sich CAN für harte Echzeitanwendungen so gut eignet. Am Beispiel des SJA1000 von Phillips wird schließlich eine Möglichkeit vorgestellt, mit dem PC auf einen CAN Bus zuzugreifen.</description>
+    </item>
+    
+    <item>
+      <title>Scalable Vector Graphics</title>
+      <link>/ccc/chaosseminar/2004_02_scalable_vector_graphics/</link>
+      <pubDate>Mon, 09 Feb 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2004_02_scalable_vector_graphics/</guid>
+      <description>ThemaScalable Vector Graphics Termin2004-02-09 20:00VortragendeMarkus Schaber Archiv  Folien: PDF (0.1 MB) Video: MP4 (130.1 MB) Video: Ogg Theora (100.0 MB) Audio: Ogg Vorbis (24.3 MB) Audio: MP3 (41.2 MB)    Unterlagen: http://dontpanic.ulm.ccc.de/~schabi/svg/
+SVG soll nach der Meinung des W3C der zukünftige Standard für Vektor-Grafiken und Multimedia-Inhalte sein. Dieser Vortrag gibt eine Übersicht der Features dieses Web-Grafik-Formates, und stellt einige Beispiele der verfügbaren Software vor.</description>
+    </item>
+    
+    <item>
+      <title>Multimediaformate</title>
+      <link>/ccc/chaosseminar/2004_01_multimedia_formate/</link>
+      <pubDate>Mon, 12 Jan 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2004_01_multimedia_formate/</guid>
+      <description>ThemaMultimediaformate Termin2004-01-12 20:00VortragendeMichael Feiri Archiv  Folien: PDF (0.3 MB) Folien: Quicktime (0.2 MB)    QuickTime, AVI, MPEG, DivX und noch mehr Schlagworte hagelt es einem um die Ohren, doch kaum jemand weiß wie das Ganze funktioniert. Warum spielt mein Player das eine aber nicht das andere? Der Vortrag bring ein wenig Licht ins Dunkel, erklärt was ein Containerformat und was ein Codec ist, erläutert die einzelnen Formate und wie das alles zusammenhängt.</description>
+    </item>
+    
+    <item>
+      <title>Windows Fensterkommunikation</title>
+      <link>/ccc/chaosseminar/2003_12_windows_fensterkommunikation/</link>
+      <pubDate>Mon, 08 Dec 2003 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2003_12_windows_fensterkommunikation/</guid>
+      <description>ThemaWindows Fensterkommunikation Termin2003-12-08 20:00VortragendeVolker Birk Archiv Noch keine Aufzeichnungsdateien verfügbar.   Obwohl Hacker meist die Kommandozeile bevorzugen bieten auch GUIs Interessante Möglichkeiten. Am Beispiel von Microsoft Windows wird mit Codebeispielen gezeigt wie man Nachrichten an Fenster schicken kann und was sich damit anstellen läßt.</description>
+    </item>
+    
+    <item>
+      <title>Information warfare</title>
+      <link>/ccc/chaosseminar/2003_11_information_warfare/</link>
+      <pubDate>Mon, 10 Nov 2003 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2003_11_information_warfare/</guid>
+      <description>ThemaInformation warfare Termin2003-11-10 20:00VortragendeBerend Eggers Archiv Noch keine Aufzeichnungsdateien verfügbar.   Information warfare auch als Cyberwar bekannt, ist die offensive und defensive Gebrauch von Informationen und Informationssystemen zum Nachteil eines Gegners. Im Krieg stirbt die Wahrheit zuerst, sagt eine alte Weisheit, aber vielleicht genügt das ja auch und künftige Kriege finden nur noch auf dem Computerschlachtfeld statt?</description>
+    </item>
+    
+    <item>
+      <title>Softwarepatente</title>
+      <link>/ccc/chaosseminar/2003_10_softwarepatente/</link>
+      <pubDate>Mon, 13 Oct 2003 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2003_10_softwarepatente/</guid>
+      <description>ThemaSoftwarepatente Termin2003-10-13 20:00VortragendeChristian Cremer Archiv  Folien: PDF (0.8 MB)    Patente sollen Erfindern Schutz gewähren, um ihre Leistungen zur Forschung und Entwicklung zu belohnen und für die Umsetzung der neuen Idee in ein Produkt einen Freiraum durch Monopolstellung zu schaffen. Doch bei Kritikern stehen sie im Verdacht, in Wirklichkeit nur ein weiteres Machtmittel für Großkonzerne und ihre Anwälte geworden zu sein.
+Jetzt wird eine Änderung zur Gesetzeslage im Patentschutz für Algorithmen und Computerprogramme in EU-Gremien betrieben und mit der möglichen Einführung dieser sog.</description>
+    </item>
+    
+    <item>
+      <title>distributed net</title>
+      <link>/ccc/chaosseminar/2003_09_distributed_net/</link>
+      <pubDate>Mon, 08 Sep 2003 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2003_09_distributed_net/</guid>
+      <description>Themadistributed net Termin2003-09-08 20:00VortragendeMichael Feiri Archiv  Folien: PDF (1.2 MB) Video: M4V (iPod) (55.8 MB) Video: MP4 (94.6 MB) Video: Ogg Theora (81.3 MB) Audio: MP3 (53.4 MB) Audio: Ogg Vorbis (37.3 MB)    Verteiltes Rechnen im Internet ist seit SETI@Home einer großen Öffentlichkeit bekannt. Das erste große Projekt dieser Art war jedoch distributed.net, welches sich statt mit der Suche nach Aliens mit kryptografischen und mathematischen Projekten beschäftigt.</description>
+    </item>
+    
+    <item>
+      <title>Rasterfahndung</title>
+      <link>/ccc/chaosseminar/2003_07_rasterfahndung/</link>
+      <pubDate>Mon, 14 Jul 2003 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2003_07_rasterfahndung/</guid>
+      <description>ThemaRasterfahndung Termin2003-07-14 20:00VortragendeChristian Hummert Archiv  Folien: PDF (0.2 MB)    Im September 2001 ordneten die Innenminister der Länder eine sog. Rasterfahndung an um nach sog. Schläfern zu suchen, am 21. September 2001 erhielt auch die Universität Ulm eine Verfügung Daten von Studierenden herauszugeben.
+Welche Rechte werden dem LKA und anderen Behörden eingeräumt um unsere Innere Sicherheit mit der Rasterfahndung zu schützen? Wie wird mit den Persönlichkeitsrechten der Menschen umgegangen?</description>
+    </item>
+    
+    <item>
+      <title>Plurix</title>
+      <link>/ccc/chaosseminar/2003_06_plurix/</link>
+      <pubDate>Mon, 02 Jun 2003 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2003_06_plurix/</guid>
+      <description>ThemaPlurix Termin2003-06-02 20:00VortragendeMarkus Schaber Archiv  Folien: PDF (0.3 MB)    Plurix ist ein Forschungs-Betriebssystem das an der Uni Ulm entwickelt wurde. Dabei kamen völlig andere Konzepte zum Zug, als man dies von herkömmlichen Systemen gewohnt ist. Einer der Entwickler von Plurix stellt in diesem Vortrag das System vor.</description>
+    </item>
+    
+    <item>
+      <title>Installation von Debian Linux auf IBM pSeries</title>
+      <link>/ccc/chaosseminar/2003_05_installation_von_debian_linux_auf_ibm_pseries/</link>
+      <pubDate>Mon, 12 May 2003 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2003_05_installation_von_debian_linux_auf_ibm_pseries/</guid>
+      <description>ThemaInstallation von Debian Linux auf IBM pSeries Termin2003-05-12 20:00VortragendeMarkus Schaber, Uli Dangel, Volker Birk Archiv  Folien: PDF (0.2 MB) Video: MP4 (117.5 MB) Video: Ogg Theora (85.9 MB) Audio: Ogg Vorbis (24.9 MB) Audio: MP3 (41.2 MB)    Folien:
+ Markus Schaber: http://dontpanic.ulm.ccc.de/~schabi/pseries/schabi.html Ulrich Dangel: debian-pseries_schula.pdf Volker Birk: HP-Materialien zum Vergleich mit Itanium 2, IBM-Materialien zur p630  IBM macht zwar groß Werbung für Linux, aber auf den etwas größeren Eisen sieht es mit der Umsetzung etwas dürftiger aus als im Marketing.</description>
+    </item>
+    
+    <item>
+      <title>Darwin</title>
+      <link>/ccc/chaosseminar/2003_04_darwin/</link>
+      <pubDate>Mon, 14 Apr 2003 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2003_04_darwin/</guid>
+      <description>ThemaDarwin Termin2003-04-14 20:00VortragendeMichael Feiri Archiv Noch keine Aufzeichnungsdateien verfügbar.   Nachdem im ersten Teil die GUI basierenden Teile und allgemeines Marketing vorherrschten kommt diesmal der technischere Teil.
+Usermanagement, hfs+-filesystem, Kommandozeile, Single User Mode, Open Firmware und netinfo sind die Schlagworte. Jedenfall kein GUI - versprochen.</description>
+    </item>
+    
+    <item>
+      <title>Cybercrime</title>
+      <link>/ccc/chaosseminar/2003_03_cybercrime/</link>
+      <pubDate>Mon, 10 Mar 2003 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2003_03_cybercrime/</guid>
+      <description>ThemaCybercrime Termin2003-03-10 20:00VortragendeSven Übelacker Archiv  Folien: PDF (3.0 MB)    Die Bedrohung durch Cybercrime wird in den Medien immer wieder nebulös als die Gefahr für Unternehmen dargestellt und meist gleichzeitig wird eine Verschärfung des Strafrechts als einziger Lösungsweg erklärt. Aber wird dadurch nicht die Wahrnehmung anderer Gefahren beeinträchtigt? Welche Rolle spielen Innentäter?
+Der Vortrag stellt die neuen Formen der Kriminalität vor und beschreibt Ansätze von staatlicher Seite und den Einfluß von Unternehmenskulturen auf die betriebliche Sicherheit.</description>
+    </item>
+    
+    <item>
+      <title>Hacker</title>
+      <link>/ccc/chaosseminar/2003_02_hacker/</link>
+      <pubDate>Mon, 17 Feb 2003 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2003_02_hacker/</guid>
+      <description>ThemaHacker Termin2003-02-17 20:00VortragendeFrank Kargl Archiv  Folien: PDF (2.9 MB)    Die Bezeichnung «Hacker» ist mit Bedeutungen geradezu überladen. Vom bösen Datendieb bis hin zum Robin Hood des Internet reicht die Bandbreite der Vorstellungen. Dieser Vortrag gibt einen Überblick über die Wurzeln und die bewegte Geschichte der Hackerbewegung, bringt Licht in verwandte Begriffe wie Phreaker oder Cracker und erläutert insbes. aus Sicht des CCC, welche Weltanschauung Hacker vertreten.</description>
+    </item>
+    
+    <item>
+      <title>Mac OS X</title>
+      <link>/ccc/chaosseminar/2003_01_mac_os_x/</link>
+      <pubDate>Mon, 13 Jan 2003 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2003_01_mac_os_x/</guid>
+      <description>ThemaMac OS X Termin2003-01-13 20:00VortragendeMichael Feiri Archiv Noch keine Aufzeichnungsdateien verfügbar.   Daß es nicht immer Microsoft sein muß wissen wir ja inzwischen. MacOS X (sprich Mac OS zehn) ist eine bunte Mischung aus einem BSD Unix, der Oberfläche von MacOS und einigen anderen lustigen Eigenschaften. Der Vortrag erläutert die Eigenheiten von Dateisystem, Prozessen, Nutzerverwaltung und anderen Betriebssystemaufgaben im Vergleich mit seinen nahen Verwandten MacOS 9, Unix und Nextstep.</description>
+    </item>
+    
+    <item>
+      <title>Chemoinformatik</title>
+      <link>/ccc/chaosseminar/2002_12_chemoinformatik/</link>
+      <pubDate>Mon, 09 Dec 2002 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2002_12_chemoinformatik/</guid>
+      <description>ThemaChemoinformatik Termin2002-12-09 20:00VortragendeAlexander Stirzel Archiv Noch keine Aufzeichnungsdateien verfügbar.   Im Bereich der Chemie und Pharmazie bildet sich langsam ein neues Aufgabenfeld. Chemoinformatik bedeutet, Methoden aus der Informatik und Programmierung zu nutzen, um Aufgabenstellungen in der Chemie oder auch Pharmazie zu lösen oder dabei zu unterstützen. Dabei kann in mehrere Bereiche unterteilt werden: Chemoinformatik im eigentlichen Sinne, um Chemiker bei ihrer Arbeit direkt zu unterstützen, aber auch das breite Feld der Computational Chemistry, mit deren Hilfe Eigenschaften von Stoffen errechnet werden können, ohne praktische Versuche durchführen zu müssen.</description>
+    </item>
+    
+    <item>
+      <title>Kryptographie und Kryptanalyse</title>
+      <link>/ccc/chaosseminar/2002_11_kryptographie_und_kryptanalyse/</link>
+      <pubDate>Mon, 11 Nov 2002 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2002_11_kryptographie_und_kryptanalyse/</guid>
+      <description>ThemaKryptographie und Kryptanalyse Termin2002-11-11 20:00VortragendeAlexander Bernauer Archiv  Folien: PDF (0.1 MB)    ein geschichtlicher Abriß Von der Cäsar Chiffre über Vigenere, Enigma bis hin zu praktisch sicheren Verfahren wie DES und RSA, haben findige Kryptographen immer neue Verfahren entwickelt die aber von nicht weniger findigen Kryptologen immer wieder gebrochen wurden. Der Vortrag beschreibt welche Verfahren nacheinander, welche historische Rolle sie gespielt haben, und wie man sie knacken kann.</description>
+    </item>
+    
+    <item>
+      <title>Rollenspiele</title>
+      <link>/ccc/chaosseminar/2002_10_rollenspiele/</link>
+      <pubDate>Mon, 14 Oct 2002 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2002_10_rollenspiele/</guid>
+      <description>ThemaRollenspiele Termin2002-10-14 20:00VortragendeChristian Hellinger Archiv  Folien: PDF (1.1 MB)    «Mandorin schleicht sich ganz leise durch das Gebüsch, in Richtung des Hauses. Kaum scheinen seine in grünes Leder gehüllten Füße den Boden zu berühren, vorsichtig teilen die schmalen Hände die Äste vor ihm, um sie nicht zu knicken&amp;hellip;»
+«Spielleiter, ich hau mal zu, ok?»
+«Mist, jetzt fehlen mir immer noch 50 XP zu nächsten Stufe»
+«Warum darf ich keine Wizards ärgern?</description>
+    </item>
+    
+    <item>
+      <title>Lauschangriff auf die Hardware</title>
+      <link>/ccc/chaosseminar/2002_09_lauschangriff_auf_die_hardware/</link>
+      <pubDate>Mon, 09 Sep 2002 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2002_09_lauschangriff_auf_die_hardware/</guid>
+      <description>ThemaLauschangriff auf die Hardware Termin2002-09-09 20:00VortragendeBerend Eggers Archiv Noch keine Aufzeichnungsdateien verfügbar.   Von Tastengeistern und Teekannen Während softwarebasierte Angriffe auf sensible Daten wie z.B. Trojaner oder Sniffer relativ bekannt sind, sind hardwarebasierte Angriffe sowohl in der Öffentlichkeit als auch in der Hacker/Security-Community noch ziemlich unbekannt.
+Der Vortrag soll einen Überblick über Angriffsmöglichkeiten geben, vom abgezweigten Netzwerkkabel bis zur kompromittierenden Abstrahlung von Monitoren.
+Ausserdem wird erklärt, was es mit Begriffen wie Keyghost und Teapot auf sich hat, warum LEDs gefährlich sein können und warum Nicky Scarfo auf der falschen Restaurantseite saß.</description>
+    </item>
+    
+    <item>
+      <title>Obscurity or security?</title>
+      <link>/ccc/chaosseminar/2002_07_obscurity_or_security/</link>
+      <pubDate>Mon, 08 Jul 2002 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2002_07_obscurity_or_security/</guid>
+      <description>ThemaObscurity or security? Termin2002-07-08 20:00VortragendeVolker Birk Archiv Noch keine Aufzeichnungsdateien verfügbar.   Ein Einführungsvortrag zum Thema Sicherheit. Geeignet auch für Laien und Leute, die sich noch nicht so sehr mit Sicherheit beschäftigt haben. Unter anderem wird erklärt, warum es keine so gute Idee ist Sicherheit durch Geheimhaltung der Sicherungsverfahren erreichen zu wollen (security by obscurity).</description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>/ccc/chaosseminar/2002_06_python/</link>
+      <pubDate>Mon, 10 Jun 2002 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2002_06_python/</guid>
+      <description>ThemaPython Termin2002-06-10 20:00VortragendeMarkus Schaber Archiv  Folien: PDF (0.1 MB)    Python ist nicht nur eine Schlange sondern auch eine objektorientierte, interpretierte Programmiersprache. Ein kleiner Überblick über die Skriptsprache, die im Moment immer mehr Anhänger gewinnt, und dabei gegen Java, C/C++, Perl, Ruby, Lisp, Tcl, PHP und andere antritt.</description>
+    </item>
+    
+    <item>
+      <title>Biometrie</title>
+      <link>/ccc/chaosseminar/2002_05_biometrie/</link>
+      <pubDate>Mon, 13 May 2002 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2002_05_biometrie/</guid>
+      <description>ThemaBiometrie Termin2002-05-13 20:00VortragendeVolker Birk Archiv Noch keine Aufzeichnungsdateien verfügbar.   Fingerabdrücke statt Passwörter, Smartcards statt Schlüssel so soll die Zukunft der Identitätsprüfung aussehen. Der Vortrag behandelt die Identifikation durch körperliche Merkmale am Beispiel von Fingerabdrücken. Einen Schwerpunkt bildet dabei die mathematische Modellbildung bei der Weiterverarbeitung der Daten weniger die eigentliche Datenerfassung.</description>
+    </item>
+    
+    <item>
+      <title>Weird Programming</title>
+      <link>/ccc/chaosseminar/2002_04_weird_programming/</link>
+      <pubDate>Mon, 08 Apr 2002 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2002_04_weird_programming/</guid>
+      <description>ThemaWeird Programming Termin2002-04-08 20:00VortragendeMarkus Schaber Archiv  Folien: PDF (0.3 MB)    Brainfuck, Intercal, Befunge und Java2k sind Programmiersprachen, die «nur zum Spaß» entwickelt wurden. Diese und weitere amüsante «Blüten» der Programmierkunst werden in diesem Vortrag kurz vorgestellt.</description>
+    </item>
+    
+    <item>
+      <title>IPv6</title>
+      <link>/ccc/chaosseminar/2002_03_ipv6/</link>
+      <pubDate>Mon, 11 Mar 2002 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2002_03_ipv6/</guid>
+      <description>ThemaIPv6 Termin2002-03-11 20:00VortragendeFrank Kargl Archiv  Folien: PDF (1.1 MB)    IPv6 die nächste Generation des Internet! Außer daß es mehr Adressen gibt wissen aber viele nichts darüber. Seit Masquerading in Mode gekommen ist ist der Adressmangel auch nicht mehr so dringend und IPv6 aus den Schlagzeilen geraten. Dabei bietet IPv6 aber durchaus auch andere Features was Routing und Sicherheit anbelangt. Der Vortrag bietet darüberhinaus einen Einblick in den aktuellen Stand der Entwicklung und erläutert, wie man seinen eigenen Rechner an das IPv6 Testnetz 6-Bone anbindet.</description>
+    </item>
+    
+    <item>
+      <title>Angewandte Kryptographie</title>
+      <link>/ccc/chaosseminar/2002_02_angewandte_kryptographie/</link>
+      <pubDate>Mon, 11 Feb 2002 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2002_02_angewandte_kryptographie/</guid>
+      <description>ThemaAngewandte Kryptographie Termin2002-02-11 20:00VortragendeMarten Karl Archiv  Folien: PDF (0.6 MB)    Allerorten ist von Angriffen auf sensible Daten (Passworte, Kontendaten, Kreditkartennummern, etc.) zu hören. Da dieses Thema aber gar nicht so neu ist, gibt es verschiedene Verfahren, um solche Daten zu schützen.
+Die Anwendung solcher Verfahren zum Schutz der Daten bei der Nutzung vernetzter Rechnersystem steht im Mittelpunkt des Vortrages. Es werden bekannte Sicherungsverfahren (SSL, SSH, kerberos) beispielhaft betrachtet und bestehende Probleme behandelt.</description>
+    </item>
+    
+    <item>
+      <title>Bluetooth</title>
+      <link>/ccc/chaosseminar/2002_01_bluetooth/</link>
+      <pubDate>Mon, 14 Jan 2002 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2002_01_bluetooth/</guid>
+      <description>ThemaBluetooth Termin2002-01-14 20:00VortragendeStefan Ribhegge Archiv Noch keine Aufzeichnungsdateien verfügbar.   Abgespecktes Funklan oder Kommunikationsstandard der Zukunft für Peripheriegeräte? Bei Bluetooth handelt es sich um einen Kurzstreckenfunk Standard, der im 2,4 GHz Band (ISM-Band) die problemlose Verbindung von elektronischen Geräten untereinander ermöglicht. Der Vortrag gibt eine Überblick über die Materie und die aktuellen Entwicklungen in diesem Bereich.</description>
+    </item>
+    
+    <item>
+      <title>LAMP</title>
+      <link>/ccc/chaosseminar/2001_12_lamp/</link>
+      <pubDate>Mon, 10 Dec 2001 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2001_12_lamp/</guid>
+      <description>ThemaLAMP Termin2001-12-10 20:00VortragendeBjörn Wiedersheim Archiv Noch keine Aufzeichnungsdateien verfügbar.   Im Zeitalter des E-Commerce sind datenbankbasierte Webserver nicht nur beim CCC aktuell. Werkzeuge dafür sind neben dem Betriebssystem und dem Webserver eine Datenbank und eine geeignete Skriptsprache. Die klassische Open Source Version besteht aus der Kombination Linux, Apache, MySQL, PHP oder kurz LAMP. Der Vortrag gibt einen Überblick über die verwendeten Programme und deren Zusammenwirken, und stellt exemplarisch mögliche Einsatzgebiete datenbankbasierter Webserver vor.</description>
+    </item>
+    
+    <item>
+      <title>TKÜV</title>
+      <link>/ccc/chaosseminar/2001_11_tk%C3%BCv/</link>
+      <pubDate>Mon, 12 Nov 2001 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2001_11_tk%C3%BCv/</guid>
+      <description>ThemaTKÜV Termin2001-11-12 20:00VortragendeVolker Birk Archiv Noch keine Aufzeichnungsdateien verfügbar.   Folien: http://www.auchdieserschwachsinnmussinsinternet.de/tkuev-nein.html
+Kriegen wir den Überwachungsstaat, den wir nicht wollen, oder brauchen wir mehr Überwachung damit die Milzbranderreger in Zukunft nicht per E-mail kommen? Die Telekomunikationsüberwachungsverordung ist die dritte Stufe einer gesetzlichen Regelung: Das Grundgesetz garantiert ein Grundrecht auf Post- und Fernmeldegeheimnis allerdings nicht ohne Ausnahme, das nähere regelt ein Bundesgesetz in diesem Fall das TKG und das G10 Gesetz.</description>
+    </item>
+    
+    <item>
+      <title>Datenbanken</title>
+      <link>/ccc/chaosseminar/2001_10_datenbanken/</link>
+      <pubDate>Mon, 08 Oct 2001 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2001_10_datenbanken/</guid>
+      <description>ThemaDatenbanken Termin2001-10-08 20:00VortragendeMarkus Schaber Archiv  Folien: PDF (0.2 MB)    was ist das? Datenbanken sind das Herz vieler Computeranwendungen, vom Internet-Shop bis zur Adresskartei. Dieser Vortrag stellt einige verwendete Techniken und Schlagwörter, wie B-Bäume, relational und objektorientiert vor, und gibt einen kleinen Überblick über Vergangenheit, Gegenwart und Zukunft.</description>
+    </item>
+    
+    <item>
+      <title>Wireless Security</title>
+      <link>/ccc/chaosseminar/2001_09_wireless_security/</link>
+      <pubDate>Mon, 10 Sep 2001 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2001_09_wireless_security/</guid>
+      <description>ThemaWireless Security Termin2001-09-10 20:00VortragendeFrank Kargl Archiv  Folien: PDF (0.8 MB)    Daß Funknetze unsicher sind konnte man bereits im &amp;ldquo;Spiegel&amp;rdquo; nachlesen. Spione und Saboteure betreiben jetzt &amp;ldquo;War Driving&amp;rdquo; und greifen Krankenhäuser an, die ihre Patientendaten unverschlüsselt in die Welt blasen, so das Horrorszenario der Journalisten. Begriffe wie &amp;ldquo;Hidden Networks&amp;rdquo; und &amp;ldquo;Wire equivalent Privacy&amp;rdquo; verwirren oft mehr als sie weiterhelfen. Der Vortrag versucht aufzuklären und einen Überblick über vorhandene und zukünftige Sicherheitsmechanismen in drahtlosen Netzen zu geben.</description>
+    </item>
+    
+    <item>
+      <title>.NET</title>
+      <link>/ccc/chaosseminar/2001_08_.net/</link>
+      <pubDate>Mon, 13 Aug 2001 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2001_08_.net/</guid>
+      <description>Thema.NET Termin2001-08-13 20:00VortragendeVolker Birk Archiv  Folien: PDF (1.0 MB)    Eine Programmiersprache (C#)? Vaporware? Ein XML-basierter Web-Service? Eine Alternative zu CORBA oder die ultimative Datenschutzkatastrophe? Microsofts .NET ist ein bißchen von allem und noch mehr. Der Vortrag versucht einen kritischen Überblick über die verworrene Informationen die aus verschiedenen Ecken kommen zu geben.</description>
+    </item>
+    
+    <item>
+      <title>Zerstörungsfreie Schloßöffnung</title>
+      <link>/ccc/chaosseminar/2001_07_lockpicking/</link>
+      <pubDate>Mon, 09 Jul 2001 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2001_07_lockpicking/</guid>
+      <description>ThemaZerstörungsfreie Schloßöffnung Termin2001-07-09 20:00VortragendeBerend Eggers (Sportsfreunde der Sperrtechnik) Archiv Noch keine Aufzeichnungsdateien verfügbar.   Skydiving ist out und nach Kickboards kräht kein Hahn mehr, der neue Funsport heißt Lockpicking! Das zerstörungsfreie Öffnen von Schlössern bietet Spiel, Spaß und Spannung in einem.
+Der Vortrag behandelt moderne Schließzylinder, wie sind sie aufgebaut, wie funktionieren sie und warum und wie ist es möglich, sie ohne den passenden Schlüssel zu öffnen. Anschließend gibt es die Möglichkeit, das Gelernte praktisch umzusetzen, Übungswerkzeug und anfängertaugliche Übungsschlösser stehen dafür zur Verfügung.</description>
+    </item>
+    
+    <item>
+      <title>Linux Security</title>
+      <link>/ccc/chaosseminar/2001_02_linux_security/</link>
+      <pubDate>Mon, 19 Feb 2001 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2001_02_linux_security/</guid>
+      <description>ThemaLinux Security Termin2001-02-19 20:00VortragendeBenjamin Heitmann Archiv  Folien: PDF (2.1 MB)    Linux wird heutzutage an vielen sicherheitskritischen Stellen eingesetzt, sei es als Server für Web- oder E-Mail-Verkehr, als Firewallsystem etc. Der Vortrag gibt einen Überblick über Stärken und Schwächen dieses Betriebssystems im Hinblick auf die Rechner- und Netzwerksicherheit.</description>
+    </item>
+    
+    <item>
+      <title>Kryptographie</title>
+      <link>/ccc/chaosseminar/2001_01_kryptographie/</link>
+      <pubDate>Mon, 29 Jan 2001 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2001_01_kryptographie/</guid>
+      <description>ThemaKryptographie Termin2001-01-29 20:00VortragendeStefan Schlott Archiv  Folien: PDF (0.3 MB)    Verschluesselung ist aus der heutigen EDV nicht mehr wegzudenken. EC-Karten, Online Banking, Secure Shell, SSL: alles basiert auf (mehr oder weniger guten) kryptographischen Verfahren. Der Vortrag gibt einen Einstieg in die Grundlagen und geht dann weiter zu aktuellen Entwicklungen wie AES.</description>
+    </item>
+    
+    <item>
+      <title>MANET</title>
+      <link>/ccc/chaosseminar/2000_12_manet/</link>
+      <pubDate>Mon, 11 Dec 2000 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2000_12_manet/</guid>
+      <description>ThemaMANET Termin2000-12-11 20:00VortragendeFrank Kargl Archiv  Folien: PDF (1.3 MB)    Mobile Ad-hoc Networks (kurz MANETs) stellen eine relativ junge Form der Vernetzung dar. Dabei schliessen sich Geraete in Funknetzen dynamisch zu größeren Einheiten zusammen und leiten den Verkehr selbständig zwischen sich weiter. Basisstationen und Festnetze werden damit bis auf wenige Übergangspunkte weitestgehend überflüssig. Die Anforderungen an das Routing steigen auf Grund der Dynamik dieser Netze allerdings gewaltig an.</description>
+    </item>
+    
+    <item>
+      <title>Java Intro</title>
+      <link>/ccc/chaosseminar/2000_09_java_intro/</link>
+      <pubDate>Mon, 04 Sep 2000 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2000_09_java_intro/</guid>
+      <description>ThemaJava Intro Termin2000-09-04 20:00VortragendeFrank Kargl Archiv  Folien: PDF (0.4 MB)    Java ist mehr als eine Programmiersprache. Java ist ein Phänomen, dem selbst die Kritiker zugestehen, dass es im Bereich der Objektorientierten Programmierung und im Hinblick auf die Plattformunabhängigkeit von Programmen einiges bewegt hat. Dieser Vortrag gibt einen Überblick über die wesentlichen Komponenten der Java 2 Plattform, geht auf die Besonderheiten ein, die Java von anderen Programmiersprachen unterscheidet und ist somit eine ideale Vorbereitung auf die beim nächsten Mal folgende Diskussion.</description>
+    </item>
+    
+    <item>
+      <title>LKA</title>
+      <link>/ccc/chaosseminar/2000_07_02_lka/</link>
+      <pubDate>Mon, 17 Jul 2000 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2000_07_02_lka/</guid>
+      <description>ThemaLKA Termin2000-07-17 20:00Vortragende Archiv Noch keine Aufzeichnungsdateien verfügbar.   Ein Vertreter des LKA Baden-Württemberg wird aus Sicht der Polizei Informationen zu folgenden Themen liefern:
+-die Netzwerkfahndung des LKA
+ Gefahrenquellen/Kriminalität im Internet Verhalten bei Auffinden von strafbaren Inhalten Verantwortlichkeit von Anbietern/Diensteanbietern  Anschliessend wird ausreichend Gelegenheit zu Diskussion bleiben. Da gerade im Bereich der Internet-Kriminalität eine weit verbreitete Unsicherheit zu Fragen des Rechts und der Strafverfolgung besteht, bietet sich hier die Möglichkeit, sich direkt und umfassend zu informieren und die eigenen Meinungen und Standpunkte zu diskutieren.</description>
+    </item>
+    
+    <item>
+      <title>E-Commerce Sicherheit</title>
+      <link>/ccc/chaosseminar/2000_07_e-commerce_sicherheit/</link>
+      <pubDate>Mon, 03 Jul 2000 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2000_07_e-commerce_sicherheit/</guid>
+      <description>ThemaE-Commerce Sicherheit Termin2000-07-03 20:00VortragendeVolker Birk Archiv Noch keine Aufzeichnungsdateien verfügbar.   Folien: http://ulm.ccc.de/old/chaos-seminar/e-commerce-security/
+E-Commerce bzw. E-Business, wie es mittlerweile in den Broschüren der großen Softwarehäuser heißt, ist momentan eines der Lieblingsthemen von Unternehmensberatern, Software-Herstellern und IT-Presse. Kaum eine Firma, die ihr Produkt nicht mit diesen Schlagworten schmückt. Schaut man sich die Bilanzen von Amazon &amp;amp; Co. mal genauer an, so sieht man recht deutlich, dass längst noch nicht alles Gold ist, was glänzt.</description>
+    </item>
+    
+    <item>
+      <title>Accessibility Design</title>
+      <link>/ccc/chaosseminar/2000_06_accessibility_design/</link>
+      <pubDate>Mon, 05 Jun 2000 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2000_06_accessibility_design/</guid>
+      <description>ThemaAccessibility Design Termin2000-06-05 20:00VortragendeMarkus Schaber Archiv  Folien: PDF (0.3 MB)    Bunt und flippig ist &amp;ldquo;in&amp;rdquo; im Netz. Je neuer das Plugin, je bunter die Bilder, je flippiger die Applets, desto besser die Webseite. Daß allerdings viele potentielle Besucher diese Seiten aus verschiedenen Gründen gar nicht betrachten können, ist &amp;ldquo;die dunkle Seite der Macht&amp;rdquo;. Diese &amp;ldquo;Behinderungsgründe&amp;rdquo; beginnen bei riesigen Datenmengen, deren Übertragung keiner bezahlen will, und hören noch lange nicht damit auf, daß ein Internet-Handy selten einen 21-Zoll-Bildschirm eingebaut hat.</description>
+    </item>
+    
+    <item>
+      <title>Corba</title>
+      <link>/ccc/chaosseminar/2000_05_corba/</link>
+      <pubDate>Mon, 08 May 2000 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/2000_05_corba/</guid>
+      <description>ThemaCorba Termin2000-05-08 20:00VortragendeFrank Kargl Archiv  Folien: PDF (0.4 MB)    Im Bereich verteilter Anwendungen hat sich in den letzten Jahren ein Paradigmenwechsel vollzogen. Anstelle der Kommunikation über Sockets und selbstentwickelte Protokolle bzw. der klassischen Remote-Procedure Calls wird vermehrt Objektorientierte Middleware und hier ganz besonders die Common Objekt Request Broker Architecture eingesetzt. Dieser Vortrag versucht, einen Überblick über CORBA zu geben und liefert auch erste Einblicke in Dienste, Programmierung und Anwendungsgebiete.</description>
+    </item>
+    
+    <item>
+      <title>Routing im Internet</title>
+      <link>/ccc/chaosseminar/1999_09_routing_im_internet/</link>
+      <pubDate>Mon, 06 Sep 1999 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/1999_09_routing_im_internet/</guid>
+      <description>ThemaRouting im Internet Termin1999-09-06 20:00VortragendeFrank Kargl Archiv  Folien: PDF (0.5 MB)    Dieser Vortrag, der sich eher an den fortgeschrittenen Internet-Nutzer wendet, erklärt wie die IP Pakete ihren Weg im globalen Internet finden, ohne sich dabei zu verlaufen. Es wird der Aufbau des weltweiten Netzwerks gezeigt und verschiedene Routingprotokolle wie RIP, OSPF oder BGP werden vorgestellt und erklärt. Weiterhin werden Organisationen vorgestellt, die sich mit dem Management des Internet befassen (Internic, Ripe usw.</description>
+    </item>
+    
+    <item>
+      <title>Der CCC</title>
+      <link>/ccc/chaosseminar/1999_07_der_ccc/</link>
+      <pubDate>Mon, 05 Jul 1999 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/1999_07_der_ccc/</guid>
+      <description>ThemaDer CCC Termin1999-07-05 20:00VortragendeFrank Kargl Archiv Noch keine Aufzeichnungsdateien verfügbar.   Chaos im Computer Seit 1981 gibt es den Chaos Computer Club und seit dieser Zeit hat er die Kommunikations- und Medienlandschaft in Deutschland aber auch international deutlich mitgeprägt. Schlagworte wie HASPA- und NASA-Hack sind auch Nicht-Fachleuten geläufig. Daneben befaßt sich der CCC seit Jahren mit den Auswirkungen von Technologien auf die Gesellschaft und auf jeden Einzelnen. Verschiedene Studien zu Themen wie Datenschutz oder Zensur im Internet zeugen davon genauso, wie Gutachten bei EC-Kartenprozessen uvm.</description>
+    </item>
+    
+    <item>
+      <title>Spam</title>
+      <link>/ccc/chaosseminar/1999_06_spam/</link>
+      <pubDate>Mon, 14 Jun 1999 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/1999_06_spam/</guid>
+      <description>ThemaSpam Termin1999-06-14 20:00VortragendeFramstag Archiv  Folien: PDF (0.5 MB)    wie schütze ich mich - wie und wo beschwere ich mich? Spams, also E-Mails oder News-Postings, die unaufgefordert an eine Vielzahl von Internet-Benutzern verschickt werden und meist schnellen Reichtum oder viele nackte Frauen versprechen, stellen heute eine der größten Plagen im Internet dar. Obwohl viele Staaten derartige Aktivitäten mittlerweile für rechtswidrig erklären, wird das Spam-Aufkommen eher größer als kleiner.</description>
+    </item>
+    
+    <item>
+      <title>Best of Internet Security</title>
+      <link>/ccc/chaosseminar/1999_05_best_of_internet_security/</link>
+      <pubDate>Mon, 03 May 1999 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/1999_05_best_of_internet_security/</guid>
+      <description>ThemaBest of Internet Security Termin1999-05-03 20:00VortragendeFrank Kargl Archiv Noch keine Aufzeichnungsdateien verfügbar.   Wieder etwas für die versierteren Internet-Reisenden. Der Vortrag beschäftigt sich mit aktuellen Sicherheitsproblemen, erklärt grundsätzliche Mechanismen wie Buffer Overflows und Probleme bei Netzwerkprotokollen. Auch auf aktuelle Virenprobleme werden wir kurz eingehen. Kurzum: es geht um alles was Systemverwaltern Kopfzerbrechen und Hackern Spaß macht. Dabei geht es aber weniger um Kochrezepte für sog. Script-Kiddies, sondern um Prinzipien und das &amp;ldquo;Big-Picture&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Die Netiquette - wie verhalte ich mich im Internet</title>
+      <link>/ccc/chaosseminar/1999_04_die_netiquette_-_wie_verhalte_ich_mich_im_internet/</link>
+      <pubDate>Mon, 12 Apr 1999 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/1999_04_die_netiquette_-_wie_verhalte_ich_mich_im_internet/</guid>
+      <description>ThemaDie Netiquette - wie verhalte ich mich im Internet Termin1999-04-12 20:00VortragendeJürgen Dollinger Archiv  Folien: PDF (0.0 MB)    Die Zahl der Internet-User nimmt dramatisch zu. Doch vielen Anfänger fehlt es an der Zeit, sich in Ruhe mit den Gepflogenheiten dieses für sie neuen Mediums vertraut zu machen. Geblendet von den Hochglanz-Seiten der Hersteller, von bunten Webchats und Gigabyte an downloadbaren Programmen, vergessen sie nur allzuoft,
+ daß hinter den oft anonym agierenden Kommunikationspartnern auch Menschen stecken, die man durch sein Verhalten vor den Kopf stößt.</description>
+    </item>
+    
+    <item>
+      <title>Die Geschichte des Internet</title>
+      <link>/ccc/chaosseminar/1999_03_die_geschichte_des_internet/</link>
+      <pubDate>Mon, 01 Mar 1999 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/1999_03_die_geschichte_des_internet/</guid>
+      <description>ThemaDie Geschichte des Internet Termin1999-03-01 20:00VortragendeFrank Kargl Archiv  Folien: PDF (0.2 MB)    Immerhin schon ein gutes viertel Jahrhundert alt, ist das Internet erst in den letzten Jahren in das allgemeine öffentliche Interesse gerückt. Doch bereits seit über 25 Jahren arbeiten Wissenschaftler und Techniker an diesem globalen Netzwerk. In dieser Zeit haben sich die Zahl der Nutzer und angeschlossenen Rechner etwa jedes Jahr verdoppelt, ein Phänomen, welches es in dieser Form noch bei keiner von Menschen geschaffenen Technik gegeben hat.</description>
+    </item>
+    
+    <item>
+      <title>Es muss nicht immer Microsoft sein</title>
+      <link>/ccc/chaosseminar/1999_02_es_muss_nicht_immer_microsoft_sein/</link>
+      <pubDate>Mon, 01 Feb 1999 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/1999_02_es_muss_nicht_immer_microsoft_sein/</guid>
+      <description>ThemaEs muss nicht immer Microsoft sein Termin1999-02-01 20:00VortragendeVolker Birk Archiv  Folien: PDF (0.3 MB)    Wenn heute jemand Betriebssystem sagt, meint er in der Regel einen Vertreter der Microsoft Windows-Familie. Das es daneben noch viele Alternativen gibt, die oft für ein Bruchteil des Geldes (wenn nicht gar umsonst) zu haben sind, wissen nur wenige. Auch die Ausstattung mit Standard-Software muß sich hinter dem großen Bruder aus Redmond nicht verstecken: egal ob komplette Office-Suite oder WWW-Browser, Spiel oder Astronomieprogramm, für Systeme wie Linux sind qualitativ hochwertige Anwendungen verfügbar, die der private Anwender oft sogar kostenlos nutzen darf.</description>
+    </item>
+    
+    <item>
+      <title>Die Tour de Web</title>
+      <link>/ccc/chaosseminar/1999_01_die_tour_de_web/</link>
+      <pubDate>Mon, 04 Jan 1999 00:00:00 +0000</pubDate>
+      
+      <guid>/ccc/chaosseminar/1999_01_die_tour_de_web/</guid>
+      <description>ThemaDie Tour de Web Termin1999-01-04 20:00VortragendeFrank Kargl Archiv  Folien: PDF (0.2 MB)    Kaum ein Internet-User macht sich bei seiner täglichen Klickerei durch hunderte von Webseiten Gedanken, was im Hintergrund alles an technischen Vorgängen ablaufen muß, damit er rund um den Globus nach neuesten Informationen suchen kann. Routing, DNS, TCP/IP oder Ports sind nur einige der Schlagworte, die in diesem Zusammenhang immer wieder auftauchen. Dieser Vortrag gibt in für Anfänger verständlicher Form einen Überblick über das komplexe Zusammenspiel der verschiedenen Komponenten vom Klick bis zur fertigen Seite.</description>
+    </item>
+    
+  </channel>
+</rss>
